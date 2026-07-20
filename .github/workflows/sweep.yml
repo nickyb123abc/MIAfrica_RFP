@@ -1,0 +1,61 @@
+# Save at:  .github/workflows/sweep.yml
+name: Daily sweep + scoring
+
+on:
+  schedule:
+    - cron: "0 5 * * *"          # daily 05:00 UTC
+  workflow_dispatch:
+    inputs:
+      rescore_legacy:
+        description: "Also re-score legacy items (acceptance test)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect (scraper v3)
+        env:
+          UNGM_CLIENT_ID: ${{ secrets.UNGM_CLIENT_ID }}
+          UNGM_CLIENT_SECRET: ${{ secrets.UNGM_CLIENT_SECRET }}
+        run: python scraper.py
+
+      - name: Score (fit model)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESCORE_LEGACY: ${{ inputs.rescore_legacy }}
+        run: python score_new.py
+
+      - name: Commit results
+        run: |
+          git config user.name  "rfp-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data REPORT.md
+          git diff --cached --quiet || git commit -m "Sweep $(date -u +%F)"
+          git push
+
+      - name: Open issue for new items
+        if: ${{ hashFiles('data/new_items.md') != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "New opportunities — $(date -u +%F)" --body-file data/new_items.md
+
+      - name: Open issue for broken sources
+        if: ${{ hashFiles('data/broken_sources.md') != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Source health alert — $(date -u +%F)" --body-file data/broken_sources.md

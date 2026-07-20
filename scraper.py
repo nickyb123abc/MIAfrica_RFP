@@ -147,6 +147,20 @@ def src_impactfunding():
 
 def src_terraviva():
     url = "https://www.terravivagrants.org/category/cross-cutting/"
+    try:  # WordPress category feed is far more stable than the HTML
+        feed = feedparser.parse(url.rstrip("/") + "/feed/")
+        if feed.entries:
+            items = []
+            for e in feed.entries:
+                blob = f"{e.get('title','')} {e.get('summary','')}"
+                m = re.search(r"(?:deadline|closing)[^.]{0,60}?(\d{1,2}\s+\w+\s+\d{4}|\d{1,2}-\w{3}-\d{4})", blob, re.I)
+                items.append({"title": e.title[:220], "issuer": "", "link": e.link,
+                              "deadline_raw": m.group(1) if m else "",
+                              "countries": ", ".join(hits(blob, COUNTRIES_LC)[:4]),
+                              "source": "Terra Viva Grants"})
+            return items
+    except Exception as ex:
+        print(f"[terraviva] feed failed, falling back to HTML: {ex}", file=sys.stderr)
     html = get(url)
     soup = BeautifulSoup(html, "html.parser")
     items = []
@@ -182,7 +196,8 @@ def src_coefficient():
                           "countries": "", "source": "coefficientgiving.org"})
     # watch for the Effective Giving section reappearing
     fps = load_json(FP_F, {})
-    has_eg = "effective giving" in html.lower()
+    has_eg = any("effective giving" in a.get_text(" ", strip=True).lower()
+                 for a in soup.find_all("a", href=True) if a["href"].startswith("#"))
     if has_eg and not fps.get("coefficient_eg", False):
         items.append({"title": "ALERT: 'Effective Giving' section is live on Coefficient's funding page",
                       "issuer": "Coefficient Giving", "link": url, "deadline_raw": "",
@@ -214,15 +229,33 @@ def src_fundsforngos():
 def src_undp_board():
     url = "https://procurement-notices.undp.org/"
     html = get(url)
+    AFRICAN_ISO3 = {"DZA","AGO","BEN","BWA","BFA","BDI","CPV","CMR","CAF","TCD","COM","COG",
+        "COD","CIV","DJI","EGY","GNQ","ERI","SWZ","ETH","GAB","GMB","GHA","GIN","GNB","KEN",
+        "LSO","LBR","LBY","MDG","MWI","MLI","MRT","MUS","MAR","MOZ","NAM","NER","NGA","RWA",
+        "STP","SEN","SYC","SLE","SOM","ZAF","SSD","SDN","TZA","TGO","TUN","UGA","ZMB","ZWE"}
+    NOISE = re.compile(r"(?i)(supply|procurement of|furniture|borehole|construction|rehabilitat|"
+        r"renovat|travaux|acquisition|fourniture|équipement|equipment|vehicle|tyres|tires|"
+        r"cleaning|gardening|maintenance|hotel|accommodation|cctv|cartridge|catridge|drilling|"
+        r"solar system|net-metering|warehous|quantum|supplier profile|webinar|internet|"
+        r"carburant|fuel|mobilier|tentes|composting|grindmill|sound system|air conditioning)")
+    ROLE = re.compile(r"(?i)(consultanc|firm|institution|cabinet|bureau d'études|service provider|"
+        r"rfp|eoi|call for proposals|capacity|training|evaluation|advisory|prestataire|"
+        r"organisation|organization|cso|ngo|programme|methodology|framework)")
+    INDIV = re.compile(r"(?i)(\bic\b[\s-]|individual consultant|national consultant|"
+        r"consultant national|consultant\(e\)|international consultant\b|specialist\b.*national)")
     items = []
     for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
-        text = a.get_text(" ", strip=True)
-        if len(text) < 15: continue
-        c, k = hits(text, COUNTRIES_LC), hits(text, KEYWORDS)
-        if c or k:
+        text = re.sub(r"^\s*Title\s+", "", a.get_text(" ", strip=True))
+        text = re.sub(r"\s*Ref No.*$", "", text)
+        if len(text) < 15 or NOISE.search(text) or INDIV.search(text):
+            continue
+        code = re.search(r"UN(?:DP|CDF|V)?-?([A-Z]{3})-\d", a.get_text(" ", strip=True))
+        african = (code and code.group(1) in AFRICAN_ISO3) or \
+                  (not code and hits(text, COUNTRIES_LC))
+        if african and ROLE.search(text):
             items.append({"title": text[:220], "issuer": "UNDP",
                           "link": requests.compat.urljoin(url, a["href"]),
-                          "deadline_raw": "", "countries": ", ".join(c[:4]),
+                          "deadline_raw": "", "countries": ", ".join(hits(text, COUNTRIES_LC)[:4]),
                           "source": "UNDP notices"})
     return items
 
@@ -291,7 +324,9 @@ def src_giz_loop():
             continue  # tab removed -> nothing active
         for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
             text = a.get_text(" ", strip=True)
-            if len(text) > 20 and hits(text, KEYWORDS):
+            if (len(text) > 20 and hits(text, KEYWORDS)
+                    and re.search(r"(?i)(tender|ausschreib|call|eoi|rfp|deadline|invitation|consultanc)", text)
+                    and not re.search(r"(?i)^(results and evaluation|thematic|evaluation report)", text)):
                 items.append({"title": f"GIZ {slug.replace('-',' ').title()}: {text[:180]}",
                               "issuer": "GIZ", "link": requests.compat.urljoin(url, a["href"]),
                               "deadline_raw": "", "countries": slug.replace("-"," ").title(),

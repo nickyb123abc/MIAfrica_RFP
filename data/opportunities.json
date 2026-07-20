@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23",
+ "updated": "2026-07-20",
  "meta": {
   "scoring_config": "scoring.json",
   "score": "0-100 weighted fit score; arithmetic computed in code from model-provided dimensions",
@@ -64,7 +64,7 @@
     "value_effort": "Large award, heavy full proposal"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "CBK/108/2025-2026",
@@ -110,7 +110,7 @@
     "value_effort": "3-yr framework, national process"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "ACBF (Devex #1393959)",
@@ -156,7 +156,7 @@
     "value_effort": "Regional scale, moderate process"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "FSD/SRVC/2026/00007",
@@ -202,7 +202,7 @@
     "value_effort": "Roster entry, small"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "FSDA-CMMP-2.0",
@@ -248,7 +248,7 @@
     "value_effort": "Sizeable, competitive"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "FSDA-CARBON-EOI",
@@ -294,7 +294,7 @@
     "value_effort": "Roster, uncertain flow"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "TDB-AMLCFT-TRG",
@@ -340,7 +340,7 @@
     "value_effort": "Staff training, moderate"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "FSVC-CBS-SUP",
@@ -386,7 +386,7 @@
     "value_effort": "Small, high-friction"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "RF-ARO-2026",
@@ -432,7 +432,7 @@
     "value_effort": "Contractor scope, fair process"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "RF-TCM-2025",
@@ -478,7 +478,7 @@
     "value_effort": "Consultancy, fair process"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "CG-EG-2026",
@@ -524,7 +524,7 @@
     "value_effort": "Unrestricted but narrow fit"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "TA-WADF-R1",
@@ -570,7 +570,7 @@
     "value_effort": "$50-500K, standard"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "GC-OPEN",
@@ -616,7 +616,7 @@
     "value_effort": "Feed; score per call"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "CW-AR-FIN",
@@ -662,7 +662,7 @@
     "value_effort": "Pooled fund, verify"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "HAI-2026",
@@ -708,7 +708,7 @@
     "value_effort": "$500M pool, undefined"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "CARE-SHECON",
@@ -754,7 +754,7 @@
     "value_effort": "$500K-1M, closed fast"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "EU-ZA-ESG",
@@ -766,7 +766,7 @@
    "source": "@AfricanNGOs roundup",
    "link": "https://tinyurl.com/yyt2v9wa",
    "found": "2026-07-06",
-   "deadline": "2026-07-23",
+   "deadline": "2026-07-20",
    "value": "",
    "status": "Open",
    "pipeline": "Grant call",
@@ -800,7 +800,7 @@
     "value_effort": "EUR 5.16M call"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "SOR-COLLAB",
@@ -846,7 +846,7 @@
     "value_effort": "$100-400K LOI"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "FID-INNOV",
@@ -892,7 +892,7 @@
     "value_effort": "EUR 50K-4M, light entry"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "DIV-USAID",
@@ -938,7 +938,7 @@
     "value_effort": "Up to $1.5M staged"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "PF-PPR",
@@ -984,7 +984,7 @@
     "value_effort": "$244M via mechanisms"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "DARWIN-R32",
@@ -1030,7 +1030,7 @@
     "value_effort": "GBP 200K-1M"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "ONE-NGO",
@@ -1076,7 +1076,7 @@
     "value_effort": "$25-50K small"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "DRK-SE",
@@ -1122,7 +1122,7 @@
     "value_effort": "Up to $300K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "AVERY-EDU",
@@ -1168,7 +1168,7 @@
     "value_effort": "$50-100K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "EC-ZW-MED",
@@ -1214,7 +1214,7 @@
     "value_effort": "EUR 2M"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "DANA-LLD",
@@ -1260,7 +1260,7 @@
     "value_effort": "EUR 150K max"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "GFCF-CP",
@@ -1306,7 +1306,7 @@
     "value_effort": "$7-20K small"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "TWF-MPF",
@@ -1352,7 +1352,7 @@
     "value_effort": "$10-20K rapid"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "CEPF-MDG",
@@ -1398,7 +1398,7 @@
     "value_effort": "$50-200K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "AUS-DAP",
@@ -1444,7 +1444,7 @@
     "value_effort": "AUD 80K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "ZA-DSD",
@@ -1490,7 +1490,7 @@
     "value_effort": "Multi-year but narrow"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "AFNET-FG",
@@ -1536,7 +1536,7 @@
     "value_effort": "$5K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "BENUE-CDI",
@@ -1582,7 +1582,7 @@
     "value_effort": "Micro"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "FOL-SG",
@@ -1628,7 +1628,7 @@
     "value_effort": "$3K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "FLA-RRF",
@@ -1674,7 +1674,7 @@
     "value_effort": "Up to $15K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UAF-RRG",
@@ -1720,7 +1720,7 @@
     "value_effort": "Up to $15K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "WPHF-RRW",
@@ -1766,7 +1766,7 @@
     "value_effort": "Up to $100K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "RUFF-SG",
@@ -1812,7 +1812,7 @@
     "value_effort": "GBP 7-18K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "META-SIPRA",
@@ -1858,7 +1858,7 @@
     "value_effort": "EUR 20-100K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "AAN-SOF",
@@ -1904,7 +1904,7 @@
     "value_effort": "Small NGN"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "AJA-WEH",
@@ -1950,7 +1950,7 @@
     "value_effort": "Various small"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "FTSA-CIV",
@@ -1996,7 +1996,7 @@
     "value_effort": "RFA, moderate"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "ALSUMAIT-26",
@@ -2042,7 +2042,7 @@
     "value_effort": "$1M for a nomination"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNESCO-AWH",
@@ -2088,7 +2088,7 @@
     "value_effort": "Grant, moderate"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "CEPF-MED",
@@ -2134,7 +2134,7 @@
     "value_effort": "$50-180K LOI"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "MEST-AI",
@@ -2180,7 +2180,7 @@
     "value_effort": "Program, closed"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "IRF-NGA-DOC",
@@ -2226,7 +2226,7 @@
     "value_effort": "$3.5M single award"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "SONKE-GJ",
@@ -2272,7 +2272,7 @@
     "value_effort": "EOI, small"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "FCA-NGA",
@@ -2318,7 +2318,7 @@
     "value_effort": "EUR 4K micro"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "TPEN-EA",
@@ -2364,7 +2364,7 @@
     "value_effort": "GBP 1-3.5K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNHCR-IA",
@@ -2410,7 +2410,7 @@
     "value_effort": "Up to $250K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "COSPE-FSTP",
@@ -2456,7 +2456,7 @@
     "value_effort": "EUR 20-30K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "LIM-SLF",
@@ -2502,7 +2502,7 @@
     "value_effort": "ZAR 0.5-3M"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "EC-NAM-CS",
@@ -2548,7 +2548,7 @@
     "value_effort": "EUR 1.33M"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "HAIDI-AI",
@@ -2594,7 +2594,7 @@
     "value_effort": "KES 5M"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "ENABEL-BDI",
@@ -2640,7 +2640,7 @@
     "value_effort": "EUR 280K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "BC-CPF",
@@ -2686,7 +2686,7 @@
     "value_effort": "Up to GBP 500K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "EC-ZW-GOV",
@@ -2698,7 +2698,7 @@
    "source": "@AfricanNGOs Jul-Aug roundup",
    "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/187085PROSPECTSEN?order=DESC&pageNumber=1&pageSize=50&sortBy=startDate&keywords=EuropeAid%2F187085%2FDD%2FACT%2FZW&isExactMatch=true&status=31094501,31094502,31094503",
    "found": "2026-07-08",
-   "deadline": "2026-07-21",
+   "deadline": "2026-07-20",
    "value": "",
    "status": "Closed",
    "pipeline": "Grant call",
@@ -2732,7 +2732,7 @@
     "value_effort": "EUR 6M"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "NEXA-CH",
@@ -2744,7 +2744,7 @@
    "source": "@AfricanNGOs Jul-Aug roundup",
    "link": "https://www.grandchallenges.ca/apply-for-funding",
    "found": "2026-07-08",
-   "deadline": "2026-07-22",
+   "deadline": "2026-07-20",
    "value": "",
    "status": "Closing soon",
    "pipeline": "Grant call",
@@ -2778,7 +2778,7 @@
     "value_effort": "$200K-2M"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNW-SIARP",
@@ -2824,7 +2824,7 @@
     "value_effort": "Up to $548K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "EU-ZW-JUST",
@@ -2870,7 +2870,7 @@
     "value_effort": "EUR 2.5M"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "MDDA-CM",
@@ -2916,7 +2916,7 @@
     "value_effort": "Programme funds"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "CA-CSF-ETH",
@@ -2962,7 +2962,7 @@
     "value_effort": "EUR 4.05M, partner route"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "ISOC-CGC",
@@ -3008,7 +3008,7 @@
     "value_effort": "Up to $300K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UAF-WRO",
@@ -3054,7 +3054,7 @@
     "value_effort": "$35-200K tiers"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "WG-BAF",
@@ -3100,7 +3100,7 @@
     "value_effort": "EUR 100-300K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "BOMB-SKY",
@@ -3146,7 +3146,7 @@
     "value_effort": "$10K in-kind"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "ADIDAS-MFC",
@@ -3192,7 +3192,7 @@
     "value_effort": "EUR 2.2M RFP"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "IDRC-SRHR",
@@ -3238,7 +3238,7 @@
     "value_effort": "6x CAD 1.2M"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "FS4A-OC2",
@@ -3284,7 +3284,7 @@
     "value_effort": "EUR 200K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "COMO-WG",
@@ -3330,7 +3330,7 @@
     "value_effort": "Modest"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNICEF-EDU-LTA",
@@ -3376,7 +3376,7 @@
     "value_effort": "3-7yr LTA, heavy entry"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "NL-KEN-PSD",
@@ -3422,7 +3422,7 @@
     "value_effort": "~$1.08M concept notes"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-GALS-SS",
@@ -3468,7 +3468,7 @@
     "value_effort": "2-yr delivery contract"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "IDRC-SGCI",
@@ -3514,7 +3514,7 @@
     "value_effort": "CAD 50-300K/member"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "CG-AIGHW",
@@ -3560,7 +3560,7 @@
     "value_effort": "Flexible sizing"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "CG-LITREV",
@@ -3606,7 +3606,7 @@
     "value_effort": "Rolling, light entry"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "CG-LEAD",
@@ -3652,7 +3652,7 @@
     "value_effort": "Defined RFP"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "NASDAQ-EO",
@@ -3698,7 +3698,7 @@
     "value_effort": "~$75K avg EOI"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "LIPMAN-27",
@@ -3744,7 +3744,7 @@
     "value_effort": "$250K prize"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "MRF-RISK",
@@ -3790,7 +3790,7 @@
     "value_effort": "EUR 100K two-phase"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "TAIWAN-GH",
@@ -3836,7 +3836,7 @@
     "value_effort": "Up to $100K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "ARIA-SEEDS",
@@ -3882,7 +3882,7 @@
     "value_effort": "GBP 10-500K"
    },
    "needs_scoring": false,
-   "scored_by": "claude-hand-2026-07-22"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-GNB-00376",
@@ -3914,7 +3914,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNCDF-00671",
@@ -3946,7 +3946,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-BWA-00275",
@@ -3978,7 +3978,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-DZA-00297",
@@ -4010,7 +4010,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-BWA-00276",
@@ -4042,7 +4042,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-GMB-00608",
@@ -4074,7 +4074,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNCDF-00676",
@@ -4106,7 +4106,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-GHA-00537",
@@ -4138,7 +4138,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "AUTO-081",
@@ -4170,7 +4170,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNCDF-00669",
@@ -4202,7 +4202,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-LSO-00466",
@@ -4234,7 +4234,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-RFP-2026",
@@ -4266,7 +4266,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNCDF-00667",
@@ -4298,7 +4298,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-ETH-00756",
@@ -4330,7 +4330,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-ZAF-00230",
@@ -4362,7 +4362,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-BDI-00718",
@@ -4394,7 +4394,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-SOM-00674",
@@ -4426,7 +4426,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-ETH-00754",
@@ -4458,7 +4458,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-SOM-00669",
@@ -4490,7 +4490,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-GNB-00369",
@@ -4522,7 +4522,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-GNB-00361",
@@ -4554,7 +4554,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-SWZ-00252",
@@ -4586,7 +4586,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-COD-01266",
@@ -4618,7 +4618,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-DJI-00234",
@@ -4650,7 +4650,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNCDF-00657",
@@ -4682,7 +4682,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-SLE-00303",
@@ -4714,7 +4714,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-KEN-00713",
@@ -4746,7 +4746,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "UNDP-WSM-00237",
@@ -4778,7 +4778,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "AUTO-219",
@@ -4810,7 +4810,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   },
   {
    "ref": "AUTO-220",
@@ -4842,7 +4842,7 @@
    },
    "needs_scoring": false,
    "notes": "",
-   "scored_by": "claude-hand-2026-07-23"
+   "scored_by": "claude-hand-2026-07-20"
   }
  ]
 }

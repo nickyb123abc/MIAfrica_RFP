@@ -1,0 +1,91 @@
+{
+ "version": "fit-v1",
+ "scale": "0-100 per dimension",
+ "organization": "International finance think tank; business development mandate: (1) bringing capital to Africa, (2) long-term sustainable development in any sector, (3) human capital programs. Delivery strengths: research & policy analysis, technical assistance, curriculum & training design, ToT, evaluation/MEL, convening of institutional investors and capital.",
+ "dimensions": [
+  {
+   "key": "mandate_fit",
+   "weight": 0.35,
+   "question": "How squarely does the opportunity's subject sit inside the three mandate lanes?"
+  },
+  {
+   "key": "delivery_fit",
+   "weight": 0.25,
+   "question": "Is the work being asked for something this organization actually does well (research, TA, curriculum/ToT, evaluation, convening)?"
+  },
+  {
+   "key": "eligibility_access",
+   "weight": 0.2,
+   "question": "Can this organization apply as-is: org type, geography, registration, consortium requirements? (Also emit the eligible flag.)"
+  },
+  {
+   "key": "value_effort",
+   "weight": 0.2,
+   "question": "Award size and strategic value versus proposal burden and process weight."
+  }
+ ],
+ "eligible_flag_rules": "Y = clearly org-eligible; N = hard gate (individuals-only, local-grassroots-only, for-profits-only, wrong geography); ? = unclear, verify",
+ "output_contract": "Return ONLY JSON: {\"mandate_fit\":int,\"delivery_fit\":int,\"eligibility_access\":int,\"value_effort\":int,\"eligible\":\"Y|N|?\",\"rationales\":{\"mandate_fit\":str,\"delivery_fit\":str,\"eligibility_access\":str,\"value_effort\":str}} - one sentence per rationale, integers 0-100, no other keys, no prose outside the JSON.",
+ "anchors": [
+  {
+   "title": "Design & delivery of a Central Banking Academy for a national financial-studies institute (donor-funded; curriculum, materials, ToT, pilot, sustainability)",
+   "target": {
+    "mandate_fit": 95,
+    "delivery_fit": 95,
+    "eligibility_access": 85,
+    "value_effort": 70
+   },
+   "why": "Human capital + financial sector core; the exact delivery chain; standard org eligibility; large award but heavy full-proposal process."
+  },
+  {
+   "title": "EUR 100-300K fund for SGB capacity building plus short-term skilling and training with private sector to guarantee employment, Ethiopia/South Africa/Uganda",
+   "target": {
+    "mandate_fit": 90,
+    "delivery_fit": 75,
+    "eligibility_access": 85,
+    "value_effort": 70
+   },
+   "why": "Human capital + employment in target geographies; training design fits, direct placement delivery less so."
+  },
+  {
+   "title": "EUR 50K-4M rolling fund for evidence-based innovations addressing poverty and inequality from low- and middle-income countries",
+   "target": {
+    "mandate_fit": 80,
+    "delivery_fit": 80,
+    "eligibility_access": 80,
+    "value_effort": 75
+   },
+   "why": "Sustainable development core; evidence orientation suits a think tank; rolling staged process is light relative to size."
+  },
+  {
+   "title": "Rolling grants for continuously updated living literature reviews on policymaking topics",
+   "target": {
+    "mandate_fit": 60,
+    "delivery_fit": 90,
+    "eligibility_access": 85,
+    "value_effort": 70
+   },
+   "why": "Research synthesis is the organization's native craft; topic breadth only partially Africa/capital-focused."
+  },
+  {
+   "title": "$250K global prize for organizations creating social and economic impact (application-based)",
+   "target": {
+    "mandate_fit": 55,
+    "delivery_fit": 35,
+    "eligibility_access": 80,
+    "value_effort": 55
+   },
+   "why": "Broad thematic overlap but recognizes existing programs rather than commissioning think-tank work."
+  },
+  {
+   "title": "GBP 7-18K small grants for individual nature-conservation fieldwork projects in developing countries",
+   "target": {
+    "mandate_fit": 35,
+    "delivery_fit": 15,
+    "eligibility_access": 60,
+    "value_effort": 25
+   },
+   "why": "Broadly sustainable development but field conservation is outside delivery strengths; tiny award."
+  }
+ ]
+}

@@ -1,0 +1,565 @@
+{
+ "updated": "2026-07-16",
+ "issuers": [
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "NBE \u2014 EIFS",
+   "region": "Ethiopia",
+   "kind": "CB + institute",
+   "route_feed": "Static \u25cb",
+   "link": "swiftethiopia.org",
+   "priority": "High",
+   "note": "Benchmark; watch other academies."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "CBK \u2014 Institute of Monetary Studies",
+   "region": "Kenya",
+   "kind": "CB + institute",
+   "route_feed": "Static \u25cb",
+   "link": "centralbank.go.ke/tenders",
+   "priority": "High",
+   "note": "Recurring training framework; alert next cycle."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Central Bank of Egypt \u2014 EBI",
+   "region": "Egypt",
+   "kind": "Training institute",
+   "route_feed": "Static \u25cb",
+   "link": "ebi.gov.eg",
+   "priority": "High",
+   "note": "CBE training arm; pitch target."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Bank of Ghana \u2014 National Banking College",
+   "region": "Ghana",
+   "kind": "Training institute",
+   "route_feed": "Static \u25cb",
+   "link": "nbc.edu.gh",
+   "priority": "High",
+   "note": "Training + consultancy; partner/buyer."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Bank of Tanzania Academy",
+   "region": "Tanzania",
+   "kind": "CB + academy",
+   "route_feed": "Static \u25cb",
+   "link": "academy.bot.go.tz",
+   "priority": "High",
+   "note": "Training, research, consultancy."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "BCEAO \u2014 COFEB",
+   "region": "UEMOA (8)",
+   "kind": "CB union + institute",
+   "route_feed": "Live \u2713",
+   "link": "bceao.int/fr/appels_offres",
+   "priority": "High",
+   "note": "Live feed; COFEB co-develops modules."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "BEAC",
+   "region": "CEMAC (6)",
+   "kind": "CB union",
+   "route_feed": "Static \u25cb",
+   "link": "beac.int",
+   "priority": "High",
+   "note": "Trains via external conventions."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "WAIFEM",
+   "region": "West Africa",
+   "kind": "Regional institute",
+   "route_feed": "Static \u25cb",
+   "link": "waifem-cbp.org",
+   "priority": "High",
+   "note": "Trains CBs & ministries; register."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "MEFMI",
+   "region": "E & S Africa",
+   "kind": "Regional institute",
+   "route_feed": "Static \u25cb",
+   "link": "mefmi.org",
+   "priority": "High",
+   "note": "Same; watch procurement."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Bank of Uganda",
+   "region": "Uganda",
+   "kind": "Central bank",
+   "route_feed": "Static \u25cb",
+   "link": "bou.or.ug",
+   "priority": "Med",
+   "note": "FSD Uganda channels consultants."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "South African Reserve Bank",
+   "region": "South Africa",
+   "kind": "Central bank",
+   "route_feed": "Static \u25cb",
+   "link": "resbank.co.za",
+   "priority": "Med",
+   "note": "Tenders mostly IT / RFQ."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Central Bank of Nigeria",
+   "region": "Nigeria",
+   "kind": "Central bank",
+   "route_feed": "Static \u25cb",
+   "link": "cbn.gov.ng/procurement",
+   "priority": "Med",
+   "note": "Periodic EOIs; consultancy category."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Bank Al-Maghrib",
+   "region": "Morocco",
+   "kind": "Central bank",
+   "route_feed": "Live \u2713",
+   "link": "bkam.ma/Achats/Appels-d-offres",
+   "priority": "Med",
+   "note": "Live feed; watch formation lots."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Bank of Mauritius",
+   "region": "Mauritius",
+   "kind": "Central bank",
+   "route_feed": "Live \u2713",
+   "link": "bom.mu/procurement/notice-of-tender",
+   "priority": "Med",
+   "note": "Live tender list."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "BCM Mauritania",
+   "region": "Mauritania",
+   "kind": "Central bank",
+   "route_feed": "Static \u25cb",
+   "link": "bcm.mr",
+   "priority": "Med",
+   "note": "IsDB-funded training work."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "National Bank of Rwanda",
+   "region": "Rwanda",
+   "kind": "Central bank",
+   "route_feed": "Static \u25cb",
+   "link": "(search BNR tenders)",
+   "priority": "Med",
+   "note": "Active reformer; DFI work."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "AACB",
+   "region": "Continental",
+   "kind": "Umbrella body",
+   "route_feed": "Static \u25cb",
+   "link": "aacb.org",
+   "priority": "Med",
+   "note": "Symposia; networking hub."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "BANKSETA",
+   "region": "South Africa",
+   "kind": "Skills authority",
+   "route_feed": "\u25cb / Agg",
+   "link": "tenderbulletins.co.za",
+   "priority": "Med",
+   "note": "Issues banking-training RFPs."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "IsDB",
+   "region": "OIC states",
+   "kind": "Funder",
+   "route_feed": "Static \u25cb",
+   "link": "isdb.org + UNDB",
+   "priority": "Med",
+   "note": "Islamic-finance training funder."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Bank of Namibia",
+   "region": "Namibia",
+   "kind": "Central bank",
+   "route_feed": "Live \u2713",
+   "link": "bon.com.na/Informations/Tenders.aspx",
+   "priority": "Low\u2013Med",
+   "note": "Live goods/services list."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Reserve Bank of Malawi",
+   "region": "Malawi",
+   "kind": "Central bank",
+   "route_feed": "Static \u25cb",
+   "link": "rbm.mw",
+   "priority": "Low\u2013Med",
+   "note": "ITB / EOI notices."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "BRB Burundi",
+   "region": "Burundi",
+   "kind": "Central bank",
+   "route_feed": "Live \u2713",
+   "link": "brb.bi",
+   "priority": "Low\u2013Med",
+   "note": "Live feed; occasional EOIs."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Bank of Botswana",
+   "region": "Botswana",
+   "kind": "Central bank",
+   "route_feed": "\u25cb / Agg",
+   "link": "bankofbotswana.bw",
+   "priority": "Low\u2013Med",
+   "note": "Occasional consultancy."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Bank of Zambia",
+   "region": "Zambia",
+   "kind": "Central bank",
+   "route_feed": "Static \u25cb",
+   "link": "boz.zm",
+   "priority": "Low\u2013Med",
+   "note": "Locate tenders section."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Reserve Bank of Zimbabwe",
+   "region": "Zimbabwe",
+   "kind": "Central bank",
+   "route_feed": "Static \u25cb",
+   "link": "(search RBZ tenders)",
+   "priority": "Low\u2013Med",
+   "note": "MEFMI member."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Lusophone CBs (Moz, Angola, CV)",
+   "region": "Various",
+   "kind": "CBs (group)",
+   "route_feed": "Static \u25cb",
+   "link": "(concursos)",
+   "priority": "Low\u2013Med",
+   "note": "Portuguese; via DFIs."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Banque Centrale du Congo",
+   "region": "DR Congo",
+   "kind": "Central bank",
+   "route_feed": "Static \u25cb",
+   "link": "(search BCC march\u00e9s)",
+   "priority": "Low\u2013Med",
+   "note": "DFI-funded work possible."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "W. Africa non-UEMOA (SL, LR, GM, GN)",
+   "region": "West Africa",
+   "kind": "CBs (group)",
+   "route_feed": "Static \u25cb",
+   "link": "cbl.org.lr",
+   "priority": "Low\u2013Med",
+   "note": "Via WAIFEM / WAMI / DFIs."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Banque d'Alg\u00e9rie",
+   "region": "Algeria",
+   "kind": "Central bank",
+   "route_feed": "Static \u25cb",
+   "link": "bank-of-algeria.dz",
+   "priority": "Low",
+   "note": "Rare."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "N. Africa remainder (Tunisia, Libya)",
+   "region": "North Africa",
+   "kind": "CBs (group)",
+   "route_feed": "Static \u25cb",
+   "link": "\u2014",
+   "priority": "Low",
+   "note": "Deprioritise."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "Small / fragile CBs",
+   "region": "Various",
+   "kind": "CBs (group)",
+   "route_feed": "Static \u25cb",
+   "link": "via DFIs",
+   "priority": "Low",
+   "note": "Monitor funders instead."
+  },
+  {
+   "section": "A)  Central banks & training institutes",
+   "institution": "NSIA + other SWFs",
+   "region": "Various",
+   "kind": "SWFs",
+   "route_feed": "Live \u2713 (NSIA)",
+   "link": "nsia.com.ng/procurements",
+   "priority": "Low",
+   "note": "Ops procurement only; deprioritise."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Mastercard Foundation",
+   "region": "Africa",
+   "kind": "Foundation",
+   "route_feed": "Via program vehicles",
+   "link": "mastercardfdn.org",
+   "priority": "High",
+   "note": "No unsolicited; watch SWIFT / FRP / EdTech vehicles."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Rockefeller Foundation",
+   "region": "Global / Africa",
+   "kind": "Foundation",
+   "route_feed": "Vendor RFPs \u2713",
+   "link": "rockefellerfoundation.org/rfp",
+   "priority": "High",
+   "note": "Recurring vendor RFPs; grants invite-only."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "TrustAfrica",
+   "region": "Africa",
+   "kind": "Foundation",
+   "route_feed": "Thematic calls",
+   "link": "trustafrica.org/proposals",
+   "priority": "Med\u2013High",
+   "note": "WADF rounds; regranting invited."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Gates \u2014 Grand Challenges",
+   "region": "Global / LMIC",
+   "kind": "Foundation",
+   "route_feed": "Open calls \u2713",
+   "link": "grandchallenges.org/grant-opportunities",
+   "priority": "Med",
+   "note": "Rolling RFPs; rest staff-identified."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Coefficient Giving",
+   "region": "Global",
+   "kind": "Foundation",
+   "route_feed": "Open RFPs",
+   "link": "coefficientgiving.org",
+   "priority": "Med",
+   "note": "RFPs per fund; watch pages."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "ClimateWorks \u2014 A&R Fund",
+   "region": "Africa / Asia",
+   "kind": "Pooled fund",
+   "route_feed": "RFP rounds",
+   "link": "climateworks.org",
+   "priority": "Med",
+   "note": "Adaptation-finance category."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Humanity AI (MacArthur + Omidyar)",
+   "region": "Global",
+   "kind": "Pooled fund",
+   "route_feed": "Opening 2026",
+   "link": "via RPA",
+   "priority": "Med",
+   "note": "$500M; watch first calls."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "AWDF",
+   "region": "Africa",
+   "kind": "Fund",
+   "route_feed": "Recurring calls",
+   "link": "awdf.org",
+   "priority": "Med",
+   "note": "Feminist orgs; cycles."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Safaricom Foundation",
+   "region": "Kenya",
+   "kind": "Corp foundation",
+   "route_feed": "Rolling form",
+   "link": "safaricomfoundation.org",
+   "priority": "Med",
+   "note": "Standing proposal door."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Wellcome Trust",
+   "region": "Global / LMIC",
+   "kind": "Foundation",
+   "route_feed": "Standing schemes",
+   "link": "wellcome.org",
+   "priority": "Low\u2013Med",
+   "note": "Health research; LMIC-eligible."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Ford Foundation",
+   "region": "Global",
+   "kind": "Foundation",
+   "route_feed": "Rolling LOI",
+   "link": "fordfoundation.org",
+   "priority": "Low\u2013Med",
+   "note": "2-page LOI first."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Hewlett Foundation",
+   "region": "Global",
+   "kind": "Foundation",
+   "route_feed": "Rolling LOI",
+   "link": "hewlett.org",
+   "priority": "Low\u2013Med",
+   "note": "Same."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "MacArthur Foundation",
+   "region": "Global",
+   "kind": "Foundation",
+   "route_feed": "Competitions",
+   "link": "macfound.org",
+   "priority": "Low\u2013Med",
+   "note": "100&Change etc."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Nelson Mandela Foundation",
+   "region": "South Africa",
+   "kind": "Foundation",
+   "route_feed": "Occasional tenders",
+   "link": "nelsonmandela.org",
+   "priority": "Low\u2013Med",
+   "note": "Watch SA tenders."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "MTN Foundation",
+   "region": "Nigeria +",
+   "kind": "Corp foundation",
+   "route_feed": "Periodic calls",
+   "link": "via MTN",
+   "priority": "Low\u2013Med",
+   "note": "e.g. ICT skills training."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Mo Ibrahim Foundation",
+   "region": "Africa",
+   "kind": "Foundation",
+   "route_feed": "Prizes / fellowships",
+   "link": "moibrahimfoundation.org",
+   "priority": "Low",
+   "note": "Not org RFPs."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Tony Elumelu Foundation",
+   "region": "Africa",
+   "kind": "Foundation",
+   "route_feed": "Annual window",
+   "link": "tefconnect.com",
+   "priority": "Low",
+   "note": "Jan\u2013Mar; for-profits only."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Carnegie Corporation",
+   "region": "Global",
+   "kind": "Foundation",
+   "route_feed": "Invite-led",
+   "link": "carnegie.org",
+   "priority": "Low",
+   "note": "Mostly invitation."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "FirstRand Foundation",
+   "region": "South Africa",
+   "kind": "Corp foundation",
+   "route_feed": "Via Tshikululu",
+   "link": "tshikululu.org.za",
+   "priority": "Low",
+   "note": "Managed calls."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Skoll Foundation",
+   "region": "Global",
+   "kind": "Foundation",
+   "route_feed": "Invite-only",
+   "link": "skoll.org",
+   "priority": "Skip",
+   "note": "No unsolicited; referrals."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Segal Family Foundation",
+   "region": "SSA",
+   "kind": "Foundation",
+   "route_feed": "Referral-only",
+   "link": "segalfamilyfoundation.org",
+   "priority": "Skip",
+   "note": "No public application."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "ELMA Philanthropies",
+   "region": "Africa",
+   "kind": "Foundation",
+   "route_feed": "Invite-only",
+   "link": "elmaphilanthropies.org",
+   "priority": "Skip",
+   "note": "Relationship route."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Dangote Foundation",
+   "region": "Nigeria",
+   "kind": "Corp foundation",
+   "route_feed": "Invite-led",
+   "link": "dangote.com",
+   "priority": "Skip",
+   "note": "Little public procurement."
+  },
+  {
+   "section": "B)  Philanthropies & funders",
+   "institution": "Sorenson Impact Institute",
+   "region": "Global",
+   "kind": "Institute / funder",
+   "route_feed": "Periodic calls",
+   "link": "sorensonimpact.com",
+   "priority": "Med",
+   "note": "Impact-investing field-building funds."
+  }
+ ]
+}

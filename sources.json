@@ -1,0 +1,258 @@
+{
+ "version": "v7",
+ "updated": "2026-07-16",
+ "cadence": {
+  "tier1": "daily",
+  "tier2": "weekly, cluster chosen by day of month",
+  "tier3": "subscribe-once e-mail"
+ },
+ "scope": {
+  "pipelines": {
+   "A": "Tenders / vendor RFPs: financial-sector training, curriculum, ToT, capacity building, institutional strengthening, evaluation/MEL, technical assistance",
+   "B": "Philanthropic RFPs / grant calls: funding or services for nonprofits, think tanks, conveners of institutional investors and capital",
+   "C": "Broad development (OPEN calls only): anything broadly fitting bringing capital to Africa, long-term sustainable development in any sector, or human capital programs"
+  }
+ },
+ "tier1": [
+  {
+   "id": "africanngos",
+   "name": "@AfricanNGOs monthly roundup",
+   "url": "https://africanngos.org/2026/07/07/african-ngo-funding-opportunities-july-august-2026/",
+   "cadence": "daily",
+   "protocol": "Page updates continuously; review EVERY item; capture actual application links. Around 6-9 Aug 2026 search for the September-October edition and switch URLs."
+  },
+  {
+   "id": "impactfunding",
+   "name": "Impact Funding monthly roundup",
+   "url": "https://impactfunding.substack.com/p/july-funding-roundup-280-new-opportunities",
+   "cadence": "monthly (posted 1st-3rd)",
+   "protocol": "Review every item on the free roundup page; ~250 further items sit on paid-subscriber sector pages - cross-check the e-mail edition on arrival."
+  },
+  {
+   "id": "terraviva",
+   "name": "Terra Viva Grants - cross-cutting",
+   "url": "https://www.terravivagrants.org/category/cross-cutting/",
+   "cadence": "daily",
+   "protocol": "Review every listed item on page 1 (new posts land there)."
+  },
+  {
+   "id": "fundsforngos",
+   "name": "fundsforNGOs country hub",
+   "url": "https://www2.fundsforngos.org/view-grants-in-your-country/",
+   "cadence": "daily",
+   "protocol": "Cycle African country pages via per-country searches (anti-bot blocks direct fetch): fundsforngos [country] deadline [month] 2026."
+  },
+  {
+   "id": "coefficient",
+   "name": "Coefficient Giving - apply for funding",
+   "url": "https://coefficientgiving.org/apply-for-funding/",
+   "cadence": "monthly",
+   "protocol": "Scan contents sidebar for 'Effective Giving' and 'Abundance & Growth' (and new fund headings); log every open RFP with deadline. Jul 2026: Effective Giving absent; Abundance & Growth live."
+  }
+ ],
+ "tier2_clusters": [
+  {
+   "days": [
+    1,
+    7
+   ],
+   "name": "Central-bank live feeds",
+   "sources": [
+    "bceao.int/fr/appels_offres",
+    "bkam.ma/Achats/Appels-d-offres",
+    "bom.mu/procurement/notice-of-tender",
+    "bon.com.na/Informations/Tenders.aspx",
+    "brb.bi",
+    "centralbank.go.ke/tenders"
+   ]
+  },
+  {
+   "days": [
+    8,
+    14
+   ],
+   "name": "Institutes, bilaterals & implementers",
+   "sources": [
+    "aercafrica.org/opportunities",
+    "WAIFEM",
+    "MEFMI",
+    "COFEB",
+    "EBI",
+    "National Banking College",
+    "Bank of Tanzania Academy",
+    "ACBF",
+    "FSD Africa/Kenya/Uganda",
+    "Mastercard vehicles (SWIFT swiftethiopia.org, FRP, EdTech)",
+    "GIZ Africa country pages: Ethiopia, Ghana, Kenya, South Africa, Tanzania (missing tab = no active tenders; full loop is the scraper's job)",
+    "DevelopmentAid snippet search: GIZ OR Enabel consultancy tender Africa [month]"
+   ]
+  },
+  {
+   "days": [
+    15,
+    21
+   ],
+   "name": "Structured funders",
+   "sources": [
+    "enabel.be/tenders",
+    "gov.uk/international-development-funding",
+    "AfDB current solicitations",
+    "World Bank procnotices API",
+    "3ie / PEP / IDRC calls pages"
+   ]
+  },
+  {
+   "days": [
+    22,
+    31
+   ],
+   "name": "Philanthropy standing pages",
+   "sources": [
+    "trustafrica.org/proposals",
+    "rockefellerfoundation.org/rfp",
+    "grandchallenges.org/grant-opportunities",
+    "Jacobs Foundation (watch 2026 evidence-intermediaries RFP)",
+    "Co-Impact",
+    "ClimateWorks A&R Fund",
+    "Humanity AI (via RPA)",
+    "AWDF",
+    "Safaricom / MTN / Nelson Mandela foundations"
+   ]
+  }
+ ],
+ "tier3_email": [
+  "Impact Funding paid edition (monthly)",
+  "PND Friday RFP bulletin",
+  "UNGM registration + tender alerts",
+  "World Bank / AfDB business-opportunity alerts",
+  "issuer vendor portals"
+ ],
+ "skip_invite_only": [
+  "Skoll Foundation",
+  "Segal Family Foundation",
+  "ELMA Philanthropies",
+  "Dangote Foundation"
+ ],
+ "un_policy": "UN system deprioritised for bidding (heavy process); log UN items only on exceptional fit",
+ "keywords": {
+  "A": [
+   "request for proposals",
+   "tender",
+   "EOI",
+   "curriculum",
+   "training of trainers",
+   "capacity building",
+   "institutional strengthening",
+   "technical assistance",
+   "central bank",
+   "financial sector",
+   "monetary policy",
+   "banking supervision",
+   "financial inclusion",
+   "evaluation"
+  ],
+  "B": [
+   "call for proposals",
+   "funding opportunity",
+   "grant",
+   "letter of inquiry",
+   "convening",
+   "institutional investors",
+   "catalytic capital",
+   "blended finance"
+  ],
+  "C": [
+   "sustainable development",
+   "human capital",
+   "skills",
+   "youth employment",
+   "economic development",
+   "climate finance",
+   "investment mobilisation",
+   "innovation",
+   "development finance"
+  ]
+ },
+ "rules": {
+  "dedupe": "Ref or Title+Issuer",
+  "never_delete": "mark Closed instead",
+  "rows": "org-eligible open items get rows; individual/student/prize-tier items get one report line",
+  "links": "actual application URL, never a bare domain",
+  "status_refresh": "past deadline -> Closed"
+ },
+ "report": [
+  "new adds (deadline + GO/Maybe/No-Go + link)",
+  "status changes",
+  "closing <=14 days",
+  "coverage resume point",
+  "which cluster ran",
+  "failed sources (once)",
+  "'no new matches' is a normal result"
+ ],
+ "auto_modules": {
+  "always_on": [
+   "undp_board",
+   "worldbank_api",
+   "eu_ft_api",
+   "aerc",
+   "giz_loop"
+  ],
+  "gated_on_secrets": {
+   "ungm_api": [
+    "UNGM_CLIENT_ID",
+    "UNGM_CLIENT_SECRET"
+   ]
+  },
+  "giz_country_slugs": [
+   "algeria",
+   "angola",
+   "benin",
+   "botswana",
+   "burkina-faso",
+   "burundi",
+   "cameroon",
+   "cabo-verde",
+   "central-african-republic",
+   "chad",
+   "comoros",
+   "cote-divoire",
+   "democratic-republic-of-the-congo",
+   "djibouti",
+   "egypt",
+   "ethiopia",
+   "gabon",
+   "ghana",
+   "guinea",
+   "kenya",
+   "lesotho",
+   "liberia",
+   "libya",
+   "madagascar",
+   "malawi",
+   "mali",
+   "mauritania",
+   "mauritius",
+   "morocco",
+   "mozambique",
+   "namibia",
+   "niger",
+   "nigeria",
+   "rwanda",
+   "senegal",
+   "sierra-leone",
+   "somalia",
+   "south-africa",
+   "south-sudan",
+   "sudan",
+   "tanzania",
+   "togo",
+   "tunisia",
+   "uganda",
+   "zambia",
+   "zimbabwe"
+  ],
+  "giz_url_pattern": "https://www.giz.de/en/regions/africa/{slug}/tenders",
+  "aerc_url": "https://www.aercafrica.org/opportunities/",
+  "scoring_batch_cap": 25
+ }
+}

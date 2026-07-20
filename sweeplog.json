@@ -1,0 +1,40 @@
+{
+ "log": [
+  {
+   "date": "2026-07-06",
+   "new_adds": "3 (CARE, EU-ZA, Sorenson)",
+   "closing_soon": "RFP-002-2026 (EIFS) due 20 Jul",
+   "notes": "GC board now empty (call closed 16 Jun); PND cache stale \u2014 use e-alerts; WAIFEM/MEFMI/SWIFT/Mastercard: no new."
+  },
+  {
+   "date": "2026-07-07",
+   "new_adds": "24 (deep pass of Jun-Jul roundup)",
+   "closing_soon": "RFP-002-2026 due 20 Jul; Darwin Main & EC-ZW 20 Jul; SheConnects 8 Jul",
+   "notes": "Scope broadened (pipeline C); deep-extraction + real-URL rules added; links fixed on existing rows."
+  },
+  {
+   "date": "2026-07-07",
+   "new_adds": "5 (fundsforNGOs pass)",
+   "closing_soon": "FTSA-CIV 30 Jul; UNESCO-AWH 31 Jul; MEST 20 Jul",
+   "notes": "Individual/student/prize-tier items noted in chat, not rowed; UNDP country-office CSO calls + WFP EOIs added as watch channels."
+  },
+  {
+   "date": "2026-07-07",
+   "new_adds": "\u2014",
+   "closing_soon": "\u2014",
+   "notes": "Runbook v4: tiered design \u2014 Tier 1 deep every run; Tier 2 rotates by day of month; Tier 3 moved to e-mail alerts."
+  },
+  {
+   "date": "2026-07-08",
+   "new_adds": "26 (Jul-Aug roundup deep pass + UNGM/UNDP method)",
+   "closing_soon": "EIFS 20 Jul \u00b7 IRF-NGA & SONKE 9 Jul \u00b7 UNHCR-IA 12 Jul \u00b7 AUS-DAP 13 Jul",
+   "notes": "v5 installed: Tier 1 = UNGM + africanngos + fundsforNGOs daily; UNGM shell needs search method; UNDP board added; Sep-Oct roundup watch ~6-9 Aug."
+  },
+  {
+   "date": "2026-07-16",
+   "new_adds": "11 (Impact Funding, Terra Viva, Coefficient deep passes)",
+   "closing_soon": "NL-KEN-PSD 19 Jul (3d) \u00b7 ZA-DSD & HAIDI & EC-NAM 17 Jul \u00b7 EIFS 20 Jul",
+   "notes": "v6 installed: five Tier-1 protocols; UN demoted; GIZ handled via priority pages + scraper loop; expired rows bulk-closed."
+  }
+ ]
+}

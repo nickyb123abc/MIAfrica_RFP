@@ -19,9 +19,9 @@ jobs:
   sweep:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -49,13 +49,20 @@ jobs:
           git push
 
       - name: Open issue for new items
-        if: ${{ hashFiles('data/new_items.md') != '' }}
+        if: ${{ !cancelled() && hashFiles('data/new_items.md') != '' }}
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh issue create --title "New opportunities — $(date -u +%F)" --body-file data/new_items.md
+        run: |
+          BODY=data/new_items.md
+          if [ "$(wc -c < "$BODY")" -gt 60000 ]; then
+            head -c 60000 "$BODY" > /tmp/body.md
+            printf '\n\n…truncated. Full list is committed at data/new_items.md and data/opportunities.csv.' >> /tmp/body.md
+            BODY=/tmp/body.md
+          fi
+          gh issue create --title "New opportunities — $(date -u +%F)" --body-file "$BODY"
 
       - name: Open issue for broken sources
-        if: ${{ hashFiles('data/broken_sources.md') != '' }}
+        if: ${{ !cancelled() && hashFiles('data/broken_sources.md') != '' }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh issue create --title "Source health alert — $(date -u +%F)" --body-file data/broken_sources.md

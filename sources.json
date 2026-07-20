@@ -253,6 +253,6 @@
   ],
   "giz_url_pattern": "https://www.giz.de/en/regions/africa/{slug}/tenders",
   "aerc_url": "https://www.aercafrica.org/opportunities/",
-  "scoring_batch_cap": 25
+  "scoring_batch_cap": 100
  }
 }

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-07-21 · 89 open of 124 logged_
+_Updated 2026-07-22 · 90 open of 125 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -92,3 +92,4 @@ _Updated 2026-07-21 · 89 open of 124 logged_
 | rolling | — | [British Council — Transnational Education Grants with India](https://www.terravivagrants.org/transnational-education-grants/) | Terra Viva Grants |
 | rolling | — | [Nippon Foundation — Ocean Fellowship](https://www.terravivagrants.org/nippon-foundation-fellowship/) | Terra Viva Grants |
 | rolling | — | [International Development Research Centre — Multilateral Research Call](https://www.terravivagrants.org/multilateral-research-call/) | Terra Viva Grants |
+| rolling | — | [Technical Information Technology / AI and Digital Transformation Firm for AI Mas](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47821) | UNDP notices |

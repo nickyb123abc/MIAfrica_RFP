@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-07-22 · 90 open of 125 logged_
+_Updated 2026-07-23 · 102 open of 137 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -93,3 +93,15 @@ _Updated 2026-07-22 · 90 open of 125 logged_
 | rolling | — | [Nippon Foundation — Ocean Fellowship](https://www.terravivagrants.org/nippon-foundation-fellowship/) | Terra Viva Grants |
 | rolling | — | [International Development Research Centre — Multilateral Research Call](https://www.terravivagrants.org/multilateral-research-call/) | Terra Viva Grants |
 | rolling | — | [Technical Information Technology / AI and Digital Transformation Firm for AI Mas](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47821) | UNDP notices |
+| rolling | — | [World Bank Group — Africa Fellowship Program 2027](https://www.terravivagrants.org/world-bank-group-africa-fellowship-program/) | Terra Viva Grants |
+| rolling | — | [Royal Academy of Engineering — Africa Prize for Engineering Innovation](https://www.terravivagrants.org/africa-prize-for-engineering-innovation/) | Terra Viva Grants |
+| rolling | — | [Cornell Atkinson Center for Sustainability — Postdoctoral Fellowship](https://www.terravivagrants.org/cornell-atkinson-center-for-sustainability-postdoctoral-fellowship/) | Terra Viva Grants |
+| rolling | — | [Soroptimist — Support to Women Achieve Educational Goals](https://www.terravivagrants.org/live-your-dream-awards/) | Terra Viva Grants |
+| rolling | — | [SDG Academy — Online Course: Natural Resources for Sustainable Development](https://www.terravivagrants.org/online-course-natural-resources-for-sustainable-development/) | Terra Viva Grants |
+| rolling | — | [Google — Startups for Sustainable Development](https://www.terravivagrants.org/google-startups-for-sustainable-development-program/) | Terra Viva Grants |
+| rolling | — | [Tools with a Mission — Tools for Livelihoods in Africa](https://www.terravivagrants.org/tools-for-livelihoods-in-africa/) | Terra Viva Grants |
+| rolling | — | [Asia Foundation — Grants for Environment and Development](https://www.terravivagrants.org/grants-for-environment-and-development/) | Terra Viva Grants |
+| rolling | — | [Low-Value Grants to Civil Society Organizations (CSOs)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47894) | UNDP notices |
+| rolling | — | [PRC0184797 - RECRUTEMENT CABINET - FACILITATION DE FORMATIONS CDLF 2026](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47903) | UNDP notices |
+| rolling | — | [International Consultancy Firm to support the Timbuktoo Foundation operations](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47853) | UNDP notices |
+| rolling | — | [Curriculum Development Partner firm to undertake activities for YAI (Cohort 2)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47863) | UNDP notices |

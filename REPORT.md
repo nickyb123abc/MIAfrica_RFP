@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-07-23 · 102 open of 137 logged_
+_Updated 2026-07-24 · 104 open of 139 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -105,3 +105,5 @@ _Updated 2026-07-23 · 102 open of 137 logged_
 | rolling | — | [PRC0184797 - RECRUTEMENT CABINET - FACILITATION DE FORMATIONS CDLF 2026](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47903) | UNDP notices |
 | rolling | — | [International Consultancy Firm to support the Timbuktoo Foundation operations](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47853) | UNDP notices |
 | rolling | — | [Curriculum Development Partner firm to undertake activities for YAI (Cohort 2)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47863) | UNDP notices |
+| rolling | — | [RFP - Pre-Feasibility Scoping and Strategic Roadmap Design for a  Nature-based C](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47937) | UNDP notices |
+| rolling | — | [Individual National Consultancy – National Gender and Stakeholder Engagement Spe](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47914) | UNDP notices |

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-07-24 · 104 open of 139 logged_
+_Updated 2026-07-25 · 105 open of 140 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -107,3 +107,4 @@ _Updated 2026-07-24 · 104 open of 139 logged_
 | rolling | — | [Curriculum Development Partner firm to undertake activities for YAI (Cohort 2)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47863) | UNDP notices |
 | rolling | — | [RFP - Pre-Feasibility Scoping and Strategic Roadmap Design for a  Nature-based C](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47937) | UNDP notices |
 | rolling | — | [Individual National Consultancy – National Gender and Stakeholder Engagement Spe](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47914) | UNDP notices |
+| rolling | — | [RFP-005/26:Consultancy Service to Conduct a National Study on Climate Security](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47960) | UNDP notices |

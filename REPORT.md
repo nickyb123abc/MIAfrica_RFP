@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-07-25 · 105 open of 140 logged_
+_Updated 2026-07-26 · 105 open of 140 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|

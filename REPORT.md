@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-07-28 · 106 open of 142 logged_
+_Updated 2026-07-29 · 106 open of 143 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-07-28 | 58.0 | [Stronger justice institutions for local economic development](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/187095PROSPECTSEN?isExactMatch=true&status=31094501,31094502,31094503&frameworkProgramme=111111&order=DESC&pageNumber=1&pageSize=50&sortBy=startDate) | @AfricanNGOs Jul-Aug roundup |
 | 2026-07-30 | 67.8 | [Strengthening & adaptation of forestry training provision — Côte d'Ivoire (RFA)](https://www2.fundsforngos.org/listing/empowering-africas-next-generation-through-educational-opportunities/) | fundsforNGOs |
 | 2026-07-31 | 46.5 | [Conservation grants — African World Heritage properties](https://awhf.net/wp-content/uploads/2026/06/Call-for-Applications_Conservation_Grant_English_2026.pdf) | fundsforNGOs |
 | 2026-07-31 | 38.5 | [Community media funding](https://mdda.org.za/funding.html) | @AfricanNGOs Jul-Aug roundup |
@@ -109,3 +108,4 @@ _Updated 2026-07-28 · 106 open of 142 logged_
 | rolling | — | [RFP-005/26:Consultancy Service to Conduct a National Study on Climate Security](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47960) | UNDP notices |
 | rolling | — | [Recrutement d'un Cabinet pour la refonte de signalement en ligne](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48011) | UNDP notices |
 | rolling | — | [Capacity Building of Libyan Forensic Institutions](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47991) | UNDP notices |
+| rolling | — | [Cabinet pour l’élaboration Plan d'Urgence pour le Développement Communautaire](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48049) | UNDP notices |

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-07-29 · 106 open of 143 logged_
+_Updated 2026-07-30 · 109 open of 146 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -109,3 +109,6 @@ _Updated 2026-07-29 · 106 open of 143 logged_
 | rolling | — | [Recrutement d'un Cabinet pour la refonte de signalement en ligne](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48011) | UNDP notices |
 | rolling | — | [Capacity Building of Libyan Forensic Institutions](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47991) | UNDP notices |
 | rolling | — | [Cabinet pour l’élaboration Plan d'Urgence pour le Développement Communautaire](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48049) | UNDP notices |
+| rolling | — | [UNDP-TCD-00961-Recrutement d’un cabinet pour le développement d'un progiciel](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48110) | UNDP notices |
+| rolling | — | [Consultancy Firm to Conduct an Integrated Baseline Study and M&E/MRV Systems Ass](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48112) | UNDP notices |
+| rolling | — | [Recrutement cabinet de maîtrise d’œuvre pour infrastructures pastorales et HVA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48067) | UNDP notices |

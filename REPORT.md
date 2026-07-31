@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-07-30 · 109 open of 146 logged_
+_Updated 2026-07-31 · 113 open of 151 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-07-30 | 67.8 | [Strengthening & adaptation of forestry training provision — Côte d'Ivoire (RFA)](https://www2.fundsforngos.org/listing/empowering-africas-next-generation-through-educational-opportunities/) | fundsforNGOs |
 | 2026-07-31 | 46.5 | [Conservation grants — African World Heritage properties](https://awhf.net/wp-content/uploads/2026/06/Call-for-Applications_Conservation_Grant_English_2026.pdf) | fundsforNGOs |
 | 2026-07-31 | 38.5 | [Community media funding](https://mdda.org.za/funding.html) | @AfricanNGOs Jul-Aug roundup |
 | 2026-07-31 | 59.0 | [Economic opportunity grants — financial literacy, access to capital (EOI)](https://www.nasdaq.com/nasdaq-foundation/grant-program) | Impact Funding (Jul) |
@@ -24,6 +23,7 @@ _Updated 2026-07-30 · 109 open of 146 logged_
 | 2026-08-31 | 63.8 | [AL-Sumait Prize for African Development](https://www2.fundsforngos.org/listing/unlock-africas-most-promising-grants-fellowships-awards-and-innovation-opportunities/) | fundsforNGOs |
 | 2026-08-31 | 56.5 | [FoodSafety4Africa — open call 2 (hubs train & mentor)](https://foodsafety4africa.eu/open-call) | @AfricanNGOs Jul-Aug roundup |
 | 2026-09-08 | 31.5 | [Mobilise Power Fund — window 2](https://tinyurl.com/mt2y6xhn) | @AfricanNGOs Jun-Jul roundup |
+| 2026-09-15 | — | [CFAs: Strengthening the Role of Women’s Rights Organisations for Implementation of Gender Equality (](https://www2.fundsforngos.org/civil-society-development/cfas-strengthening-the-role-of-womens-rights-organisations-for-implementation-of-gender-equality-zimbabwe/) | fundsforNGOs |
 | 2026-09-18 | 41.2 | [CEPF Mediterranean Basin hotspot — large grants (LOI)](https://www2.fundsforngos.org/) | fundsforNGOs |
 | 2026-09-25 | 64.2 | [Multilateral research call — Africa STI Strategy (consortia EOIs)](https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology) | Terra Viva Grants |
 | 2026-12-18 | 69.8 | [GALS methodology development + ToT (300 trainers) — READ programme](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98727) | Impact Funding (Jul) |
@@ -112,3 +112,7 @@ _Updated 2026-07-30 · 109 open of 146 logged_
 | rolling | — | [UNDP-TCD-00961-Recrutement d’un cabinet pour le développement d'un progiciel](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48110) | UNDP notices |
 | rolling | — | [Consultancy Firm to Conduct an Integrated Baseline Study and M&E/MRV Systems Ass](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48112) | UNDP notices |
 | rolling | — | [Recrutement cabinet de maîtrise d’œuvre pour infrastructures pastorales et HVA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48067) | UNDP notices |
+| rolling | — | [Consultancy for Editing, proofreading, graphic design, layout, website-ready pub](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48152) | UNDP notices |
+| rolling | — | [Recrutement d’un cabinet en vue de l’élaboration de supports de formation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48156) | UNDP notices |
+| rolling | — | [Recrutement de cabinet pour l'élaboration de  Stratégies Nationales](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48132) | UNDP notices |
+| rolling | — | [SDG Pipeline Builder Methodology for SMEs in South Africa](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48133) | UNDP notices |

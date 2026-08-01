@@ -1,14 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-07-31 · 113 open of 151 logged_
+_Updated 2026-08-01 · 118 open of 162 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-07-31 | 46.5 | [Conservation grants — African World Heritage properties](https://awhf.net/wp-content/uploads/2026/06/Call-for-Applications_Conservation_Grant_English_2026.pdf) | fundsforNGOs |
-| 2026-07-31 | 38.5 | [Community media funding](https://mdda.org.za/funding.html) | @AfricanNGOs Jul-Aug roundup |
-| 2026-07-31 | 59.0 | [Economic opportunity grants — financial literacy, access to capital (EOI)](https://www.nasdaq.com/nasdaq-foundation/grant-program) | Impact Funding (Jul) |
-| 2026-07-31 | 55.0 | [Lipman Family Prize — social & economic impact orgs](https://lipmanfamilyprize.wharton.upenn.edu/about-the-prize/) | Terra Viva Grants |
-| 2026-07-31 | 46.5 | [2027 RISK Award — climate resilience, informal settlements](https://www.munichre-foundation.org/en/climate-adaptation/risk-award/news/2027-risk-award-call.html) | Impact Funding (Jul) |
-| 2026-07-31 | 37.2 | [Opportunity Seeds — climate & weather (high-risk R&D)](https://aria.org.uk/opportunity-spaces/future-proofing-our-climate-and-weather/funding) | Impact Funding (Jul) |
 | 2026-08-02 | 62.2 | [RFP: Global lead poisoning research (with CGD)](https://www.cgdev.org/blog/momentum-tackling-global-lead-poisoning-continues-grow-theres-still-much-we-dont-know-so-were) | coefficientgiving.org |
 | 2026-08-04 | 55.5 | [Civil Society Fund Plus — Ethiopia](https://caidmicrosites.z33.web.core.windows.net) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-04 | 45.8 | [Common Good Cyber Fund](https://www.isocfoundation.org/2026/06/internet-society-foundation-opens-global-call-for-common-good-cyber-fund-to-strengthen-cybersecurity) | @AfricanNGOs Jul-Aug roundup |
@@ -116,3 +110,14 @@ _Updated 2026-07-31 · 113 open of 151 logged_
 | rolling | — | [Recrutement d’un cabinet en vue de l’élaboration de supports de formation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48156) | UNDP notices |
 | rolling | — | [Recrutement de cabinet pour l'élaboration de  Stratégies Nationales](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48132) | UNDP notices |
 | rolling | — | [SDG Pipeline Builder Methodology for SMEs in South Africa](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48133) | UNDP notices |
+| rolling | — | [Canada Fund for Local Initiatives — Community Projects in Brazil](https://www.terravivagrants.org/fund-for-local-initiatives-brazil/) | Terra Viva Grants |
+| rolling | — | [European Research Council — Advanced Grant 2026](https://www.terravivagrants.org/european-research-council-advanced-grant/) | Terra Viva Grants |
+| rolling | — | [United Nations — Indigenous Fellowship Program](https://www.terravivagrants.org/united-nations-indigenous-fellowship-program/) | Terra Viva Grants |
+| rolling | — | [World Bank — Africa Visiting Scholars Program](https://www.terravivagrants.org/africa-visiting-scholars-program/) | Terra Viva Grants |
+| rolling | — | [Freiburg Institute for Advanced Studies — Sustainable Governance Research by Africa-Based Scholars](https://www.terravivagrants.org/fellowship-programme-for-researchers-from-africa/) | Terra Viva Grants |
+| rolling | — | [Zendal Group — Biotechnology Awards](https://www.terravivagrants.org/biotechnology-awards/) | Terra Viva Grants |
+| rolling | — | [Giving Joy — Micro-Grants for Women Entrepreneurs](https://www.terravivagrants.org/giving-joy-grants/) | Terra Viva Grants |
+| rolling | — | [UK Department for International Development — Commonwealth Master’s Scholarships 2027](https://www.terravivagrants.org/commonwealth-masters-scholarships/) | Terra Viva Grants |
+| rolling | — | [UK Foreign, Commonwealth & Development Office — Commonwealth PhD Scholarships 2027](https://www.terravivagrants.org/commonwealth-phd-scholarships/) | Terra Viva Grants |
+| rolling | — | [Earth Institute — Post-Doctoral Fellowships 2027](https://www.terravivagrants.org/earth-institute-post-doctoral-fellowships/) | Terra Viva Grants |
+| rolling | — | [RECRUTEMENT CABINET RENFORCEMENT DE CAPACITE PNA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48165) | UNDP notices |

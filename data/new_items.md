@@ -1,14 +1,26 @@
-## 5 new opportunity item(s) — 2026-07-31
+## 11 new opportunity item(s) — 2026-08-01
 
-- **CFAs: Strengthening the Role of Women’s Rights Organisations for Implementation of Gender Equality (Zimbabwe)** (; deadline 15-Sep-2026) [fundsforNGOs](https://www2.fundsforngos.org/civil-society-development/cfas-strengthening-the-role-of-womens-rights-organisations-for-implementation-of-gender-equality-zimbabwe/)
-- **Consultancy for Editing, proofreading, graphic design, layout, website-ready pub** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48152)
-- **Recrutement d’un cabinet en vue de l’élaboration de supports de formation** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48156)
-- **Recrutement de cabinet pour l'élaboration de  Stratégies Nationales** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48132)
-- **SDG Pipeline Builder Methodology for SMEs in South Africa** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48133)
+- **Canada Fund for Local Initiatives — Community Projects in Brazil** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/fund-for-local-initiatives-brazil/)
+- **European Research Council — Advanced Grant 2026** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/european-research-council-advanced-grant/)
+- **United Nations — Indigenous Fellowship Program** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/united-nations-indigenous-fellowship-program/)
+- **World Bank — Africa Visiting Scholars Program** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/africa-visiting-scholars-program/)
+- **Freiburg Institute for Advanced Studies — Sustainable Governance Research by Africa-Based Scholars** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/fellowship-programme-for-researchers-from-africa/)
+- **Zendal Group — Biotechnology Awards** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/biotechnology-awards/)
+- **Giving Joy — Micro-Grants for Women Entrepreneurs** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/giving-joy-grants/)
+- **UK Department for International Development — Commonwealth Master’s Scholarships 2027** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/commonwealth-masters-scholarships/)
+- **UK Foreign, Commonwealth & Development Office — Commonwealth PhD Scholarships 2027** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/commonwealth-phd-scholarships/)
+- **Earth Institute — Post-Doctoral Fellowships 2027** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/earth-institute-post-doctoral-fellowships/)
+- **RECRUTEMENT CABINET RENFORCEMENT DE CAPACITE PNA** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48165)
 
 ## Scoring flags — needs human review
-- CFAs: Strengthening the Role of Women’s Rights Organisations for Implementation of Gender Equality (Zimbabwe)
-- Consultancy for Editing, proofreading, graphic design, layout, website-ready pub
-- Recrutement d’un cabinet en vue de l’élaboration de supports de formation
-- Recrutement de cabinet pour l'élaboration de  Stratégies Nationales
-- SDG Pipeline Builder Methodology for SMEs in South Africa
+- Canada Fund for Local Initiatives — Community Projects in Brazil
+- European Research Council — Advanced Grant 2026
+- United Nations — Indigenous Fellowship Program
+- World Bank — Africa Visiting Scholars Program
+- Freiburg Institute for Advanced Studies — Sustainable Governance Research by Africa-Based Scholars
+- Zendal Group — Biotechnology Awards
+- Giving Joy — Micro-Grants for Women Entrepreneurs
+- UK Department for International Development — Commonwealth Master’s Scholarships 2027
+- UK Foreign, Commonwealth & Development Office — Commonwealth PhD Scholarships 2027
+- Earth Institute — Post-Doctoral Fellowships 2027
+- RECRUTEMENT CABINET RENFORCEMENT DE CAPACITE PNA

@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-08-02 · 118 open of 162 logged_
+_Updated 2026-08-03 · 119 open of 164 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-08-02 | 62.2 | [RFP: Global lead poisoning research (with CGD)](https://www.cgdev.org/blog/momentum-tackling-global-lead-poisoning-continues-grow-theres-still-much-we-dont-know-so-were) | coefficientgiving.org |
 | 2026-08-04 | 55.5 | [Civil Society Fund Plus — Ethiopia](https://caidmicrosites.z33.web.core.windows.net) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-04 | 45.8 | [Common Good Cyber Fund](https://www.isocfoundation.org/2026/06/internet-society-foundation-opens-global-call-for-common-good-cyber-fund-to-strengthen-cybersecurity) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-05 | 40.8 | [Go Healthy with Taiwan — global proposal campaign](https://gohealthy.taiwanexcellence.org/) | Impact Funding (Jul) |
@@ -121,3 +120,5 @@ _Updated 2026-08-02 · 118 open of 162 logged_
 | rolling | — | [UK Foreign, Commonwealth & Development Office — Commonwealth PhD Scholarships 2027](https://www.terravivagrants.org/commonwealth-phd-scholarships/) | Terra Viva Grants |
 | rolling | — | [Earth Institute — Post-Doctoral Fellowships 2027](https://www.terravivagrants.org/earth-institute-post-doctoral-fellowships/) | Terra Viva Grants |
 | rolling | — | [RECRUTEMENT CABINET RENFORCEMENT DE CAPACITE PNA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48165) | UNDP notices |
+| rolling | — | [UNDP-MDG-00855 EVALUATION A MI-PARCOURS DU PROGRAMME DE PAYS DU PNUD MADAGASCAR](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48202) | UNDP notices |
+| rolling | — | [National Firm for Farmer Registration & Livestock Traceability Platform - Rwanda](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48211) | UNDP notices |

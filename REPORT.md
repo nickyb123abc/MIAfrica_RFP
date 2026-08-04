@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-03 · 119 open of 164 logged_
+_Updated 2026-08-04 · 120 open of 165 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -122,3 +122,4 @@ _Updated 2026-08-03 · 119 open of 164 logged_
 | rolling | — | [RECRUTEMENT CABINET RENFORCEMENT DE CAPACITE PNA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48165) | UNDP notices |
 | rolling | — | [UNDP-MDG-00855 EVALUATION A MI-PARCOURS DU PROGRAMME DE PAYS DU PNUD MADAGASCAR](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48202) | UNDP notices |
 | rolling | — | [National Firm for Farmer Registration & Livestock Traceability Platform - Rwanda](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48211) | UNDP notices |
+| rolling | — | [GIZ Uganda: Call for proposals to provide emergency response support](https://www.giz.de/en/call-proposals-provide-emergency-response-support) | GIZ tenders |

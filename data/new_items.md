@@ -1,8 +1,6 @@
-## 2 new opportunity item(s) — 2026-08-03
+## 1 new opportunity item(s) — 2026-08-04
 
-- **UNDP-MDG-00855 EVALUATION A MI-PARCOURS DU PROGRAMME DE PAYS DU PNUD MADAGASCAR** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48202)
-- **National Firm for Farmer Registration & Livestock Traceability Platform - Rwanda** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48211)
+- **GIZ Uganda: Call for proposals to provide emergency response support** (GIZ; deadline —) [GIZ tenders](https://www.giz.de/en/call-proposals-provide-emergency-response-support)
 
 ## Scoring flags — needs human review
-- UNDP-MDG-00855 EVALUATION A MI-PARCOURS DU PROGRAMME DE PAYS DU PNUD MADAGASCAR
-- National Firm for Farmer Registration & Livestock Traceability Platform - Rwanda
+- GIZ Uganda: Call for proposals to provide emergency response support

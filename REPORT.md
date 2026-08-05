@@ -1,10 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-08-04 · 120 open of 165 logged_
+_Updated 2026-08-05 · 123 open of 170 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-08-04 | 55.5 | [Civil Society Fund Plus — Ethiopia](https://caidmicrosites.z33.web.core.windows.net) | @AfricanNGOs Jul-Aug roundup |
-| 2026-08-04 | 45.8 | [Common Good Cyber Fund](https://www.isocfoundation.org/2026/06/internet-society-foundation-opens-global-call-for-common-good-cyber-fund-to-strengthen-cybersecurity) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-05 | 40.8 | [Go Healthy with Taiwan — global proposal campaign](https://gohealthy.taiwanexcellence.org/) | Impact Funding (Jul) |
 | 2026-08-12 | 48.8 | [Women's rights organisations & networks — grant tiers](https://www.uaf-africa.org/news_and_events/investing-in-womens-rights-organisations-and-networks-in-africa) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-15 | 81.2 | [Blue Ambition Fund — SGB capacity & skilling for employment](https://www.wildeganzen.org/programs/blue-ambition-fund/baf-call-for-applications#info) | @AfricanNGOs Jul-Aug roundup |
@@ -123,3 +121,8 @@ _Updated 2026-08-04 · 120 open of 165 logged_
 | rolling | — | [UNDP-MDG-00855 EVALUATION A MI-PARCOURS DU PROGRAMME DE PAYS DU PNUD MADAGASCAR](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48202) | UNDP notices |
 | rolling | — | [National Firm for Farmer Registration & Livestock Traceability Platform - Rwanda](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48211) | UNDP notices |
 | rolling | — | [GIZ Uganda: Call for proposals to provide emergency response support](https://www.giz.de/en/call-proposals-provide-emergency-response-support) | GIZ tenders |
+| rolling | — | [Provision of Legal Advisory Services (Firm) for the timbuktoo Initiative Kigali](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48292) | UNDP notices |
+| rolling | — | [Consultancy firm as a Strategic Creative Sector Ecosystem Partner](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48241) | UNDP notices |
+| rolling | — | [Firm for Rwanda DPI, Data Economy and AI Readiness Deep Dive  Assessment](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48244) | UNDP notices |
+| rolling | — | [Low-Value Grants to Civil Society Organizations (CSOs)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48264) | UNDP notices |
+| rolling | — | [Engagement cabinet national ou international en BP/PPP/mobilisation financement](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48220) | UNDP notices |

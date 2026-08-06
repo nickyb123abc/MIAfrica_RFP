@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-08-05 · 123 open of 170 logged_
+_Updated 2026-08-06 · 128 open of 176 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-08-05 | 40.8 | [Go Healthy with Taiwan — global proposal campaign](https://gohealthy.taiwanexcellence.org/) | Impact Funding (Jul) |
 | 2026-08-12 | 48.8 | [Women's rights organisations & networks — grant tiers](https://www.uaf-africa.org/news_and_events/investing-in-womens-rights-organisations-and-networks-in-africa) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-15 | 81.2 | [Blue Ambition Fund — SGB capacity & skilling for employment](https://www.wildeganzen.org/programs/blue-ambition-fund/baf-call-for-applications#info) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-19 | 33.2 | [Sky Is Not The Limit — social impact grant](https://bombshellimpact.com/sky) | @AfricanNGOs Jul-Aug roundup |
@@ -126,3 +125,9 @@ _Updated 2026-08-05 · 123 open of 170 logged_
 | rolling | — | [Firm for Rwanda DPI, Data Economy and AI Readiness Deep Dive  Assessment](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48244) | UNDP notices |
 | rolling | — | [Low-Value Grants to Civil Society Organizations (CSOs)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48264) | UNDP notices |
 | rolling | — | [Engagement cabinet national ou international en BP/PPP/mobilisation financement](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48220) | UNDP notices |
+| rolling | — | [Recrutement de deux Organisations de la Société Civile (OSC)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48334) | UNDP notices |
+| rolling | — | [PRC018553- RECRUTEMENT CABINET AUDIT BENEFICIAIRES CONTRAT PBP](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48339) | UNDP notices |
+| rolling | — | [Call for Proposals for a Low Value Grant - Provision of Technical Services to Integrate Climate-Smar](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98882) | UNDP notices |
+| rolling | — | [RFP for Scouting and Selection Services under the Young Africa Innova](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48304) | UNDP notices |
+| rolling | — | [UNDP-MDG-00856 CABINET ELABORATION PROJET DE TEXTE REGLEMENTANT DES SERVICES](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48302) | UNDP notices |
+| rolling | — | [UNDP-TCD-00968 – RFQ POUR LA SÉLECTION D’UNE AGENCE DE BRANDING INSTITUTIONNEL](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48318) | UNDP notices |

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-06 · 128 open of 176 logged_
+_Updated 2026-08-07 · 130 open of 178 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -131,3 +131,5 @@ _Updated 2026-08-06 · 128 open of 176 logged_
 | rolling | — | [RFP for Scouting and Selection Services under the Young Africa Innova](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48304) | UNDP notices |
 | rolling | — | [UNDP-MDG-00856 CABINET ELABORATION PROJET DE TEXTE REGLEMENTANT DES SERVICES](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48302) | UNDP notices |
 | rolling | — | [UNDP-TCD-00968 – RFQ POUR LA SÉLECTION D’UNE AGENCE DE BRANDING INSTITUTIONNEL](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48318) | UNDP notices |
+| rolling | — | [Consultancy for Circular Economy Assessment, Roadmap, and Capacity Building](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48358) | UNDP notices |
+| rolling | — | [Recrutement Cabinet pour les inventaires physiques du PNUD Tchad](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48362) | UNDP notices |

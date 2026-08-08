@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-07 · 130 open of 178 logged_
+_Updated 2026-08-08 · 134 open of 182 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -133,3 +133,7 @@ _Updated 2026-08-07 · 130 open of 178 logged_
 | rolling | — | [UNDP-TCD-00968 – RFQ POUR LA SÉLECTION D’UNE AGENCE DE BRANDING INSTITUTIONNEL](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48318) | UNDP notices |
 | rolling | — | [Consultancy for Circular Economy Assessment, Roadmap, and Capacity Building](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48358) | UNDP notices |
 | rolling | — | [Recrutement Cabinet pour les inventaires physiques du PNUD Tchad](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48362) | UNDP notices |
+| rolling | — | [Senior Institutional Development and  Organizational Strengthening Advisor](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48404) | UNDP notices |
+| rolling | — | [Consultancy: Formulate the South Sudan Nationally Determined Contribution - Read](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48405) | UNDP notices |
+| rolling | — | [Development of an Adaptation Financing  and Resource Mobilization Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48406) | UNDP notices |
+| rolling | — | [Country Programme Document (CPD) Midterm Evaluation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48408) | UNDP notices |

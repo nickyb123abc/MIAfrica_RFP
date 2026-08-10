@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-09 · 134 open of 182 logged_
+_Updated 2026-08-10 · 135 open of 183 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -137,3 +137,4 @@ _Updated 2026-08-09 · 134 open of 182 logged_
 | rolling | — | [Consultancy: Formulate the South Sudan Nationally Determined Contribution - Read](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48405) | UNDP notices |
 | rolling | — | [Development of an Adaptation Financing  and Resource Mobilization Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48406) | UNDP notices |
 | rolling | — | [Country Programme Document (CPD) Midterm Evaluation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48408) | UNDP notices |
+| rolling | — | [Mid Term Project Evaluation of ETH-GBON-SOFF Project](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48442) | UNDP notices |

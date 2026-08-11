@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-10 · 135 open of 183 logged_
+_Updated 2026-08-11 · 137 open of 185 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -138,3 +138,5 @@ _Updated 2026-08-10 · 135 open of 183 logged_
 | rolling | — | [Development of an Adaptation Financing  and Resource Mobilization Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48406) | UNDP notices |
 | rolling | — | [Country Programme Document (CPD) Midterm Evaluation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48408) | UNDP notices |
 | rolling | — | [Mid Term Project Evaluation of ETH-GBON-SOFF Project](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48442) | UNDP notices |
+| rolling | — | [LOT4_Electronic Security Systems Design Consultancy Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48506) | UNDP notices |
+| rolling | — | [RFP for Scouting and Selection Services under the YAI Programme](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48470) | UNDP notices |

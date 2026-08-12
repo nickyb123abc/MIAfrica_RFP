@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-11 · 137 open of 185 logged_
+_Updated 2026-08-12 · 148 open of 196 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -140,3 +140,14 @@ _Updated 2026-08-11 · 137 open of 185 logged_
 | rolling | — | [Mid Term Project Evaluation of ETH-GBON-SOFF Project](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48442) | UNDP notices |
 | rolling | — | [LOT4_Electronic Security Systems Design Consultancy Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48506) | UNDP notices |
 | rolling | — | [RFP for Scouting and Selection Services under the YAI Programme](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48470) | UNDP notices |
+| rolling | — | [United Nations Institute for Training and Research — Disaster Risk Reduction Leadership Training](https://www.terravivagrants.org/disaster-risk-reduction-training-program-for-women/) | Terra Viva Grants |
+| rolling | — | [Earth Journalism Network — Virtual Media Workshop on Mining, Environment and Human Rights Reporting ](https://www.terravivagrants.org/virtual-media-workshop-africa/) | Terra Viva Grants |
+| rolling | — | [Charity Entrepreneurship — Seed Funding to Launch an Animal Welfare Charity](https://www.terravivagrants.org/seed-funding-to-launch-an-animal-welfare-charity/) | Terra Viva Grants |
+| rolling | — | [United Nations Environment Program — Mountain Community Resilience Grants in East Africa](https://www.terravivagrants.org/mountain-community-resilience-grants/) | Terra Viva Grants |
+| rolling | — | [American Association of University Women — International Fellowships for Women in STEM](https://www.terravivagrants.org/international-fellowships-for-women-in-stem/) | Terra Viva Grants |
+| rolling | — | [American Association of University Women — International Project Grants](https://www.terravivagrants.org/international-project-grants/) | Terra Viva Grants |
+| rolling | — | [Kendall College of Art and Design — Sustainable Design Challenge](https://www.terravivagrants.org/sustainable-design-challenge/) | Terra Viva Grants |
+| rolling | — | [UK Foreign and Commonwealth Office — Chevening Scholarships 2027-2028](https://www.terravivagrants.org/uk-chevening-scholarships/) | Terra Viva Grants |
+| rolling | — | [Pulitzer Center — Local Letters for Global Change](https://www.terravivagrants.org/pulitzer-center-local-letters-for-global-change/) | Terra Viva Grants |
+| rolling | — | [RFP for Scouting and Selection Services under the YAI Programme in Akwa Ibom](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48526) | UNDP notices |
+| rolling | — | [UNDP-MDG-00861 EVALUATION FINALE DU PROJET LANDJA A MADAGASCAR](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48537) | UNDP notices |

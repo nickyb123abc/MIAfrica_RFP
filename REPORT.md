@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-08-12 · 148 open of 196 logged_
+_Updated 2026-08-13 · 151 open of 200 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-08-12 | 48.8 | [Women's rights organisations & networks — grant tiers](https://www.uaf-africa.org/news_and_events/investing-in-womens-rights-organisations-and-networks-in-africa) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-15 | 81.2 | [Blue Ambition Fund — SGB capacity & skilling for employment](https://www.wildeganzen.org/programs/blue-ambition-fund/baf-call-for-applications#info) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-19 | 33.2 | [Sky Is Not The Limit — social impact grant](https://bombshellimpact.com/sky) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-21 | 45.5 | [Moving for Change — sport & gender equality, East Africa](https://www.adidasfoundation.org/rfp/moving-for-change-east-africa) | @AfricanNGOs Jul-Aug roundup |
@@ -151,3 +150,7 @@ _Updated 2026-08-12 · 148 open of 196 logged_
 | rolling | — | [Pulitzer Center — Local Letters for Global Change](https://www.terravivagrants.org/pulitzer-center-local-letters-for-global-change/) | Terra Viva Grants |
 | rolling | — | [RFP for Scouting and Selection Services under the YAI Programme in Akwa Ibom](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48526) | UNDP notices |
 | rolling | — | [UNDP-MDG-00861 EVALUATION FINALE DU PROJET LANDJA A MADAGASCAR](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48537) | UNDP notices |
+| rolling | — | [Le développement et la mise en œuvre de programmes de renforcement de capacités](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48646) | UNDP notices |
+| rolling | — | [Consultancy for Evaluating the Current DRMS, Assessing Non‑Tax Domestic Revenue](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48565) | UNDP notices |
+| rolling | — | [Mise en place d'un LTA des consultants nationaux infirmiers en Guinée](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48606) | UNDP notices |
+| rolling | — | [CONSULTANT (E) INTERNATIONAL (E) POUR EVALUATION FINALE (PCC) 2023-2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48608) | UNDP notices |

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-13 · 151 open of 200 logged_
+_Updated 2026-08-14 · 152 open of 201 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -154,3 +154,4 @@ _Updated 2026-08-13 · 151 open of 200 logged_
 | rolling | — | [Consultancy for Evaluating the Current DRMS, Assessing Non‑Tax Domestic Revenue](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48565) | UNDP notices |
 | rolling | — | [Mise en place d'un LTA des consultants nationaux infirmiers en Guinée](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48606) | UNDP notices |
 | rolling | — | [CONSULTANT (E) INTERNATIONAL (E) POUR EVALUATION FINALE (PCC) 2023-2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48608) | UNDP notices |
+| rolling | — | [RFP - Pre-Feasibility Scoping and Strategic Roadmap Design for a  Nature-based C](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48683) | UNDP notices |

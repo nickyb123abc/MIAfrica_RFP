@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-14 · 152 open of 201 logged_
+_Updated 2026-08-15 · 156 open of 205 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -155,3 +155,7 @@ _Updated 2026-08-14 · 152 open of 201 logged_
 | rolling | — | [Mise en place d'un LTA des consultants nationaux infirmiers en Guinée](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48606) | UNDP notices |
 | rolling | — | [CONSULTANT (E) INTERNATIONAL (E) POUR EVALUATION FINALE (PCC) 2023-2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48608) | UNDP notices |
 | rolling | — | [RFP - Pre-Feasibility Scoping and Strategic Roadmap Design for a  Nature-based C](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48683) | UNDP notices |
+| rolling | — | [Call for Proposal for Local Training Service Provider to conduct  Capacity Development Programme Min](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98888) | UNDP notices |
+| rolling | — | [National Consultancy for the terminal evaluation of a project](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48715) | UNDP notices |
+| rolling | — | [International Evaluation Consultant](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48714) | UNDP notices |
+| rolling | — | [Selection of a training provider to deliver a blended certification programme](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48720) | UNDP notices |

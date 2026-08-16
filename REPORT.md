@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-08-15 · 156 open of 205 logged_
+_Updated 2026-08-16 · 155 open of 205 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-08-15 | 81.2 | [Blue Ambition Fund — SGB capacity & skilling for employment](https://www.wildeganzen.org/programs/blue-ambition-fund/baf-call-for-applications#info) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-19 | 33.2 | [Sky Is Not The Limit — social impact grant](https://bombshellimpact.com/sky) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-21 | 45.5 | [Moving for Change — sport & gender equality, East Africa](https://www.adidasfoundation.org/rfp/moving-for-change-east-africa) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-21 | 65.0 | [RFP: Global health & wellbeing in an era of transformative AI](https://coefficientgiving.org/funds/global-health-wellbeing-opportunities/request-for-proposals-global-health-and-wellbeing-in-an-era-of-transformative-ai/) | coefficientgiving.org |

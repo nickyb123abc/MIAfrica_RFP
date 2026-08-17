@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-16 · 155 open of 205 logged_
+_Updated 2026-08-17 · 156 open of 206 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -158,3 +158,4 @@ _Updated 2026-08-16 · 155 open of 205 logged_
 | rolling | — | [National Consultancy for the terminal evaluation of a project](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48715) | UNDP notices |
 | rolling | — | [International Evaluation Consultant](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48714) | UNDP notices |
 | rolling | — | [Selection of a training provider to deliver a blended certification programme](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48720) | UNDP notices |
+| rolling | — | [PRC0182722- EVALUATION FINALE PROJET RAM 2](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48734) | UNDP notices |

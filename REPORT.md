@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-17 · 156 open of 206 logged_
+_Updated 2026-08-18 · 159 open of 209 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -159,3 +159,6 @@ _Updated 2026-08-17 · 156 open of 206 logged_
 | rolling | — | [International Evaluation Consultant](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48714) | UNDP notices |
 | rolling | — | [Selection of a training provider to deliver a blended certification programme](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48720) | UNDP notices |
 | rolling | — | [PRC0182722- EVALUATION FINALE PROJET RAM 2](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48734) | UNDP notices |
+| rolling | — | [RECRUTEMENT 2 CONSULTANTS NATIONAL / INTERNATIONAL EVALUATION FINALE PROJET SEDT](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48750) | UNDP notices |
+| rolling | — | [Consulting Services for Institutional and Governance Reforms to Support Digital](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48761) | UNDP notices |
+| rolling | — | [Local Consultancy: Assessment of PPCU Capacity, Gaps and PMEAL Requirements](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48760) | UNDP notices |

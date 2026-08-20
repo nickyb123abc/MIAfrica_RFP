@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-08-19 · 160 open of 210 logged_
+_Updated 2026-08-20 · 162 open of 213 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-08-19 | 33.2 | [Sky Is Not The Limit — social impact grant](https://bombshellimpact.com/sky) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-21 | 45.5 | [Moving for Change — sport & gender equality, East Africa](https://www.adidasfoundation.org/rfp/moving-for-change-east-africa) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-21 | 65.0 | [RFP: Global health & wellbeing in an era of transformative AI](https://coefficientgiving.org/funds/global-health-wellbeing-opportunities/request-for-proposals-global-health-and-wellbeing-in-an-era-of-transformative-ai/) | coefficientgiving.org |
 | 2026-08-23 | 65.2 | [SRHR research — sub-Saharan Africa (LOIs)](https://idrc-crdi.ca/en/funding/call-letters-interest-addressing-neglected-areas-sexual-and-reproductive-health-and-0) | @AfricanNGOs Jul-Aug roundup |
@@ -163,3 +162,6 @@ _Updated 2026-08-19 · 160 open of 210 logged_
 | rolling | — | [Consulting Services for Institutional and Governance Reforms to Support Digital](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48761) | UNDP notices |
 | rolling | — | [Local Consultancy: Assessment of PPCU Capacity, Gaps and PMEAL Requirements](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48760) | UNDP notices |
 | rolling | — | [Recruitment of a CSO for the management of Delivery of Certified Vocational Skil](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48812) | UNDP notices |
+| rolling | — | [Recrutement d'un Cabinet National Pour la Gestion des Pécules](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48860) | UNDP notices |
+| rolling | — | [RFP31/2026:Développement du prototype Djerba Smart Island](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48850) | UNDP notices |
+| rolling | — | [Reference: SLE10_EOI_001_2026](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48841) | UNDP notices |

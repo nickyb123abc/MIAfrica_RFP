@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-20 · 162 open of 213 logged_
+_Updated 2026-08-21 · 175 open of 226 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -165,3 +165,16 @@ _Updated 2026-08-20 · 162 open of 213 logged_
 | rolling | — | [Recrutement d'un Cabinet National Pour la Gestion des Pécules](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48860) | UNDP notices |
 | rolling | — | [RFP31/2026:Développement du prototype Djerba Smart Island](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48850) | UNDP notices |
 | rolling | — | [Reference: SLE10_EOI_001_2026](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48841) | UNDP notices |
+| rolling | — | [Pulitzer Center — Global South Civil Society Microgrants](https://www.terravivagrants.org/pulitzer-civil-society-microgrants/) | Terra Viva Grants |
+| rolling | — | [Earth Journalism Network — Workshop on Covering Non-Economic Losses and Damage Caused By Climate Cha](https://www.terravivagrants.org/workshop-economic-losses-caused-by-climate-change/) | Terra Viva Grants |
+| rolling | — | [Fast Forward — Tech Accelerator](https://www.terravivagrants.org/fast-forward-tech-accelerator/) | Terra Viva Grants |
+| rolling | — | [World Bank Group — Young Professionals Program 2027](https://www.terravivagrants.org/world-bank-young-professionals-program/) | Terra Viva Grants |
+| rolling | — | [Delft University of Technology — Excellence Scholarships](https://www.terravivagrants.org/delft-university-of-technology-excellence-scholarships/) | Terra Viva Grants |
+| rolling | — | [Beit Trust — Postgraduate Scholarships](https://www.terravivagrants.org/beit-trust-postgraduate-scholarships/) | Terra Viva Grants |
+| rolling | — | [World Bank — Joint Japan/World Bank Graduate Scholarship Program](https://www.terravivagrants.org/joint-japan-world-bank-graduate-scholarship-program/) | Terra Viva Grants |
+| rolling | — | [Green Earth Action Foundation — Fully-Funded Community Climate Leadership Program](https://www.terravivagrants.org/global-ambassador-program/) | Terra Viva Grants |
+| rolling | — | [PRC0189135- EVALUATION FINALE PROJET ANDRIRY MILAMY](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48877) | UNDP notices |
+| rolling | — | [CONSULTANT (E) CHARGE(E) DE FORMULER LE PROGRAMME PILIER III 'Planète Saine'](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48879) | UNDP notices |
+| rolling | — | [National Firm to Design and Deliver Targeted Capacity Building for the Mabamba](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48882) | UNDP notices |
+| rolling | — | [Monitoring, Evaluation and Learning (MEL) Services for the Young Africa Innovate](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48884) | UNDP notices |
+| rolling | — | [UNDP-TCD-00982-Appel à Propositions pour une Organisation Non Gouvernementale](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48889) | UNDP notices |

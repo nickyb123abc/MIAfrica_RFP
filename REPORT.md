@@ -1,10 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-08-21 · 175 open of 226 logged_
+_Updated 2026-08-22 · 177 open of 230 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-08-21 | 45.5 | [Moving for Change — sport & gender equality, East Africa](https://www.adidasfoundation.org/rfp/moving-for-change-east-africa) | @AfricanNGOs Jul-Aug roundup |
-| 2026-08-21 | 65.0 | [RFP: Global health & wellbeing in an era of transformative AI](https://coefficientgiving.org/funds/global-health-wellbeing-opportunities/request-for-proposals-global-health-and-wellbeing-in-an-era-of-transformative-ai/) | coefficientgiving.org |
 | 2026-08-23 | 65.2 | [SRHR research — sub-Saharan Africa (LOIs)](https://idrc-crdi.ca/en/funding/call-letters-interest-addressing-neglected-areas-sexual-and-reproductive-health-and-0) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-30 | — | [Purpose Earth — Grants and Mentorship](https://www.terravivagrants.org/purpose-earth-grant-award/) | Terra Viva Grants |
 | 2026-08-31 | 63.8 | [AL-Sumait Prize for African Development](https://www2.fundsforngos.org/listing/unlock-africas-most-promising-grants-fellowships-awards-and-innovation-opportunities/) | fundsforNGOs |
@@ -178,3 +176,7 @@ _Updated 2026-08-21 · 175 open of 226 logged_
 | rolling | — | [National Firm to Design and Deliver Targeted Capacity Building for the Mabamba](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48882) | UNDP notices |
 | rolling | — | [Monitoring, Evaluation and Learning (MEL) Services for the Young Africa Innovate](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48884) | UNDP notices |
 | rolling | — | [UNDP-TCD-00982-Appel à Propositions pour une Organisation Non Gouvernementale](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48889) | UNDP notices |
+| rolling | — | [Recrutement Cabinet pour les inventaires physiques du PNUD Tchad](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48910) | UNDP notices |
+| rolling | — | [UNDP-ZWE-01994 National Consultancy for Physical Asset Verification Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48925) | UNDP notices |
+| rolling | — | [RFP37-2026 :Bureau d’études pour l’élaboration d’une étude stratégique et opérat](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48932) | UNDP notices |
+| rolling | — | [UNDP-TCD-00984-Recrutement d’un cabinet pour l’élaboration d’une Stratégie](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48935) | UNDP notices |

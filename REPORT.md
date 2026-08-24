@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-08-23 · 177 open of 230 logged_
+_Updated 2026-08-24 · 176 open of 230 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-08-23 | 65.2 | [SRHR research — sub-Saharan Africa (LOIs)](https://idrc-crdi.ca/en/funding/call-letters-interest-addressing-neglected-areas-sexual-and-reproductive-health-and-0) | @AfricanNGOs Jul-Aug roundup |
 | 2026-08-30 | — | [Purpose Earth — Grants and Mentorship](https://www.terravivagrants.org/purpose-earth-grant-award/) | Terra Viva Grants |
 | 2026-08-31 | 63.8 | [AL-Sumait Prize for African Development](https://www2.fundsforngos.org/listing/unlock-africas-most-promising-grants-fellowships-awards-and-innovation-opportunities/) | fundsforNGOs |
 | 2026-08-31 | 56.5 | [FoodSafety4Africa — open call 2 (hubs train & mentor)](https://foodsafety4africa.eu/open-call) | @AfricanNGOs Jul-Aug roundup |

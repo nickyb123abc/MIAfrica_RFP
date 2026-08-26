@@ -1,6 +1,6 @@
-## 1 new opportunity item(s) — 2026-08-25
+## 1 new opportunity item(s) — 2026-08-26
 
-- **Recrutement d'un cabinet en charge de la conception, developpement de solution** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48972)
+- **Consultant Individuel National Elaboration Système Suivi-Evaluation MC et CDN** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49034)
 
 ## Scoring flags — needs human review
-- Recrutement d'un cabinet en charge de la conception, developpement de solution
+- Consultant Individuel National Elaboration Système Suivi-Evaluation MC et CDN

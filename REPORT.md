@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-25 · 177 open of 231 logged_
+_Updated 2026-08-26 · 178 open of 232 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -180,3 +180,4 @@ _Updated 2026-08-25 · 177 open of 231 logged_
 | rolling | — | [RFP37-2026 :Bureau d’études pour l’élaboration d’une étude stratégique et opérat](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48932) | UNDP notices |
 | rolling | — | [UNDP-TCD-00984-Recrutement d’un cabinet pour l’élaboration d’une Stratégie](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48935) | UNDP notices |
 | rolling | — | [Recrutement d'un cabinet en charge de la conception, developpement de solution](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48972) | UNDP notices |
+| rolling | — | [Consultant Individuel National Elaboration Système Suivi-Evaluation MC et CDN](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49034) | UNDP notices |

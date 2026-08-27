@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-08-26 · 178 open of 232 logged_
+_Updated 2026-08-27 · 187 open of 241 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -181,3 +181,12 @@ _Updated 2026-08-26 · 178 open of 232 logged_
 | rolling | — | [UNDP-TCD-00984-Recrutement d’un cabinet pour l’élaboration d’une Stratégie](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48935) | UNDP notices |
 | rolling | — | [Recrutement d'un cabinet en charge de la conception, developpement de solution](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48972) | UNDP notices |
 | rolling | — | [Consultant Individuel National Elaboration Système Suivi-Evaluation MC et CDN](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49034) | UNDP notices |
+| rolling | — | [Renforcement de la résilience du Congo face aux catastrophes](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49111) | UNDP notices |
+| rolling | — | [Call for Proposals-Civil Society Organizations (CSOs) or NGOs](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49095) | UNDP notices |
+| rolling | — | [Selection d'un prestataire pour la mise en conformité, sécurisation électrique](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49109) | UNDP notices |
+| rolling | — | [Consultancy firm for safety Inspection, and Certification of 4 no of Elevators](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49110) | UNDP notices |
+| rolling | — | [RECRUTEMENT DE CABINET POUR REVUE A MI PARCOURS RSF](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49071) | UNDP notices |
+| rolling | — | [Call for Proposals-Civil Society Organizations (CSOs) or NGOs](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49072) | UNDP notices |
+| rolling | — | [RFP - Conduct the Mid-term review of the extended NSDP II 2023/24 – 2027/28](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49046) | UNDP notices |
+| rolling | — | [Consultancy Services for Participatory Assessment, GIS-Based Planning, and Commu](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49068) | UNDP notices |
+| rolling | — | [RFP -  Facilitation of Sebabatso Bootcamp and Conference Facilitation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49076) | UNDP notices |

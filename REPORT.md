@@ -1,14 +1,13 @@
 # Opportunity screener — open items
-_Updated 2026-08-31 · 186 open of 241 logged_
+_Updated 2026-09-01 · 186 open of 243 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-08-31 | 63.8 | [AL-Sumait Prize for African Development](https://www2.fundsforngos.org/listing/unlock-africas-most-promising-grants-fellowships-awards-and-innovation-opportunities/) | fundsforNGOs |
-| 2026-08-31 | 56.5 | [FoodSafety4Africa — open call 2 (hubs train & mentor)](https://foodsafety4africa.eu/open-call) | @AfricanNGOs Jul-Aug roundup |
 | 2026-09-08 | 31.5 | [Mobilise Power Fund — window 2](https://tinyurl.com/mt2y6xhn) | @AfricanNGOs Jun-Jul roundup |
 | 2026-09-15 | — | [CFAs: Strengthening the Role of Women’s Rights Organisations for Implementation of Gender Equality (](https://www2.fundsforngos.org/civil-society-development/cfas-strengthening-the-role-of-womens-rights-organisations-for-implementation-of-gender-equality-zimbabwe/) | fundsforNGOs |
 | 2026-09-18 | 41.2 | [CEPF Mediterranean Basin hotspot — large grants (LOI)](https://www2.fundsforngos.org/) | fundsforNGOs |
 | 2026-09-25 | 64.2 | [Multilateral research call — Africa STI Strategy (consortia EOIs)](https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology) | Terra Viva Grants |
+| 2026-09-28 | — | [Request for Applications: Touring Support Grant (Australia)](https://www2.fundsforngos.org/tourism-travel-2/request-for-applications-touring-support-grant-australia/) | fundsforNGOs |
 | 2026-12-18 | 69.8 | [GALS methodology development + ToT (300 trainers) — READ programme](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98727) | Impact Funding (Jul) |
 | 2026-12-20 | 57.2 | [NGO capacity support (SEED/THRIVE)](https://onenessrevivalteam.info/grant-application) | @AfricanNGOs Jun-Jul roundup |
 | 2026-12-31 | 46.2 | [Locally-led development initiatives](https://tinyurl.com/bdhnuzte) | @AfricanNGOs Jun-Jul roundup |
@@ -189,3 +188,4 @@ _Updated 2026-08-31 · 186 open of 241 logged_
 | rolling | — | [RFP - Conduct the Mid-term review of the extended NSDP II 2023/24 – 2027/28](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49046) | UNDP notices |
 | rolling | — | [Consultancy Services for Participatory Assessment, GIS-Based Planning, and Commu](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49068) | UNDP notices |
 | rolling | — | [RFP -  Facilitation of Sebabatso Bootcamp and Conference Facilitation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49076) | UNDP notices |
+| rolling | — | [Recrutement d'un Cabinet National pour le Développement des solutions numériques](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49191) | UNDP notices |

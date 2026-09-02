@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-01 · 186 open of 243 logged_
+_Updated 2026-09-02 · 203 open of 260 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -11,6 +11,7 @@ _Updated 2026-09-01 · 186 open of 243 logged_
 | 2026-12-18 | 69.8 | [GALS methodology development + ToT (300 trainers) — READ programme](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98727) | Impact Funding (Jul) |
 | 2026-12-20 | 57.2 | [NGO capacity support (SEED/THRIVE)](https://onenessrevivalteam.info/grant-application) | @AfricanNGOs Jun-Jul roundup |
 | 2026-12-31 | 46.2 | [Locally-led development initiatives](https://tinyurl.com/bdhnuzte) | @AfricanNGOs Jun-Jul roundup |
+| 2026-12-31 | — | [SLA BoostHer Program for Young Nigerian Women Entrepreneurs](https://www2.fundsforngos.org/individuals/sla-boosther-program-for-young-nigerian-women-entrepreneurs/) | fundsforNGOs |
 | 2027-03-31 | 53.8 | [Pandemic prevention, preparedness & response](https://tinyurl.com/yr9hhy5b) | @AfricanNGOs Jun-Jul roundup |
 | rolling | 55.2 | [TA to strengthen Central Bank of Somalia bank supervision & AML foundations](n/a) | Devex |
 | rolling | 63.2 | [A&R Fund — adaptation finance RFP](climateworks.org) | climateworks.org |
@@ -189,3 +190,19 @@ _Updated 2026-09-01 · 186 open of 243 logged_
 | rolling | — | [Consultancy Services for Participatory Assessment, GIS-Based Planning, and Commu](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49068) | UNDP notices |
 | rolling | — | [RFP -  Facilitation of Sebabatso Bootcamp and Conference Facilitation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49076) | UNDP notices |
 | rolling | — | [Recrutement d'un Cabinet National pour le Développement des solutions numériques](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49191) | UNDP notices |
+| rolling | — | [Nelson Mandela African Institution of Science and Technology — East African Community Scholarship](https://www.terravivagrants.org/east-african-community-scholarship/) | Terra Viva Grants |
+| rolling | — | [The NGO Whisperer® — Global Fellowship Program](https://www.terravivagrants.org/ngo-global-fellowship-program/) | Terra Viva Grants |
+| rolling | — | [GEF Small Grants Programme — Scaling High-Impact Environmental Solutions](https://www.terravivagrants.org/scaling-high-impact-environmental-solutions/) | Terra Viva Grants |
+| rolling | — | [Embassy of the Czech Republic — Small-Scale Development Projects 2027](https://www.terravivagrants.org/embassy-of-the-czech-republic-small-local-development-projects/) | Terra Viva Grants |
+| rolling | — | [AU-EU Youth Lab — Innovation Grants for Youth-Led Organisations](https://www.terravivagrants.org/innovation-grants-for-youth-led-organisations/) | Terra Viva Grants |
+| rolling | — | [AU-EU Youth Lab — Entrepreneurship Grants for Youth-Led Social Enterprises](https://www.terravivagrants.org/entrepreneurship-grants-for-youth-led-social-enterprises/) | Terra Viva Grants |
+| rolling | — | [Land is Life — Fellowship for Indigenous Women](https://www.terravivagrants.org/fellowship-for-indigenous-women/) | Terra Viva Grants |
+| rolling | — | [Global Changemaker Collective — Fellowship](https://www.terravivagrants.org/global-changemaker-collective-fellowship/) | Terra Viva Grants |
+| rolling | — | [UN-Habitat — Urban Resilience and Disaster Risk Reduction (Latin America)](https://www.terravivagrants.org/un-habitat-urban-resilience/) | Terra Viva Grants |
+| rolling | — | [International Center for Genetic Engineering and Biotechnology — African Women in Biotechnology](https://www.terravivagrants.org/women-in-biotechnology/) | Terra Viva Grants |
+| rolling | — | [RECRUTEMENT D’UN CABINET INDEPENDANT POUR UN AUDIT TECHNIQUE](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49272) | UNDP notices |
+| rolling | — | [Mise en place d'un LTA des consultants nationaux infirmiers en Guinée](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49226) | UNDP notices |
+| rolling | — | [Cabinet international pour la sélection et la priorisation de 20 campements](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49262) | UNDP notices |
+| rolling | — | [Individual Contractor (IC) on Devolution and Sub-National Institutional Governan](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49234) | UNDP notices |
+| rolling | — | [Skills Needs, Curriculum Development & Training for Solar-Powered Cold Storage](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49241) | UNDP notices |
+| rolling | — | [Consultancy Firm for Content Production Agency to Document Anti-Fraud Video](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49253) | UNDP notices |

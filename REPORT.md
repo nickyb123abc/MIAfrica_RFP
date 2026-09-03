@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-02 · 203 open of 260 logged_
+_Updated 2026-09-03 · 210 open of 267 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -206,3 +206,10 @@ _Updated 2026-09-02 · 203 open of 260 logged_
 | rolling | — | [Individual Contractor (IC) on Devolution and Sub-National Institutional Governan](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49234) | UNDP notices |
 | rolling | — | [Skills Needs, Curriculum Development & Training for Solar-Powered Cold Storage](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49241) | UNDP notices |
 | rolling | — | [Consultancy Firm for Content Production Agency to Document Anti-Fraud Video](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49253) | UNDP notices |
+| rolling | — | [Media firm for Digital Marketing, Engagement and Promotions (NJFP)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49291) | UNDP notices |
+| rolling | — | [National Firm to support preparation of Uganda Tourism Development Master Plan](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49299) | UNDP notices |
+| rolling | — | [Cabinet international de conseil : « Resilient Futures » : protéger le littoral](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49300) | UNDP notices |
+| rolling | — | [National Consultancy Firm – Development of the Integrated Financing Strategy](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49307) | UNDP notices |
+| rolling | — | [Consultancy firm to provide Market Access and Commercialization Partner](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49283) | UNDP notices |
+| rolling | — | [Capacity Needs Assessment (CNA) to support updating and implementation of NBSAP](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49288) | UNDP notices |
+| rolling | — | [CONSULTANT (E) INTERNATIONAL (E) POUR EVALUATION FINALE (PCC) 2023-2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49289) | UNDP notices |

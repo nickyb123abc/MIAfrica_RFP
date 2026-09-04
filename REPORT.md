@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-03 · 210 open of 267 logged_
+_Updated 2026-09-04 · 214 open of 271 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -213,3 +213,7 @@ _Updated 2026-09-03 · 210 open of 267 logged_
 | rolling | — | [Consultancy firm to provide Market Access and Commercialization Partner](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49283) | UNDP notices |
 | rolling | — | [Capacity Needs Assessment (CNA) to support updating and implementation of NBSAP](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49288) | UNDP notices |
 | rolling | — | [CONSULTANT (E) INTERNATIONAL (E) POUR EVALUATION FINALE (PCC) 2023-2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49289) | UNDP notices |
+| rolling | — | [Hiring of Firm- Provision of Cloud Hosting for the PMIS and Backup Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49337) | UNDP notices |
+| rolling | — | [Enterprise Solutions Architect and Digital Capacity Development  for OPC](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49338) | UNDP notices |
+| rolling | — | [RFP - Conduct the Mid-term review of the extended NSDP II 2023/24 – 2027/28](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49353) | UNDP notices |
+| rolling | — | [RFP-005/26:Consultancy Service to Conduct a National Study on Climate Security](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49360) | UNDP notices |

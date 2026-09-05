@@ -1,12 +1,10 @@
-## 4 new opportunity item(s) — 2026-09-04
+## 3 new opportunity item(s) — 2026-09-05
 
-- **Hiring of Firm- Provision of Cloud Hosting for the PMIS and Backup Services** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49337)
-- **Enterprise Solutions Architect and Digital Capacity Development  for OPC** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49338)
-- **RFP - Conduct the Mid-term review of the extended NSDP II 2023/24 – 2027/28** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49353)
-- **RFP-005/26:Consultancy Service to Conduct a National Study on Climate Security** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49360)
+- **UNDP-TCD-00989 - RECRUTEMENT D’UN CABINET POUR LE RENFORCEMENT DE LA CNARR** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49379)
+- **RFP for Scouting and Selection Services under the YAI Programme** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49377)
+- **Recrutement d'un cabinet spécialisé** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49382)
 
 ## Scoring flags — needs human review
-- Hiring of Firm- Provision of Cloud Hosting for the PMIS and Backup Services
-- Enterprise Solutions Architect and Digital Capacity Development  for OPC
-- RFP - Conduct the Mid-term review of the extended NSDP II 2023/24 – 2027/28
-- RFP-005/26:Consultancy Service to Conduct a National Study on Climate Security
+- UNDP-TCD-00989 - RECRUTEMENT D’UN CABINET POUR LE RENFORCEMENT DE LA CNARR
+- RFP for Scouting and Selection Services under the YAI Programme
+- Recrutement d'un cabinet spécialisé

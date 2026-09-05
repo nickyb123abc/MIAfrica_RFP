@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-04 · 214 open of 271 logged_
+_Updated 2026-09-05 · 217 open of 274 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -217,3 +217,6 @@ _Updated 2026-09-04 · 214 open of 271 logged_
 | rolling | — | [Enterprise Solutions Architect and Digital Capacity Development  for OPC](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49338) | UNDP notices |
 | rolling | — | [RFP - Conduct the Mid-term review of the extended NSDP II 2023/24 – 2027/28](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49353) | UNDP notices |
 | rolling | — | [RFP-005/26:Consultancy Service to Conduct a National Study on Climate Security](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49360) | UNDP notices |
+| rolling | — | [UNDP-TCD-00989 - RECRUTEMENT D’UN CABINET POUR LE RENFORCEMENT DE LA CNARR](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49379) | UNDP notices |
+| rolling | — | [RFP for Scouting and Selection Services under the YAI Programme](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49377) | UNDP notices |
+| rolling | — | [Recrutement d'un cabinet spécialisé](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49382) | UNDP notices |

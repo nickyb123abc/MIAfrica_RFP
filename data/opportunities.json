@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05",
+ "updated": "2026-09-06",
  "meta": {
   "scoring_config": "scoring.json",
   "score": "0-100 weighted fit score; arithmetic computed in code from model-provided dimensions",

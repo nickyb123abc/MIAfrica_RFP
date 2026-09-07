@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-06 · 217 open of 274 logged_
+_Updated 2026-09-07 · 219 open of 276 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -12,6 +12,7 @@ _Updated 2026-09-06 · 217 open of 274 logged_
 | 2026-12-20 | 57.2 | [NGO capacity support (SEED/THRIVE)](https://onenessrevivalteam.info/grant-application) | @AfricanNGOs Jun-Jul roundup |
 | 2026-12-31 | 46.2 | [Locally-led development initiatives](https://tinyurl.com/bdhnuzte) | @AfricanNGOs Jun-Jul roundup |
 | 2026-12-31 | — | [SLA BoostHer Program for Young Nigerian Women Entrepreneurs](https://www2.fundsforngos.org/individuals/sla-boosther-program-for-young-nigerian-women-entrepreneurs/) | fundsforNGOs |
+| 2026-12-31 | — | [Jasiri Talent Investor Cohort 9 for Food Systems Entrepreneurs](https://www2.fundsforngos.org/individuals/jasiri-talent-investor-cohort-9-for-food-systems-entrepreneurs/) | fundsforNGOs |
 | 2027-03-31 | 53.8 | [Pandemic prevention, preparedness & response](https://tinyurl.com/yr9hhy5b) | @AfricanNGOs Jun-Jul roundup |
 | rolling | 55.2 | [TA to strengthen Central Bank of Somalia bank supervision & AML foundations](n/a) | Devex |
 | rolling | 63.2 | [A&R Fund — adaptation finance RFP](climateworks.org) | climateworks.org |
@@ -220,3 +221,4 @@ _Updated 2026-09-06 · 217 open of 274 logged_
 | rolling | — | [UNDP-TCD-00989 - RECRUTEMENT D’UN CABINET POUR LE RENFORCEMENT DE LA CNARR](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49379) | UNDP notices |
 | rolling | — | [RFP for Scouting and Selection Services under the YAI Programme](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49377) | UNDP notices |
 | rolling | — | [Recrutement d'un cabinet spécialisé](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49382) | UNDP notices |
+| rolling | — | [EOI- Sauvegarde Environnementale et Sociale](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49397) | UNDP notices |

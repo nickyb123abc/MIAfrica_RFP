@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-07 · 219 open of 276 logged_
+_Updated 2026-09-08 · 227 open of 284 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -222,3 +222,11 @@ _Updated 2026-09-07 · 219 open of 276 logged_
 | rolling | — | [RFP for Scouting and Selection Services under the YAI Programme](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49377) | UNDP notices |
 | rolling | — | [Recrutement d'un cabinet spécialisé](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49382) | UNDP notices |
 | rolling | — | [EOI- Sauvegarde Environnementale et Sociale](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49397) | UNDP notices |
+| rolling | — | [National qualified trainer to deliver a standardized training on Career mgt](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49417) | UNDP notices |
+| rolling | — | [Consultant to Deliver a Refresher Training Programme on Corporate Governance](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49418) | UNDP notices |
+| rolling | — | [Cabinet pour la Réalisation d'une Etude de référence sur la cohésion sociale](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49430) | UNDP notices |
+| rolling | — | [RECRUTEMENT D'UN(e) CONSULTANT(e ) NATIONAL(E) POUR LE SUIVI EVALUATION DES SOLU](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49432) | UNDP notices |
+| rolling | — | [Cabinet d’étude chargé de la réalisation d’un diagnostic socio-économique](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49441) | UNDP notices |
+| rolling | — | [Cabinet chargé de Réaliser une évaluation intégrée](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49442) | UNDP notices |
+| rolling | — | [Local Expert for the Design and Institutionalization of a Gender Unit](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49443) | UNDP notices |
+| rolling | — | [Research, Baseline and Institutional Needs Assessment](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49444) | UNDP notices |

@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-09-08 · 227 open of 284 logged_
+_Updated 2026-09-09 · 231 open of 289 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-09-08 | 31.5 | [Mobilise Power Fund — window 2](https://tinyurl.com/mt2y6xhn) | @AfricanNGOs Jun-Jul roundup |
 | 2026-09-15 | — | [CFAs: Strengthening the Role of Women’s Rights Organisations for Implementation of Gender Equality (](https://www2.fundsforngos.org/civil-society-development/cfas-strengthening-the-role-of-womens-rights-organisations-for-implementation-of-gender-equality-zimbabwe/) | fundsforNGOs |
 | 2026-09-18 | 41.2 | [CEPF Mediterranean Basin hotspot — large grants (LOI)](https://www2.fundsforngos.org/) | fundsforNGOs |
 | 2026-09-25 | 64.2 | [Multilateral research call — Africa STI Strategy (consortia EOIs)](https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology) | Terra Viva Grants |
@@ -230,3 +229,8 @@ _Updated 2026-09-08 · 227 open of 284 logged_
 | rolling | — | [Cabinet chargé de Réaliser une évaluation intégrée](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49442) | UNDP notices |
 | rolling | — | [Local Expert for the Design and Institutionalization of a Gender Unit](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49443) | UNDP notices |
 | rolling | — | [Research, Baseline and Institutional Needs Assessment](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49444) | UNDP notices |
+| rolling | — | [Individual Consultancy - Strengthening Botswana's National Biodiversity Platform](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49488) | UNDP notices |
+| rolling | — | [Recrutement d'un specialiste en analyse institutionnelle.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49489) | UNDP notices |
+| rolling | — | [Individual Consultancy/AI Lab Manager – HealthTech Hub](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49481) | UNDP notices |
+| rolling | — | [Accord à long terme - LTA agence de voyages au nom des agences UN en RD Congo](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49470) | UNDP notices |
+| rolling | — | [Training Post-Harvest Mgt. Practices, Sustainable Cooling & Cold-Chain Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49474) | UNDP notices |

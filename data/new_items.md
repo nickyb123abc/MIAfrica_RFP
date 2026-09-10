@@ -1,14 +1,12 @@
-## 5 new opportunity item(s) — 2026-09-09
+## 4 new opportunity item(s) — 2026-09-10
 
-- **Individual Consultancy - Strengthening Botswana's National Biodiversity Platform** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49488)
-- **Recrutement d'un specialiste en analyse institutionnelle.** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49489)
-- **Individual Consultancy/AI Lab Manager – HealthTech Hub** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49481)
-- **Accord à long terme - LTA agence de voyages au nom des agences UN en RD Congo** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49470)
-- **Training Post-Harvest Mgt. Practices, Sustainable Cooling & Cold-Chain Services** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49474)
+- **MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)** (; deadline 11-Oct-2026) [fundsforNGOs](https://www2.fundsforngos.org/individuals/mtn-ict-and-business-skills-training-programme-phase-8-nigeria/)
+- **RFP - Design, Development, Deployment, Capacity Building and Technical Support** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49516)
+- **Consultancy Firm to Provide Media services for the INFF Dashboard** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49523)
+- **RFP for Development of Environmental,Social and GenderSafeguards Instrument ERSI** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49510)
 
 ## Scoring flags — needs human review
-- Individual Consultancy - Strengthening Botswana's National Biodiversity Platform
-- Recrutement d'un specialiste en analyse institutionnelle.
-- Individual Consultancy/AI Lab Manager – HealthTech Hub
-- Accord à long terme - LTA agence de voyages au nom des agences UN en RD Congo
-- Training Post-Harvest Mgt. Practices, Sustainable Cooling & Cold-Chain Services
+- MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)
+- RFP - Design, Development, Deployment, Capacity Building and Technical Support
+- Consultancy Firm to Provide Media services for the INFF Dashboard
+- RFP for Development of Environmental,Social and GenderSafeguards Instrument ERSI

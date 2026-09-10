@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-09 · 231 open of 289 logged_
+_Updated 2026-09-10 · 235 open of 293 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -7,6 +7,7 @@ _Updated 2026-09-09 · 231 open of 289 logged_
 | 2026-09-18 | 41.2 | [CEPF Mediterranean Basin hotspot — large grants (LOI)](https://www2.fundsforngos.org/) | fundsforNGOs |
 | 2026-09-25 | 64.2 | [Multilateral research call — Africa STI Strategy (consortia EOIs)](https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology) | Terra Viva Grants |
 | 2026-09-28 | — | [Request for Applications: Touring Support Grant (Australia)](https://www2.fundsforngos.org/tourism-travel-2/request-for-applications-touring-support-grant-australia/) | fundsforNGOs |
+| 2026-10-11 | — | [MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)](https://www2.fundsforngos.org/individuals/mtn-ict-and-business-skills-training-programme-phase-8-nigeria/) | fundsforNGOs |
 | 2026-12-18 | 69.8 | [GALS methodology development + ToT (300 trainers) — READ programme](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98727) | Impact Funding (Jul) |
 | 2026-12-20 | 57.2 | [NGO capacity support (SEED/THRIVE)](https://onenessrevivalteam.info/grant-application) | @AfricanNGOs Jun-Jul roundup |
 | 2026-12-31 | 46.2 | [Locally-led development initiatives](https://tinyurl.com/bdhnuzte) | @AfricanNGOs Jun-Jul roundup |
@@ -234,3 +235,6 @@ _Updated 2026-09-09 · 231 open of 289 logged_
 | rolling | — | [Individual Consultancy/AI Lab Manager – HealthTech Hub](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49481) | UNDP notices |
 | rolling | — | [Accord à long terme - LTA agence de voyages au nom des agences UN en RD Congo](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49470) | UNDP notices |
 | rolling | — | [Training Post-Harvest Mgt. Practices, Sustainable Cooling & Cold-Chain Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49474) | UNDP notices |
+| rolling | — | [RFP - Design, Development, Deployment, Capacity Building and Technical Support](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49516) | UNDP notices |
+| rolling | — | [Consultancy Firm to Provide Media services for the INFF Dashboard](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49523) | UNDP notices |
+| rolling | — | [RFP for Development of Environmental,Social and GenderSafeguards Instrument ERSI](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49510) | UNDP notices |

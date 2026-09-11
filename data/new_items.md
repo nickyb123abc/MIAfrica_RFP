@@ -1,12 +1,30 @@
-## 4 new opportunity item(s) — 2026-09-10
+## 13 new opportunity item(s) — 2026-09-11
 
-- **MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)** (; deadline 11-Oct-2026) [fundsforNGOs](https://www2.fundsforngos.org/individuals/mtn-ict-and-business-skills-training-programme-phase-8-nigeria/)
-- **RFP - Design, Development, Deployment, Capacity Building and Technical Support** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49516)
-- **Consultancy Firm to Provide Media services for the INFF Dashboard** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49523)
-- **RFP for Development of Environmental,Social and GenderSafeguards Instrument ERSI** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49510)
+- **Tara for Women — Cash Awards for Women-Led Impact Startups** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/cash-awards-for-women-led-impact-startups/)
+- **AGNES-BAYER Science Foundation — Research Grant 2026** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/bayer-science-foundation-research-grant/)
+- **World Academy of Sciences — Research Cooperation Visits Program** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/twas-research-cooperation-visits-program/)
+- **International Atomic Energy Agency — Marie Sklodowska-Curie Fellowship Program** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/marie-sklodowska-curie-fellowship-program/)
+- **East-West Center — Asia Pacific Leadership Program 2027** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/asia-pacific-leadership-program-2/)
+- **Schlumberger Foundation — Funding for Women in PhD and Postdoctoral Studies** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/phd-funding-for-women/)
+- **Melton Foundation — Global Solvers Accelerator** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/global-solvers-accelerator/)
+- **National Geographic Society — The Human Thread** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/national-geographic-society-the-human-thread/)
+- **F. M. Kirby Foundation — Social Impact Prize** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/f-m-kirby-impact-prize/)
+- **Society of Chemical Industry — Sustainability Award** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/sci-sustainability-award/)
+- **Go Wild Grant Program for Schools in Canada** (; deadline 14-Oct-26 The Go Wild Grant Pr) [fundsforNGOs](https://www2.fundsforngos.org/individuals/go-wild-grant-program-for-schools-in-canada/)
+- **Recrutement Agence de communication nationale_ Programme SUSTAIN** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49589)
+- **Cabinet national chargé de l’élaboration du Plan de mise en œuvre de la CDN 3.0** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49571)
 
 ## Scoring flags — needs human review
-- MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)
-- RFP - Design, Development, Deployment, Capacity Building and Technical Support
-- Consultancy Firm to Provide Media services for the INFF Dashboard
-- RFP for Development of Environmental,Social and GenderSafeguards Instrument ERSI
+- Tara for Women — Cash Awards for Women-Led Impact Startups
+- AGNES-BAYER Science Foundation — Research Grant 2026
+- World Academy of Sciences — Research Cooperation Visits Program
+- International Atomic Energy Agency — Marie Sklodowska-Curie Fellowship Program
+- East-West Center — Asia Pacific Leadership Program 2027
+- Schlumberger Foundation — Funding for Women in PhD and Postdoctoral Studies
+- Melton Foundation — Global Solvers Accelerator
+- National Geographic Society — The Human Thread
+- F. M. Kirby Foundation — Social Impact Prize
+- Society of Chemical Industry — Sustainability Award
+- Go Wild Grant Program for Schools in Canada
+- Recrutement Agence de communication nationale_ Programme SUSTAIN
+- Cabinet national chargé de l’élaboration du Plan de mise en œuvre de la CDN 3.0

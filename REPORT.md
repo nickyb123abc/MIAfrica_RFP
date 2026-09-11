@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-10 · 235 open of 293 logged_
+_Updated 2026-09-11 · 248 open of 306 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -238,3 +238,16 @@ _Updated 2026-09-10 · 235 open of 293 logged_
 | rolling | — | [RFP - Design, Development, Deployment, Capacity Building and Technical Support](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49516) | UNDP notices |
 | rolling | — | [Consultancy Firm to Provide Media services for the INFF Dashboard](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49523) | UNDP notices |
 | rolling | — | [RFP for Development of Environmental,Social and GenderSafeguards Instrument ERSI](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49510) | UNDP notices |
+| rolling | — | [Tara for Women — Cash Awards for Women-Led Impact Startups](https://www.terravivagrants.org/cash-awards-for-women-led-impact-startups/) | Terra Viva Grants |
+| rolling | — | [AGNES-BAYER Science Foundation — Research Grant 2026](https://www.terravivagrants.org/bayer-science-foundation-research-grant/) | Terra Viva Grants |
+| rolling | — | [World Academy of Sciences — Research Cooperation Visits Program](https://www.terravivagrants.org/twas-research-cooperation-visits-program/) | Terra Viva Grants |
+| rolling | — | [International Atomic Energy Agency — Marie Sklodowska-Curie Fellowship Program](https://www.terravivagrants.org/marie-sklodowska-curie-fellowship-program/) | Terra Viva Grants |
+| rolling | — | [East-West Center — Asia Pacific Leadership Program 2027](https://www.terravivagrants.org/asia-pacific-leadership-program-2/) | Terra Viva Grants |
+| rolling | — | [Schlumberger Foundation — Funding for Women in PhD and Postdoctoral Studies](https://www.terravivagrants.org/phd-funding-for-women/) | Terra Viva Grants |
+| rolling | — | [Melton Foundation — Global Solvers Accelerator](https://www.terravivagrants.org/global-solvers-accelerator/) | Terra Viva Grants |
+| rolling | — | [National Geographic Society — The Human Thread](https://www.terravivagrants.org/national-geographic-society-the-human-thread/) | Terra Viva Grants |
+| rolling | — | [F. M. Kirby Foundation — Social Impact Prize](https://www.terravivagrants.org/f-m-kirby-impact-prize/) | Terra Viva Grants |
+| rolling | — | [Society of Chemical Industry — Sustainability Award](https://www.terravivagrants.org/sci-sustainability-award/) | Terra Viva Grants |
+| rolling | — | [Go Wild Grant Program for Schools in Canada](https://www2.fundsforngos.org/individuals/go-wild-grant-program-for-schools-in-canada/) | fundsforNGOs |
+| rolling | — | [Recrutement Agence de communication nationale_ Programme SUSTAIN](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49589) | UNDP notices |
+| rolling | — | [Cabinet national chargé de l’élaboration du Plan de mise en œuvre de la CDN 3.0](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49571) | UNDP notices |

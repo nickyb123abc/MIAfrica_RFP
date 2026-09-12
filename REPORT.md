@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-11 · 248 open of 306 logged_
+_Updated 2026-09-12 · 249 open of 307 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -251,3 +251,4 @@ _Updated 2026-09-11 · 248 open of 306 logged_
 | rolling | — | [Go Wild Grant Program for Schools in Canada](https://www2.fundsforngos.org/individuals/go-wild-grant-program-for-schools-in-canada/) | fundsforNGOs |
 | rolling | — | [Recrutement Agence de communication nationale_ Programme SUSTAIN](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49589) | UNDP notices |
 | rolling | — | [Cabinet national chargé de l’élaboration du Plan de mise en œuvre de la CDN 3.0](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49571) | UNDP notices |
+| rolling | — | [Consultancy Firm to Provide Event Management and Coordination Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49608) | UNDP notices |

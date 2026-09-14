@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-13 · 249 open of 307 logged_
+_Updated 2026-09-14 · 250 open of 308 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -252,3 +252,4 @@ _Updated 2026-09-13 · 249 open of 307 logged_
 | rolling | — | [Recrutement Agence de communication nationale_ Programme SUSTAIN](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49589) | UNDP notices |
 | rolling | — | [Cabinet national chargé de l’élaboration du Plan de mise en œuvre de la CDN 3.0](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49571) | UNDP notices |
 | rolling | — | [Consultancy Firm to Provide Event Management and Coordination Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49608) | UNDP notices |
+| rolling | — | [MSMEs and Entrepreneurship Ecosystem Support Programme in Tarhouna and Derna](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49627) | UNDP notices |

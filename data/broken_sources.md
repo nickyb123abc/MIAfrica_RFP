@@ -1,7 +1,7 @@
-## Source health alert — 2026-09-14
+## Source health alert — 2026-09-15
 
-- **impactfunding** — 57 consecutive failures. Last error: `Impact Funding: no roundup post found in feed`
-- **eu_ft_api** — 57 consecutive failures. Last error: `500 Server Error:  for url: https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=Africa&pageSize=50&pageNumber=1`
-- **aerc** — 57 consecutive failures. Last error: `403 Client Error: Forbidden for url: https://www.aercafrica.org/opportunities/`
+- **impactfunding** — 58 consecutive failures. Last error: `Impact Funding: no roundup post found in feed`
+- **eu_ft_api** — 58 consecutive failures. Last error: `500 Server Error:  for url: https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=Africa&pageSize=50&pageNumber=1`
+- **aerc** — 58 consecutive failures. Last error: `403 Client Error: Forbidden for url: https://www.aercafrica.org/opportunities/`
 
 Fix or paste this into Claude for a patch.

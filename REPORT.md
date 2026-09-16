@@ -1,12 +1,12 @@
 # Opportunity screener — open items
-_Updated 2026-09-15 · 250 open of 308 logged_
+_Updated 2026-09-16 · 254 open of 313 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-09-15 | — | [CFAs: Strengthening the Role of Women’s Rights Organisations for Implementation of Gender Equality (](https://www2.fundsforngos.org/civil-society-development/cfas-strengthening-the-role-of-womens-rights-organisations-for-implementation-of-gender-equality-zimbabwe/) | fundsforNGOs |
 | 2026-09-18 | 41.2 | [CEPF Mediterranean Basin hotspot — large grants (LOI)](https://www2.fundsforngos.org/) | fundsforNGOs |
 | 2026-09-25 | 64.2 | [Multilateral research call — Africa STI Strategy (consortia EOIs)](https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology) | Terra Viva Grants |
 | 2026-09-28 | — | [Request for Applications: Touring Support Grant (Australia)](https://www2.fundsforngos.org/tourism-travel-2/request-for-applications-touring-support-grant-australia/) | fundsforNGOs |
+| 2026-09-30 | — | [Call for Proposals: Seeding Neuroscience Grants](https://www2.fundsforngos.org/science/call-for-proposals-seeding-neuroscience-grants/) | fundsforNGOs |
 | 2026-10-11 | — | [MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)](https://www2.fundsforngos.org/individuals/mtn-ict-and-business-skills-training-programme-phase-8-nigeria/) | fundsforNGOs |
 | 2026-12-18 | 69.8 | [GALS methodology development + ToT (300 trainers) — READ programme](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98727) | Impact Funding (Jul) |
 | 2026-12-20 | 57.2 | [NGO capacity support (SEED/THRIVE)](https://onenessrevivalteam.info/grant-application) | @AfricanNGOs Jun-Jul roundup |
@@ -253,3 +253,7 @@ _Updated 2026-09-15 · 250 open of 308 logged_
 | rolling | — | [Cabinet national chargé de l’élaboration du Plan de mise en œuvre de la CDN 3.0](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49571) | UNDP notices |
 | rolling | — | [Consultancy Firm to Provide Event Management and Coordination Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49608) | UNDP notices |
 | rolling | — | [MSMEs and Entrepreneurship Ecosystem Support Programme in Tarhouna and Derna](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49627) | UNDP notices |
+| rolling | — | [Hiring of Firm- Provision of Cloud Hosting for the PMIS and Backup Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49723) | UNDP notices |
+| rolling | — | [Media Firm for Video Production of Northwest Nigeria for the UNGA81](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49691) | UNDP notices |
+| rolling | — | [Recrutement d’un cabinet spécialisé en évaluation institutionnelle, organisation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49692) | UNDP notices |
+| rolling | — | [Consultant pour l’animation d’une formation des institutions financières](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49706) | UNDP notices |

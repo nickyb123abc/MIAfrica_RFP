@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-16 · 254 open of 313 logged_
+_Updated 2026-09-17 · 257 open of 316 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -8,6 +8,7 @@ _Updated 2026-09-16 · 254 open of 313 logged_
 | 2026-09-28 | — | [Request for Applications: Touring Support Grant (Australia)](https://www2.fundsforngos.org/tourism-travel-2/request-for-applications-touring-support-grant-australia/) | fundsforNGOs |
 | 2026-09-30 | — | [Call for Proposals: Seeding Neuroscience Grants](https://www2.fundsforngos.org/science/call-for-proposals-seeding-neuroscience-grants/) | fundsforNGOs |
 | 2026-10-11 | — | [MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)](https://www2.fundsforngos.org/individuals/mtn-ict-and-business-skills-training-programme-phase-8-nigeria/) | fundsforNGOs |
+| 2026-12-02 | — | [Apply for First FOREST Partnership Joint Call](https://www2.fundsforngos.org/innovation/apply-for-first-forest-partnership-joint-call/) | fundsforNGOs |
 | 2026-12-18 | 69.8 | [GALS methodology development + ToT (300 trainers) — READ programme](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98727) | Impact Funding (Jul) |
 | 2026-12-20 | 57.2 | [NGO capacity support (SEED/THRIVE)](https://onenessrevivalteam.info/grant-application) | @AfricanNGOs Jun-Jul roundup |
 | 2026-12-31 | 46.2 | [Locally-led development initiatives](https://tinyurl.com/bdhnuzte) | @AfricanNGOs Jun-Jul roundup |
@@ -257,3 +258,5 @@ _Updated 2026-09-16 · 254 open of 313 logged_
 | rolling | — | [Media Firm for Video Production of Northwest Nigeria for the UNGA81](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49691) | UNDP notices |
 | rolling | — | [Recrutement d’un cabinet spécialisé en évaluation institutionnelle, organisation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49692) | UNDP notices |
 | rolling | — | [Consultant pour l’animation d’une formation des institutions financières](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49706) | UNDP notices |
+| rolling | — | [PRC0191657- RECRUTEMENT CABINET -ETUDE ADEQUATION RESSOURCES BESOINS EAU- GIRE](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49734) | UNDP notices |
+| rolling | — | [Reabilitação das instalações do CAJ em Canchungo](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49748) | UNDP notices |

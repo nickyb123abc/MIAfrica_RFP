@@ -1,11 +1,13 @@
 # Opportunity screener — open items
-_Updated 2026-09-17 · 257 open of 316 logged_
+_Updated 2026-09-18 · 263 open of 322 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
 | 2026-09-18 | 41.2 | [CEPF Mediterranean Basin hotspot — large grants (LOI)](https://www2.fundsforngos.org/) | fundsforNGOs |
 | 2026-09-25 | 64.2 | [Multilateral research call — Africa STI Strategy (consortia EOIs)](https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology) | Terra Viva Grants |
+| 2026-09-27 | — | [Apply Now: Youth Climate Mapping Fellowship (Botswana)](https://www2.fundsforngos.org/individuals/apply-now-youth-climate-mapping-fellowship-botswana/) | fundsforNGOs |
 | 2026-09-28 | — | [Request for Applications: Touring Support Grant (Australia)](https://www2.fundsforngos.org/tourism-travel-2/request-for-applications-touring-support-grant-australia/) | fundsforNGOs |
+| 2026-09-28 | — | [Apply Now: 90th Know India Programme – KIP (Tanzania)](https://www2.fundsforngos.org/innovation/apply-now-90th-know-india-programme-kip-tanzania/) | fundsforNGOs |
 | 2026-09-30 | — | [Call for Proposals: Seeding Neuroscience Grants](https://www2.fundsforngos.org/science/call-for-proposals-seeding-neuroscience-grants/) | fundsforNGOs |
 | 2026-10-11 | — | [MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)](https://www2.fundsforngos.org/individuals/mtn-ict-and-business-skills-training-programme-phase-8-nigeria/) | fundsforNGOs |
 | 2026-12-02 | — | [Apply for First FOREST Partnership Joint Call](https://www2.fundsforngos.org/innovation/apply-for-first-forest-partnership-joint-call/) | fundsforNGOs |
@@ -260,3 +262,7 @@ _Updated 2026-09-17 · 257 open of 316 logged_
 | rolling | — | [Consultant pour l’animation d’une formation des institutions financières](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49706) | UNDP notices |
 | rolling | — | [PRC0191657- RECRUTEMENT CABINET -ETUDE ADEQUATION RESSOURCES BESOINS EAU- GIRE](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49734) | UNDP notices |
 | rolling | — | [Reabilitação das instalações do CAJ em Canchungo](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49748) | UNDP notices |
+| rolling | — | [Consultancy to Support the Adoption and Operationalization of the ICCS](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49809) | UNDP notices |
+| rolling | — | [Call for Proposals-Civil Society Organizations (CSOs) or NGOs](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49806) | UNDP notices |
+| rolling | — | [Develop & Operationalise; Integrated Performance Monitoring & Evaluation System](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49793) | UNDP notices |
+| rolling | — | [Hiring of a Consultancy Firm to Regulate the Ecotax on Imports](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49797) | UNDP notices |

@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-09-18 · 263 open of 322 logged_
+_Updated 2026-09-19 · 263 open of 323 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-09-18 | 41.2 | [CEPF Mediterranean Basin hotspot — large grants (LOI)](https://www2.fundsforngos.org/) | fundsforNGOs |
 | 2026-09-25 | 64.2 | [Multilateral research call — Africa STI Strategy (consortia EOIs)](https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology) | Terra Viva Grants |
 | 2026-09-27 | — | [Apply Now: Youth Climate Mapping Fellowship (Botswana)](https://www2.fundsforngos.org/individuals/apply-now-youth-climate-mapping-fellowship-botswana/) | fundsforNGOs |
 | 2026-09-28 | — | [Request for Applications: Touring Support Grant (Australia)](https://www2.fundsforngos.org/tourism-travel-2/request-for-applications-touring-support-grant-australia/) | fundsforNGOs |
@@ -266,3 +265,4 @@ _Updated 2026-09-18 · 263 open of 322 logged_
 | rolling | — | [Call for Proposals-Civil Society Organizations (CSOs) or NGOs](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49806) | UNDP notices |
 | rolling | — | [Develop & Operationalise; Integrated Performance Monitoring & Evaluation System](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49793) | UNDP notices |
 | rolling | — | [Hiring of a Consultancy Firm to Regulate the Ecotax on Imports](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49797) | UNDP notices |
+| rolling | — | [Consultancy for Civil Registration and Vital Statistics system Capacity B](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49821) | UNDP notices |

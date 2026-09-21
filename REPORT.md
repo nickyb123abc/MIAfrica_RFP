@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-20 · 263 open of 323 logged_
+_Updated 2026-09-21 · 264 open of 324 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -266,3 +266,4 @@ _Updated 2026-09-20 · 263 open of 323 logged_
 | rolling | — | [Develop & Operationalise; Integrated Performance Monitoring & Evaluation System](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49793) | UNDP notices |
 | rolling | — | [Hiring of a Consultancy Firm to Regulate the Ecotax on Imports](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49797) | UNDP notices |
 | rolling | — | [Consultancy for Civil Registration and Vital Statistics system Capacity B](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49821) | UNDP notices |
+| rolling | — | [Partnering for Health, Equality and Rights (P4HER) Grant Opportunity](https://www2.fundsforngos.org/domestic-violence/partnering-for-health-equality-and-rights-p4her-grant-opportunity/) | fundsforNGOs |

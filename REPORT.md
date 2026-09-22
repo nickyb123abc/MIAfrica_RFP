@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-21 · 264 open of 324 logged_
+_Updated 2026-09-22 · 267 open of 327 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -267,3 +267,6 @@ _Updated 2026-09-21 · 264 open of 324 logged_
 | rolling | — | [Hiring of a Consultancy Firm to Regulate the Ecotax on Imports](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49797) | UNDP notices |
 | rolling | — | [Consultancy for Civil Registration and Vital Statistics system Capacity B](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49821) | UNDP notices |
 | rolling | — | [Partnering for Health, Equality and Rights (P4HER) Grant Opportunity](https://www2.fundsforngos.org/domestic-violence/partnering-for-health-equality-and-rights-p4her-grant-opportunity/) | fundsforNGOs |
+| rolling | — | [UNDP Call for Proposals: Civil Society Organizations (CSOs) or NGOs to End Violence Against Women an](https://www2.fundsforngos.org/civil-society-development/undp-call-for-proposals-civil-society-organizations-csos-or-ngos-to-end/) | fundsforNGOs |
+| rolling | — | [EMKP Documentation Grants for Endangered Material Knowledge Systems](https://www2.fundsforngos.org/individuals/emkp-documentation-grants-for-endangered-material-knowledge-systems/) | fundsforNGOs |
+| rolling | — | [Call for Proposals: Community Security and Conflict Resolution Initiative in Northern Bahr El Ghazal](https://www2.fundsforngos.org/infrastructure-support/call-for-proposals-community-security-and-conflict-resolution-initiative/) | fundsforNGOs |

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-22 · 267 open of 327 logged_
+_Updated 2026-09-23 · 278 open of 338 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -9,6 +9,7 @@ _Updated 2026-09-22 · 267 open of 327 logged_
 | 2026-09-28 | — | [Apply Now: 90th Know India Programme – KIP (Tanzania)](https://www2.fundsforngos.org/innovation/apply-now-90th-know-india-programme-kip-tanzania/) | fundsforNGOs |
 | 2026-09-30 | — | [Call for Proposals: Seeding Neuroscience Grants](https://www2.fundsforngos.org/science/call-for-proposals-seeding-neuroscience-grants/) | fundsforNGOs |
 | 2026-10-11 | — | [MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)](https://www2.fundsforngos.org/individuals/mtn-ict-and-business-skills-training-programme-phase-8-nigeria/) | fundsforNGOs |
+| 2026-11-15 | — | [Malmar Knowles Family Foundation — Youth Leadership Program](https://www.terravivagrants.org/malmar-knowles-family-foundation-youth-leadership-program/) | Terra Viva Grants |
 | 2026-12-02 | — | [Apply for First FOREST Partnership Joint Call](https://www2.fundsforngos.org/innovation/apply-for-first-forest-partnership-joint-call/) | fundsforNGOs |
 | 2026-12-18 | 69.8 | [GALS methodology development + ToT (300 trainers) — READ programme](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98727) | Impact Funding (Jul) |
 | 2026-12-20 | 57.2 | [NGO capacity support (SEED/THRIVE)](https://onenessrevivalteam.info/grant-application) | @AfricanNGOs Jun-Jul roundup |
@@ -270,3 +271,13 @@ _Updated 2026-09-22 · 267 open of 327 logged_
 | rolling | — | [UNDP Call for Proposals: Civil Society Organizations (CSOs) or NGOs to End Violence Against Women an](https://www2.fundsforngos.org/civil-society-development/undp-call-for-proposals-civil-society-organizations-csos-or-ngos-to-end/) | fundsforNGOs |
 | rolling | — | [EMKP Documentation Grants for Endangered Material Knowledge Systems](https://www2.fundsforngos.org/individuals/emkp-documentation-grants-for-endangered-material-knowledge-systems/) | fundsforNGOs |
 | rolling | — | [Call for Proposals: Community Security and Conflict Resolution Initiative in Northern Bahr El Ghazal](https://www2.fundsforngos.org/infrastructure-support/call-for-proposals-community-security-and-conflict-resolution-initiative/) | fundsforNGOs |
+| rolling | — | [AfricaLics — PhD Visiting Fellowship Program 2027](https://www.terravivagrants.org/africa-phd-visiting-fellowship-program/) | Terra Viva Grants |
+| rolling | — | [International Campaign for Tibet — Small Grants for Tibet](https://www.terravivagrants.org/small-grants-for-tibet/) | Terra Viva Grants |
+| rolling | — | [United Nations Development Programme — Czech Challenge Fund](https://www.terravivagrants.org/czech-challenge-fund/) | Terra Viva Grants |
+| rolling | — | [D-Prize — Funding Entrepreneurs to Alleviate Poverty](https://www.terravivagrants.org/funding-entrepreneurs-to-alleviate-poverty/) | Terra Viva Grants |
+| rolling | — | [University of Delaware — Diamond Challenge for High School Entrepreneurs](https://www.terravivagrants.org/diamond-challenge-for-high-school-entrepreneurs/) | Terra Viva Grants |
+| rolling | — | [The Liveability Challenge — Sustainability Solutions for Tropical Cities](https://www.terravivagrants.org/liveability-challenge/) | Terra Viva Grants |
+| rolling | — | [Rand Water Foundation: Call for Service Delivery Partnerships Proposals 2026/2027](https://www2.fundsforngos.org/community-development-2/rand-water-foundation-call-for-service-delivery-partnerships-proposals/) | fundsforNGOs |
+| rolling | — | [Appel à propositions de projet (ONG) Programme de Microfinancements du FEM](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49918) | UNDP notices |
+| rolling | — | [Mise en place d'un LTA des consultants nationaux infirmiers en Guinée](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49921) | UNDP notices |
+| rolling | — | [Cabinet - Elaboration d'une feuille de route système de mobilité urbaine verte](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49931) | UNDP notices |

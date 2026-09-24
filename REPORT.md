@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-23 · 278 open of 338 logged_
+_Updated 2026-09-24 · 286 open of 346 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -281,3 +281,11 @@ _Updated 2026-09-23 · 278 open of 338 logged_
 | rolling | — | [Appel à propositions de projet (ONG) Programme de Microfinancements du FEM](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49918) | UNDP notices |
 | rolling | — | [Mise en place d'un LTA des consultants nationaux infirmiers en Guinée](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49921) | UNDP notices |
 | rolling | — | [Cabinet - Elaboration d'une feuille de route système de mobilité urbaine verte](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49931) | UNDP notices |
+| rolling | — | [PEI Arts Share Dissemination Grant Program (Canada)](https://www2.fundsforngos.org/individuals/pei-arts-grants-funding-prince-edward-island-create-share-and-learn-grants/) | fundsforNGOs |
+| rolling | — | [Rose Leke Fund for Women in Research (Cameroon)](https://www2.fundsforngos.org/health/rose-leke-fund-for-women-in-research-cameroon/) | fundsforNGOs |
+| rolling | — | [Applications open for IFRA-Nigeria Research Grant 2027](https://www2.fundsforngos.org/health/applications-open-for-ifra-nigeria-research-grant-2027/) | fundsforNGOs |
+| rolling | — | [Applications open for IFRA-Nigeria Research Grant 2027](https://www2.fundsforngos.org/research/ifra-nigeria-research-grants-2027-humanities-and-social-sciences-funding/) | fundsforNGOs |
+| rolling | — | [Call for Applications: Elections Lab 2027 (Nigeria)](https://www2.fundsforngos.org/research/call-for-applications-2027-elections-lab-by-ifra-nigeria-nigeria-grants/) | fundsforNGOs |
+| rolling | — | [EOI - Participation of Energy Service Providers of the Renewable Lesotho](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49964) | UNDP notices |
+| rolling | — | [RFP UNDP-ZWE-02091 Technical Assistance for Establishment of Terminology Service](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49972) | UNDP notices |
+| rolling | — | [Hiring a National Firm to rollout Real Property Tax Expansion Project](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49977) | UNDP notices |

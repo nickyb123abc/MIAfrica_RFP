@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-24 · 286 open of 346 logged_
+_Updated 2026-09-25 · 289 open of 349 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -289,3 +289,6 @@ _Updated 2026-09-24 · 286 open of 346 logged_
 | rolling | — | [EOI - Participation of Energy Service Providers of the Renewable Lesotho](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49964) | UNDP notices |
 | rolling | — | [RFP UNDP-ZWE-02091 Technical Assistance for Establishment of Terminology Service](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49972) | UNDP notices |
 | rolling | — | [Hiring a National Firm to rollout Real Property Tax Expansion Project](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49977) | UNDP notices |
+| rolling | — | [Inaugural Equality Fund Journalism Fellowship Program 2026](https://www2.fundsforngos.org/individuals/inaugural-equality-fund-journalism-fellowship-program-2026/) | fundsforNGOs |
+| rolling | — | [Organisation cérémonie de vulgarisation des plans  d’urgence national et insulai](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50003) | UNDP notices |
+| rolling | — | [National Health Workforce E-Learning Platform and Digital Training Ecosystem](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50010) | UNDP notices |

@@ -1,10 +1,8 @@
-## 3 new opportunity item(s) — 2026-09-25
+## 2 new opportunity item(s) — 2026-09-26
 
-- **Inaugural Equality Fund Journalism Fellowship Program 2026** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/inaugural-equality-fund-journalism-fellowship-program-2026/)
-- **Organisation cérémonie de vulgarisation des plans  d’urgence national et insulai** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50003)
-- **National Health Workforce E-Learning Platform and Digital Training Ecosystem** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50010)
+- **Consultancy Firm to Provide a Comprehensive Assessment of Innovation** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50058)
+- **Elaboration du Country Programme du Congo au GCF** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50071)
 
 ## Scoring flags — needs human review
-- Inaugural Equality Fund Journalism Fellowship Program 2026
-- Organisation cérémonie de vulgarisation des plans  d’urgence national et insulai
-- National Health Workforce E-Learning Platform and Digital Training Ecosystem
+- Consultancy Firm to Provide a Comprehensive Assessment of Innovation
+- Elaboration du Country Programme du Congo au GCF

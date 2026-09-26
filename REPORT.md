@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-09-25 · 289 open of 349 logged_
+_Updated 2026-09-26 · 290 open of 351 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-09-25 | 64.2 | [Multilateral research call — Africa STI Strategy (consortia EOIs)](https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology) | Terra Viva Grants |
 | 2026-09-27 | — | [Apply Now: Youth Climate Mapping Fellowship (Botswana)](https://www2.fundsforngos.org/individuals/apply-now-youth-climate-mapping-fellowship-botswana/) | fundsforNGOs |
 | 2026-09-28 | — | [Request for Applications: Touring Support Grant (Australia)](https://www2.fundsforngos.org/tourism-travel-2/request-for-applications-touring-support-grant-australia/) | fundsforNGOs |
 | 2026-09-28 | — | [Apply Now: 90th Know India Programme – KIP (Tanzania)](https://www2.fundsforngos.org/innovation/apply-now-90th-know-india-programme-kip-tanzania/) | fundsforNGOs |
@@ -292,3 +291,5 @@ _Updated 2026-09-25 · 289 open of 349 logged_
 | rolling | — | [Inaugural Equality Fund Journalism Fellowship Program 2026](https://www2.fundsforngos.org/individuals/inaugural-equality-fund-journalism-fellowship-program-2026/) | fundsforNGOs |
 | rolling | — | [Organisation cérémonie de vulgarisation des plans  d’urgence national et insulai](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50003) | UNDP notices |
 | rolling | — | [National Health Workforce E-Learning Platform and Digital Training Ecosystem](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50010) | UNDP notices |
+| rolling | — | [Consultancy Firm to Provide a Comprehensive Assessment of Innovation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50058) | UNDP notices |
+| rolling | — | [Elaboration du Country Programme du Congo au GCF](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50071) | UNDP notices |

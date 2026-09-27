@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-26 · 290 open of 351 logged_
+_Updated 2026-09-27 · 292 open of 353 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -293,3 +293,5 @@ _Updated 2026-09-26 · 290 open of 351 logged_
 | rolling | — | [National Health Workforce E-Learning Platform and Digital Training Ecosystem](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50010) | UNDP notices |
 | rolling | — | [Consultancy Firm to Provide a Comprehensive Assessment of Innovation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50058) | UNDP notices |
 | rolling | — | [Elaboration du Country Programme du Congo au GCF](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50071) | UNDP notices |
+| rolling | — | [Firm to conduct a review of the UNIPOD Governance and Sustainability Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50079) | UNDP notices |
+| rolling | — | [UNDP-ZWE-02112 National Consultancy for the Development of M & E Strategy](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50077) | UNDP notices |

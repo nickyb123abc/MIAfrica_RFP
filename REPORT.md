@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-09-27 · 292 open of 353 logged_
+_Updated 2026-09-28 · 295 open of 357 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-09-27 | — | [Apply Now: Youth Climate Mapping Fellowship (Botswana)](https://www2.fundsforngos.org/individuals/apply-now-youth-climate-mapping-fellowship-botswana/) | fundsforNGOs |
 | 2026-09-28 | — | [Request for Applications: Touring Support Grant (Australia)](https://www2.fundsforngos.org/tourism-travel-2/request-for-applications-touring-support-grant-australia/) | fundsforNGOs |
 | 2026-09-28 | — | [Apply Now: 90th Know India Programme – KIP (Tanzania)](https://www2.fundsforngos.org/innovation/apply-now-90th-know-india-programme-kip-tanzania/) | fundsforNGOs |
 | 2026-09-30 | — | [Call for Proposals: Seeding Neuroscience Grants](https://www2.fundsforngos.org/science/call-for-proposals-seeding-neuroscience-grants/) | fundsforNGOs |
@@ -295,3 +294,7 @@ _Updated 2026-09-27 · 292 open of 353 logged_
 | rolling | — | [Elaboration du Country Programme du Congo au GCF](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50071) | UNDP notices |
 | rolling | — | [Firm to conduct a review of the UNIPOD Governance and Sustainability Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50079) | UNDP notices |
 | rolling | — | [UNDP-ZWE-02112 National Consultancy for the Development of M & E Strategy](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50077) | UNDP notices |
+| rolling | — | [Grant Call for Strengthening Ethiopia’s Maternal and Newborn Health System (Czech Republic)](https://www2.fundsforngos.org/community-development-2/grant-call-for-strengthening-ethiopias-maternal-and-newborn-health-system-czech-republic/) | fundsforNGOs |
+| rolling | — | [Call for EOIs: Strengthening Access to Health, Psychosocial Support, and Protection for Children and](https://www2.fundsforngos.org/community-development-2/call-for-eois-strengthening-access-to-health-psychosocial-support-and-protection-for-children-and-young-people-morocco/) | fundsforNGOs |
+| rolling | — | [RFAs: Community Enterprise and Skills Development Grants (South Africa)](https://www2.fundsforngos.org/community-development-2/rfas-community-enterprise-and-skills-development-grants-south-africa/) | fundsforNGOs |
+| rolling | — | [Consultant International pour l'Evaluation Impact Climatique & Politique Fiscale](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50085) | UNDP notices |

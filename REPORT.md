@@ -1,10 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-09-28 · 295 open of 357 logged_
+_Updated 2026-09-29 · 301 open of 365 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-09-28 | — | [Request for Applications: Touring Support Grant (Australia)](https://www2.fundsforngos.org/tourism-travel-2/request-for-applications-touring-support-grant-australia/) | fundsforNGOs |
-| 2026-09-28 | — | [Apply Now: 90th Know India Programme – KIP (Tanzania)](https://www2.fundsforngos.org/innovation/apply-now-90th-know-india-programme-kip-tanzania/) | fundsforNGOs |
 | 2026-09-30 | — | [Call for Proposals: Seeding Neuroscience Grants](https://www2.fundsforngos.org/science/call-for-proposals-seeding-neuroscience-grants/) | fundsforNGOs |
 | 2026-10-11 | — | [MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)](https://www2.fundsforngos.org/individuals/mtn-ict-and-business-skills-training-programme-phase-8-nigeria/) | fundsforNGOs |
 | 2026-11-15 | — | [Malmar Knowles Family Foundation — Youth Leadership Program](https://www.terravivagrants.org/malmar-knowles-family-foundation-youth-leadership-program/) | Terra Viva Grants |
@@ -298,3 +296,11 @@ _Updated 2026-09-28 · 295 open of 357 logged_
 | rolling | — | [Call for EOIs: Strengthening Access to Health, Psychosocial Support, and Protection for Children and](https://www2.fundsforngos.org/community-development-2/call-for-eois-strengthening-access-to-health-psychosocial-support-and-protection-for-children-and-young-people-morocco/) | fundsforNGOs |
 | rolling | — | [RFAs: Community Enterprise and Skills Development Grants (South Africa)](https://www2.fundsforngos.org/community-development-2/rfas-community-enterprise-and-skills-development-grants-south-africa/) | fundsforNGOs |
 | rolling | — | [Consultant International pour l'Evaluation Impact Climatique & Politique Fiscale](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50085) | UNDP notices |
+| rolling | — | [CFPs: Innovation Challenge for Equitable Access to Justice and Social Services (Tunisia)](https://www2.fundsforngos.org/social-service/social-tech-challenge-2026-innovation-challenge-for-equitable-access-to/) | fundsforNGOs |
+| rolling | — | [Apply now for Civil Society and Human Rights Initiatives (Benin)](https://www2.fundsforngos.org/civil-society-development/apply-now-for-civil-society-and-human-rights-initiatives-benin/) | fundsforNGOs |
+| rolling | — | [AGNES-BAYER Science Foundation Research Grant Program](https://www2.fundsforngos.org/individuals/2026-agnes-bayer-science-foundation-research-grant-for-biodiversity/) | fundsforNGOs |
+| rolling | — | [Arts Grant 2027: Activities, Projects, Events and Collaborations (Ireland)](https://www2.fundsforngos.org/individuals/arts-grant-2027-activities-projects-events-and-collaborations-ireland/) | fundsforNGOs |
+| rolling | — | [Recrutement Agence de communication nationale_ Programme SUSTAIN](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50124) | UNDP notices |
+| rolling | — | [Skills Needs, Curriculum Development & Training for Solar-Powered Cold Storage](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50131) | UNDP notices |
+| rolling | — | [Consultancy Services for Fund Management and Enterprise Support Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50147) | UNDP notices |
+| rolling | — | [International consultancy firm to provide AI Capacity building program](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50142) | UNDP notices |

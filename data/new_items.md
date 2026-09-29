@@ -1,12 +1,20 @@
-## 4 new opportunity item(s) — 2026-09-28
+## 8 new opportunity item(s) — 2026-09-29
 
-- **Grant Call for Strengthening Ethiopia’s Maternal and Newborn Health System (Czech Republic)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/community-development-2/grant-call-for-strengthening-ethiopias-maternal-and-newborn-health-system-czech-republic/)
-- **Call for EOIs: Strengthening Access to Health, Psychosocial Support, and Protection for Children and Young People (Morocco)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/community-development-2/call-for-eois-strengthening-access-to-health-psychosocial-support-and-protection-for-children-and-young-people-morocco/)
-- **RFAs: Community Enterprise and Skills Development Grants (South Africa)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/community-development-2/rfas-community-enterprise-and-skills-development-grants-south-africa/)
-- **Consultant International pour l'Evaluation Impact Climatique & Politique Fiscale** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50085)
+- **CFPs: Innovation Challenge for Equitable Access to Justice and Social Services (Tunisia)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/social-service/social-tech-challenge-2026-innovation-challenge-for-equitable-access-to/)
+- **Apply now for Civil Society and Human Rights Initiatives (Benin)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/civil-society-development/apply-now-for-civil-society-and-human-rights-initiatives-benin/)
+- **AGNES-BAYER Science Foundation Research Grant Program** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/2026-agnes-bayer-science-foundation-research-grant-for-biodiversity/)
+- **Arts Grant 2027: Activities, Projects, Events and Collaborations (Ireland)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/arts-grant-2027-activities-projects-events-and-collaborations-ireland/)
+- **Recrutement Agence de communication nationale_ Programme SUSTAIN** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50124)
+- **Skills Needs, Curriculum Development & Training for Solar-Powered Cold Storage** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50131)
+- **Consultancy Services for Fund Management and Enterprise Support Services** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50147)
+- **International consultancy firm to provide AI Capacity building program** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50142)
 
 ## Scoring flags — needs human review
-- Grant Call for Strengthening Ethiopia’s Maternal and Newborn Health System (Czech Republic)
-- Call for EOIs: Strengthening Access to Health, Psychosocial Support, and Protection for Children and Young People (Moroc
-- RFAs: Community Enterprise and Skills Development Grants (South Africa)
-- Consultant International pour l'Evaluation Impact Climatique & Politique Fiscale
+- CFPs: Innovation Challenge for Equitable Access to Justice and Social Services (Tunisia)
+- Apply now for Civil Society and Human Rights Initiatives (Benin)
+- AGNES-BAYER Science Foundation Research Grant Program
+- Arts Grant 2027: Activities, Projects, Events and Collaborations (Ireland)
+- Recrutement Agence de communication nationale_ Programme SUSTAIN
+- Skills Needs, Curriculum Development & Training for Solar-Powered Cold Storage
+- Consultancy Services for Fund Management and Enterprise Support Services
+- International consultancy firm to provide AI Capacity building program

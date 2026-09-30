@@ -1,20 +1,16 @@
-## 8 new opportunity item(s) — 2026-09-29
+## 6 new opportunity item(s) — 2026-09-30
 
-- **CFPs: Innovation Challenge for Equitable Access to Justice and Social Services (Tunisia)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/social-service/social-tech-challenge-2026-innovation-challenge-for-equitable-access-to/)
-- **Apply now for Civil Society and Human Rights Initiatives (Benin)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/civil-society-development/apply-now-for-civil-society-and-human-rights-initiatives-benin/)
-- **AGNES-BAYER Science Foundation Research Grant Program** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/2026-agnes-bayer-science-foundation-research-grant-for-biodiversity/)
-- **Arts Grant 2027: Activities, Projects, Events and Collaborations (Ireland)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/arts-grant-2027-activities-projects-events-and-collaborations-ireland/)
-- **Recrutement Agence de communication nationale_ Programme SUSTAIN** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50124)
-- **Skills Needs, Curriculum Development & Training for Solar-Powered Cold Storage** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50131)
-- **Consultancy Services for Fund Management and Enterprise Support Services** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50147)
-- **International consultancy firm to provide AI Capacity building program** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50142)
+- **CFAs: Equinox Program for Indigenous Artists (Canada)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/cfas-equinox-program-for-indigenous-artists-canada/)
+- **Media firm for Digital Marketing, Engagement and Promotions (NJFP)** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50221)
+- **Recrutement d’un cabinet spécialisé pour la prestation du Suivi, Apprentissage** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50200)
+- **ITB-015/2026: REFURBISHMENT OF THE ENTRANCE GATE FOR THE SLP - TRAINING SCHOOL.** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50203)
+- **ITB-014/226: REFURBISHMENT OF CLASSROOMS, LABRARY & HALL -SLP - TRAINING SCHOOL.** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50204)
+- **IC– Dispute Resolution Expert (GRM Training and Capacity Building)** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50191)
 
 ## Scoring flags — needs human review
-- CFPs: Innovation Challenge for Equitable Access to Justice and Social Services (Tunisia)
-- Apply now for Civil Society and Human Rights Initiatives (Benin)
-- AGNES-BAYER Science Foundation Research Grant Program
-- Arts Grant 2027: Activities, Projects, Events and Collaborations (Ireland)
-- Recrutement Agence de communication nationale_ Programme SUSTAIN
-- Skills Needs, Curriculum Development & Training for Solar-Powered Cold Storage
-- Consultancy Services for Fund Management and Enterprise Support Services
-- International consultancy firm to provide AI Capacity building program
+- CFAs: Equinox Program for Indigenous Artists (Canada)
+- Media firm for Digital Marketing, Engagement and Promotions (NJFP)
+- Recrutement d’un cabinet spécialisé pour la prestation du Suivi, Apprentissage
+- ITB-015/2026: REFURBISHMENT OF THE ENTRANCE GATE FOR THE SLP - TRAINING SCHOOL.
+- ITB-014/226: REFURBISHMENT OF CLASSROOMS, LABRARY & HALL -SLP - TRAINING SCHOOL.
+- IC– Dispute Resolution Expert (GRM Training and Capacity Building)

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-09-29 · 301 open of 365 logged_
+_Updated 2026-09-30 · 307 open of 371 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -304,3 +304,9 @@ _Updated 2026-09-29 · 301 open of 365 logged_
 | rolling | — | [Skills Needs, Curriculum Development & Training for Solar-Powered Cold Storage](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50131) | UNDP notices |
 | rolling | — | [Consultancy Services for Fund Management and Enterprise Support Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50147) | UNDP notices |
 | rolling | — | [International consultancy firm to provide AI Capacity building program](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50142) | UNDP notices |
+| rolling | — | [CFAs: Equinox Program for Indigenous Artists (Canada)](https://www2.fundsforngos.org/individuals/cfas-equinox-program-for-indigenous-artists-canada/) | fundsforNGOs |
+| rolling | — | [Media firm for Digital Marketing, Engagement and Promotions (NJFP)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50221) | UNDP notices |
+| rolling | — | [Recrutement d’un cabinet spécialisé pour la prestation du Suivi, Apprentissage](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50200) | UNDP notices |
+| rolling | — | [ITB-015/2026: REFURBISHMENT OF THE ENTRANCE GATE FOR THE SLP - TRAINING SCHOOL.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50203) | UNDP notices |
+| rolling | — | [ITB-014/226: REFURBISHMENT OF CLASSROOMS, LABRARY & HALL -SLP - TRAINING SCHOOL.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50204) | UNDP notices |
+| rolling | — | [IC– Dispute Resolution Expert (GRM Training and Capacity Building)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50191) | UNDP notices |

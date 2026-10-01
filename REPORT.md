@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-09-30 · 307 open of 371 logged_
+_Updated 2026-10-01 · 316 open of 381 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-09-30 | — | [Call for Proposals: Seeding Neuroscience Grants](https://www2.fundsforngos.org/science/call-for-proposals-seeding-neuroscience-grants/) | fundsforNGOs |
 | 2026-10-11 | — | [MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)](https://www2.fundsforngos.org/individuals/mtn-ict-and-business-skills-training-programme-phase-8-nigeria/) | fundsforNGOs |
 | 2026-11-15 | — | [Malmar Knowles Family Foundation — Youth Leadership Program](https://www.terravivagrants.org/malmar-knowles-family-foundation-youth-leadership-program/) | Terra Viva Grants |
 | 2026-12-02 | — | [Apply for First FOREST Partnership Joint Call](https://www2.fundsforngos.org/innovation/apply-for-first-forest-partnership-joint-call/) | fundsforNGOs |
@@ -310,3 +309,13 @@ _Updated 2026-09-30 · 307 open of 371 logged_
 | rolling | — | [ITB-015/2026: REFURBISHMENT OF THE ENTRANCE GATE FOR THE SLP - TRAINING SCHOOL.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50203) | UNDP notices |
 | rolling | — | [ITB-014/226: REFURBISHMENT OF CLASSROOMS, LABRARY & HALL -SLP - TRAINING SCHOOL.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50204) | UNDP notices |
 | rolling | — | [IC– Dispute Resolution Expert (GRM Training and Capacity Building)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50191) | UNDP notices |
+| rolling | — | [Grant for Skilling Youth Groups in ICT and Multimedia (Uganda)](https://www2.fundsforngos.org/community-development-2/grant-for-skilling-youth-groups-in-ict-and-multimedia-uganda/) | fundsforNGOs |
+| rolling | — | [Call for Proposals: Build Digital Skills for Women in Underserved Communities (Uganda)](https://www2.fundsforngos.org/community-development-2/call-for-proposals-build-digital-skills-for-women-in-underserved-communities-uganda-2/) | fundsforNGOs |
+| rolling | — | [Call for Proposals: Build Digital Skills for Women in Underserved Communities (Uganda)](https://www2.fundsforngos.org/community-development-2/call-for-proposals-build-digital-skills-for-women-in-underserved-communities-uganda/) | fundsforNGOs |
+| rolling | — | [CFPs: Environmental Sustainability Grant Community Group Project (Australia)](https://www2.fundsforngos.org/community-development-2/cfps-environmental-sustainability-grant-community-group-project-australia/) | fundsforNGOs |
+| rolling | — | [Open Call for CHI-Zone Fellowship Programme (UK)](https://www2.fundsforngos.org/innovation/open-call-for-chi-zone-fellowship-programme-uk/) | fundsforNGOs |
+| rolling | — | [Call for Projects: Strengthen ICT Learning in Ugandan Secondary Schools](https://www2.fundsforngos.org/community-development-2/call-for-projects-strengthen-ict-learning-in-ugandan-secondary-schools/) | fundsforNGOs |
+| rolling | — | [Bureau d'études international pour la Conception, le développement, le déploiem](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50243) | UNDP notices |
+| rolling | — | [RFP CABINET ASSISTANCE TECHNIQUE AU MFEP / ENVIRONNEMENT](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50252) | UNDP notices |
+| rolling | — | [Consultancy Firm: Assessment of PPCU Capacity, Gaps and PMEAL Requirements](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50230) | UNDP notices |
+| rolling | — | [Call for Proposals from NGOs Model United Nations of Libya (MUNly 2026)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50239) | UNDP notices |

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-01 · 316 open of 381 logged_
+_Updated 2026-10-02 · 319 open of 384 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -319,3 +319,6 @@ _Updated 2026-10-01 · 316 open of 381 logged_
 | rolling | — | [RFP CABINET ASSISTANCE TECHNIQUE AU MFEP / ENVIRONNEMENT](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50252) | UNDP notices |
 | rolling | — | [Consultancy Firm: Assessment of PPCU Capacity, Gaps and PMEAL Requirements](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50230) | UNDP notices |
 | rolling | — | [Call for Proposals from NGOs Model United Nations of Libya (MUNly 2026)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50239) | UNDP notices |
+| rolling | — | [Public Finance, Capacity Development, Disaster Risk Finance](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50281) | UNDP notices |
+| rolling | — | [CONSULTANT POUR EVALUATION DE LA SALLE DE VEILLE NATIONALE](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50278) | UNDP notices |
+| rolling | — | [CABINET D'ETUDES POUR EVALUATION INSTITUTIONNELLES](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50279) | UNDP notices |

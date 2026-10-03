@@ -1,10 +1,8 @@
-## 3 new opportunity item(s) — 2026-10-02
+## 2 new opportunity item(s) — 2026-10-03
 
-- **Public Finance, Capacity Development, Disaster Risk Finance** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50281)
-- **CONSULTANT POUR EVALUATION DE LA SALLE DE VEILLE NATIONALE** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50278)
-- **CABINET D'ETUDES POUR EVALUATION INSTITUTIONNELLES** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50279)
+- **Grant for Skilling Youth Groups in ICT and Multimedia (Uganda)** (; deadline —) [fundsforNGOs](https://www.fundsforngos.org/how-to-apply/grant-for-skilling-youth-groups-in-ict-and-multimedia-uganda/)
+- **Chevening British Library Southeast Asian Fellowship** (; deadline —) [fundsforNGOs](https://www.fundsforngos.org/how-to-apply/chevening-british-library-southeast-asian-fellowship/)
 
 ## Scoring flags — needs human review
-- Public Finance, Capacity Development, Disaster Risk Finance
-- CONSULTANT POUR EVALUATION DE LA SALLE DE VEILLE NATIONALE
-- CABINET D'ETUDES POUR EVALUATION INSTITUTIONNELLES
+- Grant for Skilling Youth Groups in ICT and Multimedia (Uganda)
+- Chevening British Library Southeast Asian Fellowship

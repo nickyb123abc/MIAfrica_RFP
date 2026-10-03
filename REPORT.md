@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-02 · 319 open of 384 logged_
+_Updated 2026-10-03 · 321 open of 386 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -322,3 +322,5 @@ _Updated 2026-10-02 · 319 open of 384 logged_
 | rolling | — | [Public Finance, Capacity Development, Disaster Risk Finance](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50281) | UNDP notices |
 | rolling | — | [CONSULTANT POUR EVALUATION DE LA SALLE DE VEILLE NATIONALE](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50278) | UNDP notices |
 | rolling | — | [CABINET D'ETUDES POUR EVALUATION INSTITUTIONNELLES](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50279) | UNDP notices |
+| rolling | — | [Grant for Skilling Youth Groups in ICT and Multimedia (Uganda)](https://www.fundsforngos.org/how-to-apply/grant-for-skilling-youth-groups-in-ict-and-multimedia-uganda/) | fundsforNGOs |
+| rolling | — | [Chevening British Library Southeast Asian Fellowship](https://www.fundsforngos.org/how-to-apply/chevening-british-library-southeast-asian-fellowship/) | fundsforNGOs |

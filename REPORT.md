@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-04 · 321 open of 386 logged_
+_Updated 2026-10-05 · 335 open of 400 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -324,3 +324,17 @@ _Updated 2026-10-04 · 321 open of 386 logged_
 | rolling | — | [CABINET D'ETUDES POUR EVALUATION INSTITUTIONNELLES](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50279) | UNDP notices |
 | rolling | — | [Grant for Skilling Youth Groups in ICT and Multimedia (Uganda)](https://www.fundsforngos.org/how-to-apply/grant-for-skilling-youth-groups-in-ict-and-multimedia-uganda/) | fundsforNGOs |
 | rolling | — | [Chevening British Library Southeast Asian Fellowship](https://www.fundsforngos.org/how-to-apply/chevening-british-library-southeast-asian-fellowship/) | fundsforNGOs |
+| rolling | — | [Partnership for Battery Action — Assessing Air Quality Harm from Lead-Acid Battery Recycling](https://www.terravivagrants.org/partnership-for-battery-action/) | Terra Viva Grants |
+| rolling | — | [Johns Hopkins — Demographics and Planetary Health Story Prize](https://www.terravivagrants.org/johns-hopkins-story-prize/) | Terra Viva Grants |
+| rolling | — | [Association of Commonwealth Universities — Early Career Conference Grants](https://www.terravivagrants.org/commonwealth-early-career-conference-grants/) | Terra Viva Grants |
+| rolling | — | [Graduate Institute Geneva — Master and PhD Applications 2027](https://www.terravivagrants.org/graduate-institute-geneva-master-and-phd-applications/) | Terra Viva Grants |
+| rolling | — | [Acumen Fund — India Fellows Program 2027](https://www.terravivagrants.org/acumen-india-fellows-program/) | Terra Viva Grants |
+| rolling | — | [African Leadership Academy — Anzisha Prize for Young Innovators](https://www.terravivagrants.org/anzisha-prize-for-young-innovators/) | Terra Viva Grants |
+| rolling | — | [Dalai Lama Fellows — Mentorship for Emerging Leaders](https://www.terravivagrants.org/dalai-lama-fellows/) | Terra Viva Grants |
+| rolling | — | [Unearthodox — Exploration Co-Lab 2027](https://www.terravivagrants.org/exploration-co-lab/) | Terra Viva Grants |
+| rolling | — | [Mo Ibrahim Foundation — Leadership Fellowships](https://www.terravivagrants.org/mo-ibrahim-foundation-fellowship/) | Terra Viva Grants |
+| rolling | — | [World Academy of Sciences — Research Professorships in Least-Developed Countries](https://www.terravivagrants.org/twas-research-professorships-least-developed-countries/) | Terra Viva Grants |
+| rolling | — | [Call for Applications: Micro-Projects Scheme 2027](https://www2.fundsforngos.org/community-development-2/call-for-applications-micro-projects-scheme-2027/) | fundsforNGOs |
+| rolling | — | [CFAs: NGO for the implementation of Structuring and Capacity Building Program (Congo)](https://www2.fundsforngos.org/community-development-2/cfas-ngo-for-the-implementation-of-structuring-and-capacity-building-program-congo/) | fundsforNGOs |
+| rolling | — | [Entries open for Sustainable Food Challenge 2027](https://www2.fundsforngos.org/innovation/entries-open-for-sustainable-food-challenge-2027/) | fundsforNGOs |
+| rolling | — | [Cabinet National chargé du diagnostic, du renforcement des capacités des OSC OP8](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50336) | UNDP notices |

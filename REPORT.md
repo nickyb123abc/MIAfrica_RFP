@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-05 · 335 open of 400 logged_
+_Updated 2026-10-06 · 336 open of 401 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -338,3 +338,4 @@ _Updated 2026-10-05 · 335 open of 400 logged_
 | rolling | — | [CFAs: NGO for the implementation of Structuring and Capacity Building Program (Congo)](https://www2.fundsforngos.org/community-development-2/cfas-ngo-for-the-implementation-of-structuring-and-capacity-building-program-congo/) | fundsforNGOs |
 | rolling | — | [Entries open for Sustainable Food Challenge 2027](https://www2.fundsforngos.org/innovation/entries-open-for-sustainable-food-challenge-2027/) | fundsforNGOs |
 | rolling | — | [Cabinet National chargé du diagnostic, du renforcement des capacités des OSC OP8](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50336) | UNDP notices |
+| rolling | — | [Consultancy Services to Conduct HACT Audit of Implementing Partner Expenditures](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50387) | UNDP notices |

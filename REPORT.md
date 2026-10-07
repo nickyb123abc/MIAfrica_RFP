@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-06 · 336 open of 401 logged_
+_Updated 2026-10-07 · 348 open of 413 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -339,3 +339,15 @@ _Updated 2026-10-06 · 336 open of 401 logged_
 | rolling | — | [Entries open for Sustainable Food Challenge 2027](https://www2.fundsforngos.org/innovation/entries-open-for-sustainable-food-challenge-2027/) | fundsforNGOs |
 | rolling | — | [Cabinet National chargé du diagnostic, du renforcement des capacités des OSC OP8](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50336) | UNDP notices |
 | rolling | — | [Consultancy Services to Conduct HACT Audit of Implementing Partner Expenditures](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50387) | UNDP notices |
+| rolling | — | [RFPs: Designing and Preparing an Innovative Finance Mechanism for Operations (Somalia)](https://www2.fundsforngos.org/innovation/rfps-designing-and-preparing-an-innovative-finance-mechanism-for-operations-somalia/) | fundsforNGOs |
+| rolling | — | [CFPs: Ghana Component – Community-Led Advocacy for Women’s and Girls’ Safety](https://www2.fundsforngos.org/community-development-2/cfps-ghana-component-community-led-advocacy-for-womens-and-girls-safety/) | fundsforNGOs |
+| rolling | — | [Call for Proposals: Development of SGP 8th Operational Phase Country Programme Strategy (Eswatini)](https://www2.fundsforngos.org/community-development-2/call-for-proposals-development-of-sgp-8th-operational-phase-country-programme-strategy-eswatini/) | fundsforNGOs |
+| rolling | — | [Call for Proposals: Women’s Peace and Humanitarian Fund (Sudan)](https://www2.fundsforngos.org/peace-conflict-resolution/call-for-proposals-womens-peace-and-humanitarian-fund-sudan/) | fundsforNGOs |
+| rolling | — | [TECHNICAL PARTNER ENTREPRENEURIAL TRAINING SERVICES](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50440) | UNDP notices |
+| rolling | — | [Consultancy Services for Campaign Documentary](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50443) | UNDP notices |
+| rolling | — | [RFP -FIRM TO DEVELOP AND DEPLOY A REAL-TIME DATA MONITORING PLATFORM.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50409) | UNDP notices |
+| rolling | — | [CFP-006/26-Media Development Organisation to carry out Nationwide Public Awarene](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50410) | UNDP notices |
+| rolling | — | [Firm-Lessons learned _best practices on Growth &Formalization of Informal Enterp](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50411) | UNDP notices |
+| rolling | — | [Support to Institutional Strategic Planning and Capacity Development of the Mini](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50404) | UNDP notices |
+| rolling | — | [Consultancy Services for Behavioral Change Campaign](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50400) | UNDP notices |
+| rolling | — | [Consultancy to Undertake a Study to Establish the Macroeconomic Cost of GBV](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50408) | UNDP notices |

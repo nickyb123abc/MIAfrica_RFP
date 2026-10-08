@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-07 · 348 open of 413 logged_
+_Updated 2026-10-08 · 351 open of 416 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -351,3 +351,6 @@ _Updated 2026-10-07 · 348 open of 413 logged_
 | rolling | — | [Support to Institutional Strategic Planning and Capacity Development of the Mini](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50404) | UNDP notices |
 | rolling | — | [Consultancy Services for Behavioral Change Campaign](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50400) | UNDP notices |
 | rolling | — | [Consultancy to Undertake a Study to Establish the Macroeconomic Cost of GBV](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50408) | UNDP notices |
+| rolling | — | [Call for NGO/CSO Partners for Two Development Projects (Central African Republic)](https://www.fundsforngos.org/how-to-apply/call-for-ngo-cso-partners-for-two-development-projects-central-african-republic/) | fundsforNGOs |
+| rolling | — | [Call for Proposals from NGOs "Engagement of a National NGO for Legal Aid Service](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50485) | UNDP notices |
+| rolling | — | [RFP: LTA: Security Services and Protection to the Personnel and Premises](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50467) | UNDP notices |

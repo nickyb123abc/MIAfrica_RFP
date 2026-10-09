@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-08 · 351 open of 416 logged_
+_Updated 2026-10-09 · 356 open of 421 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -354,3 +354,8 @@ _Updated 2026-10-08 · 351 open of 416 logged_
 | rolling | — | [Call for NGO/CSO Partners for Two Development Projects (Central African Republic)](https://www.fundsforngos.org/how-to-apply/call-for-ngo-cso-partners-for-two-development-projects-central-african-republic/) | fundsforNGOs |
 | rolling | — | [Call for Proposals from NGOs "Engagement of a National NGO for Legal Aid Service](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50485) | UNDP notices |
 | rolling | — | [RFP: LTA: Security Services and Protection to the Personnel and Premises](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50467) | UNDP notices |
+| rolling | — | [Grant Programme Strengthens the Economic, Social and Environ](https://www2.fundsforngos.org/individuals/feampa-2021-2027-sustainable-fishing-activities-in-lombardia/) | fundsforNGOs |
+| rolling | — | [Agentic Africa Challenge for Healthcare Agent Solutions](https://www2.fundsforngos.org/individuals/agentic-africa-challenge-for-healthcare-agent-solutions/) | fundsforNGOs |
+| rolling | — | [National Consulting Firm for Data Mapping, Data and AI Readiness Assessment](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50529) | UNDP notices |
+| rolling | — | [Enterprise Mobilisation, Capacity Building and Participant Accompaniment Service](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50536) | UNDP notices |
+| rolling | — | [CONSULTANT (E) NATIONAL (E) EVALUATION FINALE DU PROJET DIASPORA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50510) | UNDP notices |

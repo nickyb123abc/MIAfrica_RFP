@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-10-11 · 356 open of 421 logged_
+_Updated 2026-10-13 · 374 open of 440 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-10-11 | — | [MTN ICT and Business Skills Training Programme –  Phase 8 (Nigeria)](https://www2.fundsforngos.org/individuals/mtn-ict-and-business-skills-training-programme-phase-8-nigeria/) | fundsforNGOs |
 | 2026-11-15 | — | [Malmar Knowles Family Foundation — Youth Leadership Program](https://www.terravivagrants.org/malmar-knowles-family-foundation-youth-leadership-program/) | Terra Viva Grants |
 | 2026-12-02 | — | [Apply for First FOREST Partnership Joint Call](https://www2.fundsforngos.org/innovation/apply-for-first-forest-partnership-joint-call/) | fundsforNGOs |
 | 2026-12-18 | 69.8 | [GALS methodology development + ToT (300 trainers) — READ programme](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98727) | Impact Funding (Jul) |
@@ -359,3 +358,22 @@ _Updated 2026-10-11 · 356 open of 421 logged_
 | rolling | — | [National Consulting Firm for Data Mapping, Data and AI Readiness Assessment](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50529) | UNDP notices |
 | rolling | — | [Enterprise Mobilisation, Capacity Building and Participant Accompaniment Service](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50536) | UNDP notices |
 | rolling | — | [CONSULTANT (E) NATIONAL (E) EVALUATION FINALE DU PROJET DIASPORA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50510) | UNDP notices |
+| rolling | — | [Yale University — Young Global Scholars Program](https://www.terravivagrants.org/yale-university-young-global-scholars-program/) | Terra Viva Grants |
+| rolling | — | [Earth Journalism Network — Reporting Fellowships to Cover the High Seas Treaty COP1 in New York](https://www.terravivagrants.org/reporting-fellowships-to-cover-the-high-seas-treaty/) | Terra Viva Grants |
+| rolling | — | [Ashinaga Africa Initiative — University Scholarship for Orphans](https://www.terravivagrants.org/ashinaga-africa-initiative-university-scholarship-for-orphans/) | Terra Viva Grants |
+| rolling | — | [United Nations Academic Impact — Millennium Fellowship](https://www.terravivagrants.org/millennium-fellowship/) | Terra Viva Grants |
+| rolling | — | [Awesome Foundation — Micro-Grants to Projects Worldwide](https://www.terravivagrants.org/awesome-foundation-micro-grants/) | Terra Viva Grants |
+| rolling | — | [International Inequalities Institute — Fellowship Program](https://www.terravivagrants.org/atlantic-fellows/) | Terra Viva Grants |
+| rolling | — | [Ghent University — Special Research Fund](https://www.terravivagrants.org/ghent-university-phd-scholarships/) | Terra Viva Grants |
+| rolling | — | [European Commission Erasmus Mundus — International Masters Degree in Environment 2027-2029](https://www.terravivagrants.org/erasmus-mundus-masters-degree-in-environment/) | Terra Viva Grants |
+| rolling | — | [Heinrich Böll Foundation — University Studies in Germany 2027](https://www.terravivagrants.org/scholarships-university-studies-in-germany/) | Terra Viva Grants |
+| rolling | — | [Draper Richards Kaplan Foundation — Start-up Support for Social Enterprises](https://www.terravivagrants.org/startup-support-for-social-enterprises/) | Terra Viva Grants |
+| rolling | — | [NOFO: Implementation of 2027 GCTF Workshop in Eswatini (Taiwan)](https://www.fundsforngos.org/how-to-apply/nofo-implementation-of-2027-gctf-workshop-in-eswatini-taiwan/) | fundsforNGOs |
+| rolling | — | [Agentic Africa Challenge for Learner Profiling Tools](https://www.fundsforngos.org/how-to-apply/agentic-africa-challenge-for-learner-profiling-tools/) | fundsforNGOs |
+| rolling | — | [Applications open for Agentic Africa Challenge](https://www.fundsforngos.org/how-to-apply/applications-open-for-agentic-africa-challenge/) | fundsforNGOs |
+| rolling | — | [Entries open for Agentic Africa Challenge](https://www.fundsforngos.org/how-to-apply/entries-open-for-agentic-africa-challenge/) | fundsforNGOs |
+| rolling | — | [Appel à propositions de projet (ONG) Programme de Microfinancements du FEM](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50585) | UNDP notices |
+| rolling | — | [Institutional Contract for the Production and Dissemination of the PodSalo AgriT](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50594) | UNDP notices |
+| rolling | — | [Consultancy Services to conduct the EV Charging Corridor Route Analysis and Mapp](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50599) | UNDP notices |
+| rolling | — | [RFP38/2026: Recrutement d'un cabinet pour le soutien à la levée de fonds et à la](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50605) | UNDP notices |
+| rolling | — | [Recruitment of a Firm for the Implementation of Catalytic Risk Finance for Youth](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50566) | UNDP notices |

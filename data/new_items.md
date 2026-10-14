@@ -1,42 +1,12 @@
-## 19 new opportunity item(s) — 2026-10-13
+## 4 new opportunity item(s) — 2026-10-14
 
-- **Yale University — Young Global Scholars Program** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/yale-university-young-global-scholars-program/)
-- **Earth Journalism Network — Reporting Fellowships to Cover the High Seas Treaty COP1 in New York** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/reporting-fellowships-to-cover-the-high-seas-treaty/)
-- **Ashinaga Africa Initiative — University Scholarship for Orphans** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/ashinaga-africa-initiative-university-scholarship-for-orphans/)
-- **United Nations Academic Impact — Millennium Fellowship** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/millennium-fellowship/)
-- **Awesome Foundation — Micro-Grants to Projects Worldwide** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/awesome-foundation-micro-grants/)
-- **International Inequalities Institute — Fellowship Program** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/atlantic-fellows/)
-- **Ghent University — Special Research Fund** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/ghent-university-phd-scholarships/)
-- **European Commission Erasmus Mundus — International Masters Degree in Environment 2027-2029** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/erasmus-mundus-masters-degree-in-environment/)
-- **Heinrich Böll Foundation — University Studies in Germany 2027** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/scholarships-university-studies-in-germany/)
-- **Draper Richards Kaplan Foundation — Start-up Support for Social Enterprises** (; deadline —) [Terra Viva Grants](https://www.terravivagrants.org/startup-support-for-social-enterprises/)
-- **NOFO: Implementation of 2027 GCTF Workshop in Eswatini (Taiwan)** (; deadline —) [fundsforNGOs](https://www.fundsforngos.org/how-to-apply/nofo-implementation-of-2027-gctf-workshop-in-eswatini-taiwan/)
-- **Agentic Africa Challenge for Learner Profiling Tools** (; deadline —) [fundsforNGOs](https://www.fundsforngos.org/how-to-apply/agentic-africa-challenge-for-learner-profiling-tools/)
-- **Applications open for Agentic Africa Challenge** (; deadline —) [fundsforNGOs](https://www.fundsforngos.org/how-to-apply/applications-open-for-agentic-africa-challenge/)
-- **Entries open for Agentic Africa Challenge** (; deadline —) [fundsforNGOs](https://www.fundsforngos.org/how-to-apply/entries-open-for-agentic-africa-challenge/)
-- **Appel à propositions de projet (ONG) Programme de Microfinancements du FEM** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50585)
-- **Institutional Contract for the Production and Dissemination of the PodSalo AgriT** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50594)
-- **Consultancy Services to conduct the EV Charging Corridor Route Analysis and Mapp** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50599)
-- **RFP38/2026: Recrutement d'un cabinet pour le soutien à la levée de fonds et à la** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50605)
-- **Recruitment of a Firm for the Implementation of Catalytic Risk Finance for Youth** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50566)
+- **Applications open for Community-Based Living Labs Programme (South Africa)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/innovation/call-for-proposals-living-labs-programme-by-technology-innovation-agency/)
+- **Applications open for Project Development Grant Program (Australia)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/screen-territory-project-development-funding-for-northern-territory/)
+- **Ruth Titilayo Polytechnic Scholarship for Students in Nigeria** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/ruth-titilayo-polytechnic-scholarship-2027-supporting-nigerian-polytechnic/)
+- **RFAs: Levi Lassen Foundation Project Grants for The Hague (Netherlands)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/cat/levi-lassen-foundation-grants-for-projects-in-the-hague/)
 
 ## Scoring flags — needs human review
-- Yale University — Young Global Scholars Program
-- Earth Journalism Network — Reporting Fellowships to Cover the High Seas Treaty COP1 in New York
-- Ashinaga Africa Initiative — University Scholarship for Orphans
-- United Nations Academic Impact — Millennium Fellowship
-- Awesome Foundation — Micro-Grants to Projects Worldwide
-- International Inequalities Institute — Fellowship Program
-- Ghent University — Special Research Fund
-- European Commission Erasmus Mundus — International Masters Degree in Environment 2027-2029
-- Heinrich Böll Foundation — University Studies in Germany 2027
-- Draper Richards Kaplan Foundation — Start-up Support for Social Enterprises
-- NOFO: Implementation of 2027 GCTF Workshop in Eswatini (Taiwan)
-- Agentic Africa Challenge for Learner Profiling Tools
-- Applications open for Agentic Africa Challenge
-- Entries open for Agentic Africa Challenge
-- Appel à propositions de projet (ONG) Programme de Microfinancements du FEM
-- Institutional Contract for the Production and Dissemination of the PodSalo AgriT
-- Consultancy Services to conduct the EV Charging Corridor Route Analysis and Mapp
-- RFP38/2026: Recrutement d'un cabinet pour le soutien à la levée de fonds et à la
-- Recruitment of a Firm for the Implementation of Catalytic Risk Finance for Youth
+- Applications open for Community-Based Living Labs Programme (South Africa)
+- Applications open for Project Development Grant Program (Australia)
+- Ruth Titilayo Polytechnic Scholarship for Students in Nigeria
+- RFAs: Levi Lassen Foundation Project Grants for The Hague (Netherlands)

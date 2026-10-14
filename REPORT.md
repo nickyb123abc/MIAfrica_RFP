@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-13 · 374 open of 440 logged_
+_Updated 2026-10-14 · 378 open of 444 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -377,3 +377,7 @@ _Updated 2026-10-13 · 374 open of 440 logged_
 | rolling | — | [Consultancy Services to conduct the EV Charging Corridor Route Analysis and Mapp](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50599) | UNDP notices |
 | rolling | — | [RFP38/2026: Recrutement d'un cabinet pour le soutien à la levée de fonds et à la](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50605) | UNDP notices |
 | rolling | — | [Recruitment of a Firm for the Implementation of Catalytic Risk Finance for Youth](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50566) | UNDP notices |
+| rolling | — | [Applications open for Community-Based Living Labs Programme (South Africa)](https://www2.fundsforngos.org/innovation/call-for-proposals-living-labs-programme-by-technology-innovation-agency/) | fundsforNGOs |
+| rolling | — | [Applications open for Project Development Grant Program (Australia)](https://www2.fundsforngos.org/individuals/screen-territory-project-development-funding-for-northern-territory/) | fundsforNGOs |
+| rolling | — | [Ruth Titilayo Polytechnic Scholarship for Students in Nigeria](https://www2.fundsforngos.org/individuals/ruth-titilayo-polytechnic-scholarship-2027-supporting-nigerian-polytechnic/) | fundsforNGOs |
+| rolling | — | [RFAs: Levi Lassen Foundation Project Grants for The Hague (Netherlands)](https://www2.fundsforngos.org/cat/levi-lassen-foundation-grants-for-projects-in-the-hague/) | fundsforNGOs |

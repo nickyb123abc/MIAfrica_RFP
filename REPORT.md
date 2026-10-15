@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-14 · 378 open of 444 logged_
+_Updated 2026-10-15 · 380 open of 446 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -381,3 +381,5 @@ _Updated 2026-10-14 · 378 open of 444 logged_
 | rolling | — | [Applications open for Project Development Grant Program (Australia)](https://www2.fundsforngos.org/individuals/screen-territory-project-development-funding-for-northern-territory/) | fundsforNGOs |
 | rolling | — | [Ruth Titilayo Polytechnic Scholarship for Students in Nigeria](https://www2.fundsforngos.org/individuals/ruth-titilayo-polytechnic-scholarship-2027-supporting-nigerian-polytechnic/) | fundsforNGOs |
 | rolling | — | [RFAs: Levi Lassen Foundation Project Grants for The Hague (Netherlands)](https://www2.fundsforngos.org/cat/levi-lassen-foundation-grants-for-projects-in-the-hague/) | fundsforNGOs |
+| rolling | — | [CFPs: Enterprise Mobilisation, Capacity Building and Participant Accompaniment Service (South Africa](https://www2.fundsforngos.org/community-development-2/undp-enterprise-mobilisation-capacity-building-and-participant/) | fundsforNGOs |
+| rolling | — | [Somaliland Integrated National Financing Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50689) | UNDP notices |

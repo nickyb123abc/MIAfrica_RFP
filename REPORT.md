@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-15 · 380 open of 446 logged_
+_Updated 2026-10-16 · 384 open of 450 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -383,3 +383,7 @@ _Updated 2026-10-15 · 380 open of 446 logged_
 | rolling | — | [RFAs: Levi Lassen Foundation Project Grants for The Hague (Netherlands)](https://www2.fundsforngos.org/cat/levi-lassen-foundation-grants-for-projects-in-the-hague/) | fundsforNGOs |
 | rolling | — | [CFPs: Enterprise Mobilisation, Capacity Building and Participant Accompaniment Service (South Africa](https://www2.fundsforngos.org/community-development-2/undp-enterprise-mobilisation-capacity-building-and-participant/) | fundsforNGOs |
 | rolling | — | [Somaliland Integrated National Financing Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50689) | UNDP notices |
+| rolling | — | [Open Call: IGVF Data and Coordinating Center (US)](https://www2.fundsforngos.org/individuals/igvf-data-and-coordinating-center-funding-opportunity-by-nih/) | fundsforNGOs |
+| rolling | — | [Open Call for Caithness Futures Maternity Grant Programme (UK)](https://www2.fundsforngos.org/individuals/caithness-futures-maternity-grants-support-for-expectant-mothers-in/) | fundsforNGOs |
+| rolling | — | [Strengthening Governance and Institutional Capacity of Berbera Fisheries Coopera](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50769) | UNDP notices |
+| rolling | — | [Recrutement Cabinet de formation des femmes maraîchères à Koulikoro](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50750) | UNDP notices |

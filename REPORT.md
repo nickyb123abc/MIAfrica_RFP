@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-16 · 384 open of 450 logged_
+_Updated 2026-10-17 · 388 open of 454 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -387,3 +387,7 @@ _Updated 2026-10-16 · 384 open of 450 logged_
 | rolling | — | [Open Call for Caithness Futures Maternity Grant Programme (UK)](https://www2.fundsforngos.org/individuals/caithness-futures-maternity-grants-support-for-expectant-mothers-in/) | fundsforNGOs |
 | rolling | — | [Strengthening Governance and Institutional Capacity of Berbera Fisheries Coopera](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50769) | UNDP notices |
 | rolling | — | [Recrutement Cabinet de formation des femmes maraîchères à Koulikoro](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50750) | UNDP notices |
+| rolling | — | [CFAs: Climate Tech Incubator Student Launchpad Program Season 2 (India)](https://www2.fundsforngos.org/individuals/cfas-climate-tech-incubator-student-launchpad-program-season-2-india/) | fundsforNGOs |
+| rolling | — | [Community Planning and Environmental Services Payments for Savanna Restoration in DR Congo](https://www2.fundsforngos.org/individuals/community-planning-and-environmental-services-payments-for-savanna-restoration-in-dr-congo/) | fundsforNGOs |
+| rolling | — | [CFP-016/26: Call for proposals for the Global Plastics Innovation Program.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50781) | UNDP notices |
+| rolling | — | [Procurement Drone pilot training, certification and licensing](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50783) | UNDP notices |

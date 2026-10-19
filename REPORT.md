@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-18 · 388 open of 454 logged_
+_Updated 2026-10-19 · 394 open of 460 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -391,3 +391,9 @@ _Updated 2026-10-18 · 388 open of 454 logged_
 | rolling | — | [Community Planning and Environmental Services Payments for Savanna Restoration in DR Congo](https://www2.fundsforngos.org/individuals/community-planning-and-environmental-services-payments-for-savanna-restoration-in-dr-congo/) | fundsforNGOs |
 | rolling | — | [CFP-016/26: Call for proposals for the Global Plastics Innovation Program.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50781) | UNDP notices |
 | rolling | — | [Procurement Drone pilot training, certification and licensing](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50783) | UNDP notices |
+| rolling | — | [Call for Proposals: GEF Small Grants Programme (Papua New Guinea)](https://www2.fundsforngos.org/innovation/call-for-proposals-gef-small-grants-programme-papua-new-guinea/) | fundsforNGOs |
+| rolling | — | [Apply Now: Conservation, Food and Health Foundation Fund](https://www2.fundsforngos.org/environment-2/apply-now-conservation-food-and-health-foundation-fund/) | fundsforNGOs |
+| rolling | — | [Call for Local CSO Partners: Youth-Led Governance Initiative (Nigeria)](https://www2.fundsforngos.org/community-development-2/call-for-proposals-alimat-care-foundation-funding-opportunity/) | fundsforNGOs |
+| rolling | — | [Call for Proposals: Women’s Peace and Humanitarian Fund (Sudan)](https://www2.fundsforngos.org/peace-conflict-resolution/women-s-peace-and-humanitarian-fund-call-for-proposals-in-burkina-faso/) | fundsforNGOs |
+| rolling | — | [CFPs: FBIS Africa Freshwater Biodiversity Data Mobilisation Small Grants](https://www2.fundsforngos.org/cat/fbis-africa-freshwater-biodiversity-data-mobilisation-small-grants/) | fundsforNGOs |
+| rolling | — | [2026 Emergency Planning for Juvenile Justice Residential Facilities (US)](https://www2.fundsforngos.org/youth-adolescents-2/ojjdp-fy-2026-emergency-planning-for-juvenile-justice-residential/) | fundsforNGOs |

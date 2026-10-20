@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-19 · 394 open of 460 logged_
+_Updated 2026-10-20 · 398 open of 464 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -397,3 +397,7 @@ _Updated 2026-10-19 · 394 open of 460 logged_
 | rolling | — | [Call for Proposals: Women’s Peace and Humanitarian Fund (Sudan)](https://www2.fundsforngos.org/peace-conflict-resolution/women-s-peace-and-humanitarian-fund-call-for-proposals-in-burkina-faso/) | fundsforNGOs |
 | rolling | — | [CFPs: FBIS Africa Freshwater Biodiversity Data Mobilisation Small Grants](https://www2.fundsforngos.org/cat/fbis-africa-freshwater-biodiversity-data-mobilisation-small-grants/) | fundsforNGOs |
 | rolling | — | [2026 Emergency Planning for Juvenile Justice Residential Facilities (US)](https://www2.fundsforngos.org/youth-adolescents-2/ojjdp-fy-2026-emergency-planning-for-juvenile-justice-residential/) | fundsforNGOs |
+| rolling | — | [RFP-Recruitment of a Consulting Firm to Conduct a Thematic Evaluation](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50852) | UNDP notices |
+| rolling | — | [Recruitment of a Firm to Develop and Deliver a Training Module for the BW-NEA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50864) | UNDP notices |
+| rolling | — | [National Service provider for the UniPods AI for Public Good Challenge- SA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50854) | UNDP notices |
+| rolling | — | [GIZ Uganda: Invitation to Tender for Consultancy services for Customary land registration and capaci](https://www.giz.de/en/invitation-tender-consultancy-services-customary-land-registration-and-capacity-building-responsible) | GIZ tenders |

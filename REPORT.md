@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-20 · 398 open of 464 logged_
+_Updated 2026-10-21 · 405 open of 471 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -401,3 +401,10 @@ _Updated 2026-10-20 · 398 open of 464 logged_
 | rolling | — | [Recruitment of a Firm to Develop and Deliver a Training Module for the BW-NEA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50864) | UNDP notices |
 | rolling | — | [National Service provider for the UniPods AI for Public Good Challenge- SA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50854) | UNDP notices |
 | rolling | — | [GIZ Uganda: Invitation to Tender for Consultancy services for Customary land registration and capaci](https://www.giz.de/en/invitation-tender-consultancy-services-customary-land-registration-and-capacity-building-responsible) | GIZ tenders |
+| rolling | — | [Engegement of  National Firm to provide Editing, printing of Insurance Toolkits.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50915) | UNDP notices |
+| rolling | — | [Appel à candidatures : Programme d'incubation - Projet Mali Coton](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98947) | UNDP notices |
+| rolling | — | [Capacity building training for WDCs and VDCs.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50899) | UNDP notices |
+| rolling | — | [RFP for Chuini Fishing Port Project Preparation Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50887) | UNDP notices |
+| rolling | — | [Proposal Writing](https://aercafrica.org/proposal-writing/) | AERC |
+| rolling | — | [Call for Proposals](https://aercafrica.org/call-for-proposals/) | AERC |
+| rolling | — | [Expression of Interest](https://aercafrica.org/expression-of-interest/) | AERC |

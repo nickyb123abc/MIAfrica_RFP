@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-21 · 405 open of 471 logged_
+_Updated 2026-10-22 · 419 open of 485 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -408,3 +408,17 @@ _Updated 2026-10-21 · 405 open of 471 logged_
 | rolling | — | [Proposal Writing](https://aercafrica.org/proposal-writing/) | AERC |
 | rolling | — | [Call for Proposals](https://aercafrica.org/call-for-proposals/) | AERC |
 | rolling | — | [Expression of Interest](https://aercafrica.org/expression-of-interest/) | AERC |
+| rolling | — | [Tyler Prize for Environmental Achievement — Student Ambassador Program](https://www.terravivagrants.org/tyler-prize-student-ambassador-program/) | Terra Viva Grants |
+| rolling | — | [100x Impact Accelerator — Funding for Social Ventures](https://www.terravivagrants.org/funding-for-social-ventures/) | Terra Viva Grants |
+| rolling | — | [International Funders for Indigenous Peoples — Scholarships for Indigenous Leaders to Attend the Dar](https://www.terravivagrants.org/scholarships-for-indigenous-leaders/) | Terra Viva Grants |
+| rolling | — | [UNDP — Ocean Innovation Challenge](https://www.terravivagrants.org/undp-ocean-innovation-challenge/) | Terra Viva Grants |
+| rolling | — | [ARROW — Asia-Pacific Forum on Sustainable Development Youth Forum](https://www.terravivagrants.org/sustainable-development-youth-forum/) | Terra Viva Grants |
+| rolling | — | [Eni — Prizes for Energy and Environmental Science](https://www.terravivagrants.org/prizes-for-energy-and-environmental-science/) | Terra Viva Grants |
+| rolling | — | [International Trade Centre — Youth Ecopreneur Program](https://www.terravivagrants.org/youth-ecopreneurs/) | Terra Viva Grants |
+| rolling | — | [Royal Geographical Society — Grants with Deadlines in November 2026](https://www.terravivagrants.org/royal-geographical-society-grants-with-deadlines-in-november/) | Terra Viva Grants |
+| rolling | — | [UNESCO — Awards for Young Scientists in STEM](https://www.terravivagrants.org/awards-for-young-scientists-in-stem/) | Terra Viva Grants |
+| rolling | — | [Institut für Auslandsbeziehungen — CrossCulture Program 2027](https://www.terravivagrants.org/ifa-cross-culture-program/) | Terra Viva Grants |
+| rolling | — | [Call for Proposals: Civil Society Organizations for the PBF Project in Mali](https://www2.fundsforngos.org/civil-society-development/call-for-proposals-for-civil-society-organizations-under-the-peacebuilding/) | fundsforNGOs |
+| rolling | — | [Document and Records Management Programme (DRMP) and EDRMS Requirements Developm](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50933) | UNDP notices |
+| rolling | — | [RFP Integrated Coral Reef Eco Assess,Monitoring and Decision-Support Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50934) | UNDP notices |
+| rolling | — | [RFP39/2026 :Elaboration d’une stratégie de financement intégrée du PDN 2026-2030](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50932) | UNDP notices |

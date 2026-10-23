@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-22 · 419 open of 485 logged_
+_Updated 2026-10-23 · 423 open of 489 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -422,3 +422,7 @@ _Updated 2026-10-22 · 419 open of 485 logged_
 | rolling | — | [Document and Records Management Programme (DRMP) and EDRMS Requirements Developm](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50933) | UNDP notices |
 | rolling | — | [RFP Integrated Coral Reef Eco Assess,Monitoring and Decision-Support Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50934) | UNDP notices |
 | rolling | — | [RFP39/2026 :Elaboration d’une stratégie de financement intégrée du PDN 2026-2030](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50932) | UNDP notices |
+| rolling | — | [Call for Proposals for National Catalytic Organisation (South Africa)](https://www2.fundsforngos.org/community-development-2/call-for-proposals-national-catalytic-organisation-for-icca-gsi-m-and-e/) | fundsforNGOs |
+| rolling | — | [Call for Civil Society Representatives to Rwanda’s GEF Small Grants Program Steering Committee (Rwan](https://www2.fundsforngos.org/civil-society-development/call-for-applications-nominate-representatives-for-rwanda-gef-small-grants/) | fundsforNGOs |
+| rolling | — | [Apply Now: Legislator School 5.0 for Youth in Ukraine](https://www2.fundsforngos.org/individuals/enrollment-opportunity-school-of-lawmaker-5-0/) | fundsforNGOs |
+| rolling | — | [RFP CABINET ASSISTANCE TECHNIQUE AU MFEP / ENVIRONNEMENT](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50989) | UNDP notices |

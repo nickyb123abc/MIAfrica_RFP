@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-23 · 423 open of 489 logged_
+_Updated 2026-10-24 · 425 open of 491 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -426,3 +426,5 @@ _Updated 2026-10-23 · 423 open of 489 logged_
 | rolling | — | [Call for Civil Society Representatives to Rwanda’s GEF Small Grants Program Steering Committee (Rwan](https://www2.fundsforngos.org/civil-society-development/call-for-applications-nominate-representatives-for-rwanda-gef-small-grants/) | fundsforNGOs |
 | rolling | — | [Apply Now: Legislator School 5.0 for Youth in Ukraine](https://www2.fundsforngos.org/individuals/enrollment-opportunity-school-of-lawmaker-5-0/) | fundsforNGOs |
 | rolling | — | [RFP CABINET ASSISTANCE TECHNIQUE AU MFEP / ENVIRONNEMENT](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50989) | UNDP notices |
+| rolling | — | [POHER Scholars Program for Medical Students in Africa](https://www2.fundsforngos.org/science/poher-scholars-program-2027-research-mentorship-and-career-development-for/) | fundsforNGOs |
+| rolling | — | [Quiz on Industrial R and D for Viksit Bharat 2047 (India)](https://www2.fundsforngos.org/innovation/quiz-on-industrial-r-and-d-for-viksit-bharat-2047/) | fundsforNGOs |

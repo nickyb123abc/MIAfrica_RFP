@@ -1,6 +1,6 @@
-## Source health alert — 2026-10-24
+## Source health alert — 2026-10-25
 
-- **impactfunding** — 96 consecutive failures. Last error: `Impact Funding: no roundup post found in feed`
-- **eu_ft_api** — 96 consecutive failures. Last error: `500 Server Error:  for url: https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=Africa&pageSize=50&pageNumber=1`
+- **impactfunding** — 97 consecutive failures. Last error: `Impact Funding: no roundup post found in feed`
+- **eu_ft_api** — 97 consecutive failures. Last error: `500 Server Error:  for url: https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=Africa&pageSize=50&pageNumber=1`
 
 Fix or paste this into Claude for a patch.

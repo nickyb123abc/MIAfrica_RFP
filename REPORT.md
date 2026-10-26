@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-25 · 425 open of 491 logged_
+_Updated 2026-10-26 · 428 open of 494 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -428,3 +428,6 @@ _Updated 2026-10-25 · 425 open of 491 logged_
 | rolling | — | [RFP CABINET ASSISTANCE TECHNIQUE AU MFEP / ENVIRONNEMENT](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50989) | UNDP notices |
 | rolling | — | [POHER Scholars Program for Medical Students in Africa](https://www2.fundsforngos.org/science/poher-scholars-program-2027-research-mentorship-and-career-development-for/) | fundsforNGOs |
 | rolling | — | [Quiz on Industrial R and D for Viksit Bharat 2047 (India)](https://www2.fundsforngos.org/innovation/quiz-on-industrial-r-and-d-for-viksit-bharat-2047/) | fundsforNGOs |
+| rolling | — | [Request for Applications: Species Conservation Program (Canada)](https://www2.fundsforngos.org/individuals/request-for-applications-species-conservation-program-canada/) | fundsforNGOs |
+| rolling | — | [Open Call for Campus2Market Validate Program (Canada)](https://www2.fundsforngos.org/individuals/campus2market-validate-empowering-entrepreneurial-students-in-atlantic/) | fundsforNGOs |
+| rolling | — | [Consultancy Services for ESIA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51079) | UNDP notices |

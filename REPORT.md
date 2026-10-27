@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-26 · 428 open of 494 logged_
+_Updated 2026-10-27 · 432 open of 498 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -431,3 +431,7 @@ _Updated 2026-10-26 · 428 open of 494 logged_
 | rolling | — | [Request for Applications: Species Conservation Program (Canada)](https://www2.fundsforngos.org/individuals/request-for-applications-species-conservation-program-canada/) | fundsforNGOs |
 | rolling | — | [Open Call for Campus2Market Validate Program (Canada)](https://www2.fundsforngos.org/individuals/campus2market-validate-empowering-entrepreneurial-students-in-atlantic/) | fundsforNGOs |
 | rolling | — | [Consultancy Services for ESIA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51079) | UNDP notices |
+| rolling | — | [Open Call: Iso Lomso Fellowship Program for African Scholars](https://www2.fundsforngos.org/individuals/open-call-iso-lomso-fellowship-program-for-african-scholars/) | fundsforNGOs |
+| rolling | — | [Service provider to deliver Market-Led Vocational Training & Skills Development](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51120) | UNDP notices |
+| rolling | — | [Consultancy firm to lead AMP Ethiopia’s activities on scaled-up financing](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51092) | UNDP notices |
+| rolling | — | [RFP - Integrated  Project  Preparation  Services for the  Chuini Fishing  Port](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51098) | UNDP notices |

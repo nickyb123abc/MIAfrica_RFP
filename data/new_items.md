@@ -1,10 +1,12 @@
-## 3 new opportunity item(s) — 2026-10-26
+## 4 new opportunity item(s) — 2026-10-27
 
-- **Request for Applications: Species Conservation Program (Canada)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/request-for-applications-species-conservation-program-canada/)
-- **Open Call for Campus2Market Validate Program (Canada)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/campus2market-validate-empowering-entrepreneurial-students-in-atlantic/)
-- **Consultancy Services for ESIA** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51079)
+- **Open Call: Iso Lomso Fellowship Program for African Scholars** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/open-call-iso-lomso-fellowship-program-for-african-scholars/)
+- **Service provider to deliver Market-Led Vocational Training & Skills Development** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51120)
+- **Consultancy firm to lead AMP Ethiopia’s activities on scaled-up financing** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51092)
+- **RFP - Integrated  Project  Preparation  Services for the  Chuini Fishing  Port** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51098)
 
 ## Scoring flags — needs human review
-- Request for Applications: Species Conservation Program (Canada)
-- Open Call for Campus2Market Validate Program (Canada)
-- Consultancy Services for ESIA
+- Open Call: Iso Lomso Fellowship Program for African Scholars
+- Service provider to deliver Market-Led Vocational Training & Skills Development
+- Consultancy firm to lead AMP Ethiopia’s activities on scaled-up financing
+- RFP - Integrated  Project  Preparation  Services for the  Chuini Fishing  Port

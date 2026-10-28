@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-27 · 432 open of 498 logged_
+_Updated 2026-10-28 · 442 open of 508 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -435,3 +435,13 @@ _Updated 2026-10-27 · 432 open of 498 logged_
 | rolling | — | [Service provider to deliver Market-Led Vocational Training & Skills Development](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51120) | UNDP notices |
 | rolling | — | [Consultancy firm to lead AMP Ethiopia’s activities on scaled-up financing](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51092) | UNDP notices |
 | rolling | — | [RFP - Integrated  Project  Preparation  Services for the  Chuini Fishing  Port](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51098) | UNDP notices |
+| rolling | — | [Open Call for Laboratory Management Course (South Africa)](https://www2.fundsforngos.org/science/laboratory-management-course-for-biomanufacturing-skills-development/) | fundsforNGOs |
+| rolling | — | [Apply for Legal Aid for Female Remand Inmates and Justice Capacity Building (South Sudan)](https://www2.fundsforngos.org/human-rights-2/apply-for-legal-aid-for-female-remand-inmates-and-justice-capacity-building-south-sudan/) | fundsforNGOs |
+| rolling | — | [Call for Fundamentals of Quality Management Systems Course in South Africa](https://www2.fundsforngos.org/manufacturing/call-for-fundamentals-of-quality-management-systems-course-in-south-africa/) | fundsforNGOs |
+| rolling | — | [Call for Applications: Mobility Grants for Young Scholars in Sudanese Studies (Sudan)](https://www2.fundsforngos.org/youth-and-adolescents/call-for-applications-mobility-grants-for-young-scholars-in-sudanese-studies-sudan/) | fundsforNGOs |
+| rolling | — | [Request for Applications: Good Manufacturing Practice Course (South Africa)](https://www2.fundsforngos.org/manufacturing/good-manufacturing-practice-course-for-biomanufacturing-skills-development/) | fundsforNGOs |
+| rolling | — | [Call for Italy–South Africa Major Scientific Cooperation Projects](https://www2.fundsforngos.org/science/italia-south-africa-call-for-large-scale-project-proposals-for-the/) | fundsforNGOs |
+| rolling | — | [CABINET CHARGÉ DE LA RÉALISATION D’UNE ÉTUDE TBECHNIQUE DE FAISABILITÉ](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51131) | UNDP notices |
+| rolling | — | [RECRUTEMENT D'UN PRESTATAIRE AUDIOVISUEL](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51134) | UNDP notices |
+| rolling | — | [RFP - Data Collection for the baseline assessment of the SPESOCO Project](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51157) | UNDP notices |
+| rolling | — | [Mise en place d'un LTA des consultants nationaux infirmiers en Guinée](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51168) | UNDP notices |

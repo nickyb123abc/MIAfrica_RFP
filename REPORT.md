@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-28 · 442 open of 508 logged_
+_Updated 2026-10-29 · 446 open of 512 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -445,3 +445,7 @@ _Updated 2026-10-28 · 442 open of 508 logged_
 | rolling | — | [RECRUTEMENT D'UN PRESTATAIRE AUDIOVISUEL](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51134) | UNDP notices |
 | rolling | — | [RFP - Data Collection for the baseline assessment of the SPESOCO Project](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51157) | UNDP notices |
 | rolling | — | [Mise en place d'un LTA des consultants nationaux infirmiers en Guinée](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51168) | UNDP notices |
+| rolling | — | [Applications Open for Women and Girls Fund (United Kingdom)](https://www2.fundsforngos.org/education-2/women-and-girls-fund-supporting-vulnerable-women-and-girls-in-suffolk/) | fundsforNGOs |
+| rolling | — | [Sir Cyril Taylor Young African Leaders Program](https://www2.fundsforngos.org/leadership/apply-for-the-2027-sir-cyril-taylor-young-african-leaders-program/) | fundsforNGOs |
+| rolling | — | [RFP - Develop Nationally Determined  Contributions of Lesotho (NDC 3.0)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51221) | UNDP notices |
+| rolling | — | [LTA  Innovation, Startup Development and Business Training Programme Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51192) | UNDP notices |

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-29 · 446 open of 512 logged_
+_Updated 2026-10-30 · 456 open of 522 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -449,3 +449,13 @@ _Updated 2026-10-29 · 446 open of 512 logged_
 | rolling | — | [Sir Cyril Taylor Young African Leaders Program](https://www2.fundsforngos.org/leadership/apply-for-the-2027-sir-cyril-taylor-young-african-leaders-program/) | fundsforNGOs |
 | rolling | — | [RFP - Develop Nationally Determined  Contributions of Lesotho (NDC 3.0)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51221) | UNDP notices |
 | rolling | — | [LTA  Innovation, Startup Development and Business Training Programme Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51192) | UNDP notices |
+| rolling | — | [CFAs: People and Capability Program – Capacity R2 (Australia)](https://www2.fundsforngos.org/leadership/cfas-people-and-capability-program-capacity-r2-australia/) | fundsforNGOs |
+| rolling | — | [CFPs: GEF Small Grants Programme Environmental Grants (Sierra Leone)](https://www2.fundsforngos.org/community-development-2/cfps-gef-small-grants-programme-environmental-grants-sierra-leone/) | fundsforNGOs |
+| rolling | — | [Financial Assistance Grant / Grant-in-Aid in South Africa](https://www2.fundsforngos.org/business-industry-2/financial-assistance-grant-grant-in-aid-in-south-africa/) | fundsforNGOs |
+| rolling | — | [DSTI-NRF Policy Fellowship Programme Cohort 2 (South Africa)](https://www2.fundsforngos.org/innovation/dsti-nrf-policy-fellowship-programme-cohort-2-south-africa/) | fundsforNGOs |
+| rolling | — | [Funding Opportunity for Monitoring and Evaluation of Community-Conserved Territories in Ghana](https://www2.fundsforngos.org/community-development-2/funding-opportunity-for-monitoring-and-evaluation-of-community-conserved-territories-in-ghana/) | fundsforNGOs |
+| rolling | — | [PRC0196300- RECRUTEMENT CABINET - MISE EN PLACE SIRE](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51282) | UNDP notices |
+| rolling | — | [Design and Delivery of a Pan-African Startup Acceleration Programme](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51260) | UNDP notices |
+| rolling | — | [RFP-EVENT MANAGEMENT FIRM TO PROVIDE EVENT MANAGEMENT AND COORDINATION SERVICES.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51253) | UNDP notices |
+| rolling | — | [Consultancy Firm to Provide Event Management , Photography, and Videography](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51254) | UNDP notices |
+| rolling | — | [RFP - Conduct of a Climate Impact Assessment for a Project in Uganda](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51266) | UNDP notices |

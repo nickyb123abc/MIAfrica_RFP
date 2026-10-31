@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-10-30 · 456 open of 522 logged_
+_Updated 2026-10-31 · 457 open of 523 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -459,3 +459,4 @@ _Updated 2026-10-30 · 456 open of 522 logged_
 | rolling | — | [RFP-EVENT MANAGEMENT FIRM TO PROVIDE EVENT MANAGEMENT AND COORDINATION SERVICES.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51253) | UNDP notices |
 | rolling | — | [Consultancy Firm to Provide Event Management , Photography, and Videography](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51254) | UNDP notices |
 | rolling | — | [RFP - Conduct of a Climate Impact Assessment for a Project in Uganda](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51266) | UNDP notices |
+| rolling | — | [Recruitment of a Training Provider for NVIDIA AI Infrastructure & Operations](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51291) | UNDP notices |

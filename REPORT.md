@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-01 · 457 open of 523 logged_
+_Updated 2026-11-02 · 472 open of 538 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -460,3 +460,18 @@ _Updated 2026-11-01 · 457 open of 523 logged_
 | rolling | — | [Consultancy Firm to Provide Event Management , Photography, and Videography](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51254) | UNDP notices |
 | rolling | — | [RFP - Conduct of a Climate Impact Assessment for a Project in Uganda](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51266) | UNDP notices |
 | rolling | — | [Recruitment of a Training Provider for NVIDIA AI Infrastructure & Operations](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51291) | UNDP notices |
+| rolling | — | [AXA Foundation — Early-Career Research on Responsible Nature-Based Solutions](https://www.terravivagrants.org/early-career-research-on-responsible-nature-based-solutions/) | Terra Viva Grants |
+| rolling | — | [University of Turku — Postdoctoral Fellowship](https://www.terravivagrants.org/university-of-turku-postdoctoral-fellowship/) | Terra Viva Grants |
+| rolling | — | [UNESCO — Research Continuity Grants for Africa](https://www.terravivagrants.org/unesco-research-continuity-grants-for-africa/) | Terra Viva Grants |
+| rolling | — | [Masdar — Leadership Training and Mentorship](https://www.terravivagrants.org/wiser-pioneers-program/) | Terra Viva Grants |
+| rolling | — | [Campus France — Visiting Fellowship for Early Career Researchers](https://www.terravivagrants.org/mopga/) | Terra Viva Grants |
+| rolling | — | [CIRES — Visiting Fellows Program](https://www.terravivagrants.org/cires-visiting-fellows-program/) | Terra Viva Grants |
+| rolling | — | [Green Institute — Green Global Fellowship](https://www.terravivagrants.org/green-institute-fellows-program/) | Terra Viva Grants |
+| rolling | — | [Tuscan-Emilian Apennine National Park Authority — Women & Biosphere International Photo Competition](https://www.terravivagrants.org/women-biosphere-international-photo-competition/) | Terra Viva Grants |
+| rolling | — | [KU Leuven — Global Minds Doctoral Scholarships Programme](https://www.terravivagrants.org/ku-leuven-global-minds-scholarship/) | Terra Viva Grants |
+| rolling | — | [KU Leuven — PhD Scholarships for Students from the Global South](https://www.terravivagrants.org/ku-leuven-phd-scholarships/) | Terra Viva Grants |
+| rolling | — | [Call for Proposals: Strengthen Women and Youth Entrepreneurship (South Sudan)](https://www2.fundsforngos.org/women-gender-2/call-for-proposals-strengthen-women-and-youth-entrepreneurship-south-sudan/) | fundsforNGOs |
+| rolling | — | [Grants Available for Improving Education and Healthcare Services (Tunisia)](https://www2.fundsforngos.org/infrastructure-support/grants-available-for-improving-education-and-healthcare-services-tunisia/) | fundsforNGOs |
+| rolling | — | [Recrutement cabinet chargé de l'élaboration des Plans de lotissement](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51337) | UNDP notices |
+| rolling | — | [RFP40/2026:Recrutement d'un bureau d'études pour l'amélioration durable de la qu](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51340) | UNDP notices |
+| rolling | — | [Evaluation à mi-parcours du projet](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51317) | UNDP notices |

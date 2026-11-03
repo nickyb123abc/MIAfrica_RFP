@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-02 · 472 open of 538 logged_
+_Updated 2026-11-03 · 476 open of 542 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -475,3 +475,7 @@ _Updated 2026-11-02 · 472 open of 538 logged_
 | rolling | — | [Recrutement cabinet chargé de l'élaboration des Plans de lotissement](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51337) | UNDP notices |
 | rolling | — | [RFP40/2026:Recrutement d'un bureau d'études pour l'amélioration durable de la qu](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51340) | UNDP notices |
 | rolling | — | [Evaluation à mi-parcours du projet](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51317) | UNDP notices |
+| rolling | — | [Call for Applications: Addressing Disabilities Through the Life Course to Support Independent Living](https://www2.fundsforngos.org/innovation/call-for-applications-addressing-disabilities-through-the-life-course-to-support-independent-living-and-inclusion/) | fundsforNGOs |
+| rolling | — | [Intergenerational Advocacy: Collective Power for Social Justice](https://www2.fundsforngos.org/individuals/intergenerational-advocacy-collective-power-for-social-justice/) | fundsforNGOs |
+| rolling | — | [Consultancy Services for Behavioral Change Campaign](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51381) | UNDP notices |
+| rolling | — | [RFP-Management of Installation-Linked Subsidy for Eligible R-290 Air Conditioner](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51342) | UNDP notices |

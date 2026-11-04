@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-03 · 476 open of 542 logged_
+_Updated 2026-11-04 · 487 open of 553 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -479,3 +479,14 @@ _Updated 2026-11-03 · 476 open of 542 logged_
 | rolling | — | [Intergenerational Advocacy: Collective Power for Social Justice](https://www2.fundsforngos.org/individuals/intergenerational-advocacy-collective-power-for-social-justice/) | fundsforNGOs |
 | rolling | — | [Consultancy Services for Behavioral Change Campaign](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51381) | UNDP notices |
 | rolling | — | [RFP-Management of Installation-Linked Subsidy for Eligible R-290 Air Conditioner](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51342) | UNDP notices |
+| rolling | — | [PARSER ALERT: africanngos changed but 0 items parsed — review manually](https://africanngos.org/2026/11/04/african-ngo-funding-opportunities-november-december-2026/) | africanngos |
+| rolling | — | [Open Call: Fund-a-Farmer Welfare Improvement Grants (US)](https://www2.fundsforngos.org/individuals/fact-s-fund-a-farmer-grants-2027-opportunities-for-high-welfare-farming/) | fundsforNGOs |
+| rolling | — | [Open Call: Residential Services for Unaccompanied Alien Children (United States)](https://www2.fundsforngos.org/children-2/residential-services-for-unaccompanied-alien-children-funding-opportunity/) | fundsforNGOs |
+| rolling | — | [Call for Regional Arts Fund Quick Response Grants (Australia)](https://www2.fundsforngos.org/individuals/raf-vic-2026-11-quick-response-grants-for-regional-arts-development/) | fundsforNGOs |
+| rolling | — | [Recruitment of an International Consultancy Firm for Transaction Advisor – Inaug](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51421) | UNDP notices |
+| rolling | — | [Recrutement d'un cabinet national en evaluation de la vulnerabilité socio](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51431) | UNDP notices |
+| rolling | — | [Round 3 – Youth Municipal Councils and Dedicated Accessible Training for Youth](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51434) | UNDP notices |
+| rolling | — | [Public Finance, Capacity Development, Disaster Risk Finance](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51398) | UNDP notices |
+| rolling | — | [Selection of two architectural firms to review the plans for the development pro](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51402) | UNDP notices |
+| rolling | — | [Consultancy firm to support Pan -African Early-Stage Investor Fellowship](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51388) | UNDP notices |
+| rolling | — | [GIZ Uganda: Invitation To Tender for Consultancy Services to coordinate and implement the PUE Cookin](https://www.giz.de/en/invitation-tender-consultancy-services-coordinate-and-implement-pue-cooking-demonstrator-project) | GIZ tenders |

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-04 · 487 open of 553 logged_
+_Updated 2026-11-05 · 492 open of 558 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -490,3 +490,8 @@ _Updated 2026-11-04 · 487 open of 553 logged_
 | rolling | — | [Selection of two architectural firms to review the plans for the development pro](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51402) | UNDP notices |
 | rolling | — | [Consultancy firm to support Pan -African Early-Stage Investor Fellowship](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51388) | UNDP notices |
 | rolling | — | [GIZ Uganda: Invitation To Tender for Consultancy Services to coordinate and implement the PUE Cookin](https://www.giz.de/en/invitation-tender-consultancy-services-coordinate-and-implement-pue-cooking-demonstrator-project) | GIZ tenders |
+| rolling | — | [Apply for Youth AI4SDGs Impact Challenge Grant in Asia-Pacific](https://www2.fundsforngos.org/innovation/youth-ai4sdgs-impact-challenge-empowering-young-innovators-for-sustainable/) | fundsforNGOs |
+| rolling | — | [RFAs: Circular Industry Support Program for Egyptian SMEs](https://www2.fundsforngos.org/business-and-industry/circular-industry-support-program-for-egyptian-smes-tadweer/) | fundsforNGOs |
+| rolling | — | [PRC019844- RECRUTEMENT CABINET / OSC -EVALUATION HYPOXIE- POLLUTION MARINE](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51444) | UNDP notices |
+| rolling | — | [PRC0198443- RECRUTEMENT CABINET/ OSC ANALYSE DEPENDANCE COMMUNAUTE -ECOYSTEME](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51445) | UNDP notices |
+| rolling | — | [PRC0198442- CONSULTANCE -  SPECIALISTE EN SAUVEGARE ENVIRONNEMENTALE & SOCIALES](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51448) | UNDP notices |

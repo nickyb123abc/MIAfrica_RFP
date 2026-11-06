@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-05 · 492 open of 558 logged_
+_Updated 2026-11-06 · 495 open of 561 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -495,3 +495,6 @@ _Updated 2026-11-05 · 492 open of 558 logged_
 | rolling | — | [PRC019844- RECRUTEMENT CABINET / OSC -EVALUATION HYPOXIE- POLLUTION MARINE](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51444) | UNDP notices |
 | rolling | — | [PRC0198443- RECRUTEMENT CABINET/ OSC ANALYSE DEPENDANCE COMMUNAUTE -ECOYSTEME](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51445) | UNDP notices |
 | rolling | — | [PRC0198442- CONSULTANCE -  SPECIALISTE EN SAUVEGARE ENVIRONNEMENTALE & SOCIALES](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51448) | UNDP notices |
+| rolling | — | [Request for Applications: CEGA Fellowship Program](https://www2.fundsforngos.org/individuals/cega-fellowship-program-2027-2028-call-for-applications/) | fundsforNGOs |
+| rolling | — | [Mapping of Programmes and  projects contributing to SDGs,](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51485) | UNDP notices |
+| rolling | — | [Recrutement d'un prestataire de transport:](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51486) | UNDP notices |

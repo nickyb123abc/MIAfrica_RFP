@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-08 · 495 open of 561 logged_
+_Updated 2026-11-09 · 497 open of 563 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -498,3 +498,5 @@ _Updated 2026-11-08 · 495 open of 561 logged_
 | rolling | — | [Request for Applications: CEGA Fellowship Program](https://www2.fundsforngos.org/individuals/cega-fellowship-program-2027-2028-call-for-applications/) | fundsforNGOs |
 | rolling | — | [Mapping of Programmes and  projects contributing to SDGs,](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51485) | UNDP notices |
 | rolling | — | [Recrutement d'un prestataire de transport:](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51486) | UNDP notices |
+| rolling | — | [Open Call: Canada Fund for Local Initiatives – Papua New Guinea](https://www.fundsforngos.org/how-to-apply/open-call-canada-fund-for-local-initiatives-papua-new-guinea/) | fundsforNGOs |
+| rolling | — | [RFAs: Circular Industry Support Program for Egyptian SMEs](https://www.fundsforngos.org/how-to-apply/rfas-circular-industry-support-program-for-egyptian-smes/) | fundsforNGOs |

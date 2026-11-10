@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-09 · 497 open of 563 logged_
+_Updated 2026-11-10 · 501 open of 567 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -500,3 +500,7 @@ _Updated 2026-11-09 · 497 open of 563 logged_
 | rolling | — | [Recrutement d'un prestataire de transport:](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51486) | UNDP notices |
 | rolling | — | [Open Call: Canada Fund for Local Initiatives – Papua New Guinea](https://www.fundsforngos.org/how-to-apply/open-call-canada-fund-for-local-initiatives-papua-new-guinea/) | fundsforNGOs |
 | rolling | — | [RFAs: Circular Industry Support Program for Egyptian SMEs](https://www.fundsforngos.org/how-to-apply/rfas-circular-industry-support-program-for-egyptian-smes/) | fundsforNGOs |
+| rolling | — | [Submit Applications for Trails Grant for Manitoba (Canada)](https://www2.fundsforngos.org/environment-2/trails-grant-for-manitoba-enhancing-recreational-trails/) | fundsforNGOs |
+| rolling | — | [Rwanda Urban and Fruit Trees Digital Innovation Challenge](https://www2.fundsforngos.org/innovation/rwanda-urban-and-fruit-trees-digital-innovation-challenge/) | fundsforNGOs |
+| rolling | — | [Submit Applications for WADTF Digital Trade Grant Program](https://www2.fundsforngos.org/marketing/west-africa-digital-trade-fund-wadtf-grant-opportunity-for-promoting/) | fundsforNGOs |
+| rolling | — | [Consultancy Services for an Independent Issuer and Debt Instrument Credit Rating](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51608) | UNDP notices |

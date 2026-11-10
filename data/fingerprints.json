@@ -1,7 +1,7 @@
 {
- "africanngos": "6dade21cb7edd99bf52d39bb630b4bb334c489fb0e2e203c272d3b1dc9bf728a",
+ "africanngos": "4a690d838e765ef74885a3d79d12578e2e71d973669f71740efe94c89f52e70e",
  "terraviva": "a6ab43caec8dc4eeced51dc0caa3f8cccd264516e58b4e66139a12c250c261c0",
- "coefficient_eg": false,
- "coefficient": "1cd82ae63472235a46aa492725a33e0309493af9d40fc5a4a2b45a79ce1d2f92",
- "aerc": "bf6e7c0db2ff79a1cf1a0b4923f7b884a4c788ddad8b631501856fe2880b119c"
+ "coefficient_eg": true,
+ "coefficient": "d416bbbf4ba31d405d356702d515795571ef14447b9b4ab2cc1eb66d12b9d509",
+ "aerc": "8d066c34546717befa52100f7239951150159861ad6cc01c62faceabf004a14c"
 }

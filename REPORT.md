@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-10 · 501 open of 567 logged_
+_Updated 2026-11-11 · 502 open of 568 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -504,3 +504,4 @@ _Updated 2026-11-10 · 501 open of 567 logged_
 | rolling | — | [Rwanda Urban and Fruit Trees Digital Innovation Challenge](https://www2.fundsforngos.org/innovation/rwanda-urban-and-fruit-trees-digital-innovation-challenge/) | fundsforNGOs |
 | rolling | — | [Submit Applications for WADTF Digital Trade Grant Program](https://www2.fundsforngos.org/marketing/west-africa-digital-trade-fund-wadtf-grant-opportunity-for-promoting/) | fundsforNGOs |
 | rolling | — | [Consultancy Services for an Independent Issuer and Debt Instrument Credit Rating](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51608) | UNDP notices |
+| rolling | — | [Terminal Evaluation Consultant – Team Lead (International)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51626) | UNDP notices |

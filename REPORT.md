@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-11 · 502 open of 568 logged_
+_Updated 2026-11-12 · 508 open of 574 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -505,3 +505,9 @@ _Updated 2026-11-11 · 502 open of 568 logged_
 | rolling | — | [Submit Applications for WADTF Digital Trade Grant Program](https://www2.fundsforngos.org/marketing/west-africa-digital-trade-fund-wadtf-grant-opportunity-for-promoting/) | fundsforNGOs |
 | rolling | — | [Consultancy Services for an Independent Issuer and Debt Instrument Credit Rating](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51608) | UNDP notices |
 | rolling | — | [Terminal Evaluation Consultant – Team Lead (International)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51626) | UNDP notices |
+| rolling | — | [PRC0198362- RECRUTEMENT PRESTATAIRE - APPUI VULGARISATION CMH- CUA](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51682) | UNDP notices |
+| rolling | — | [Cabinet inter Étude de faisabilité Volet 4- Coûts consolidés, modèle économique](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51697) | UNDP notices |
+| rolling | — | [Terminal Evaluation Consultant (National)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51664) | UNDP notices |
+| rolling | — | [RECRUTEMENT D'UN PRESTATAIRE AUDIOVISUEL](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51653) | UNDP notices |
+| rolling | — | [Cabinet national Étude de faisabilité Volet1- Positionnement, hub virtuel](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51669) | UNDP notices |
+| rolling | — | [Cabinet national Étude de faisabilité Volet 2- Options de calcul, d’hébergement](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51676) | UNDP notices |

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-12 · 508 open of 574 logged_
+_Updated 2026-11-13 · 524 open of 590 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -511,3 +511,19 @@ _Updated 2026-11-12 · 508 open of 574 logged_
 | rolling | — | [RECRUTEMENT D'UN PRESTATAIRE AUDIOVISUEL](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51653) | UNDP notices |
 | rolling | — | [Cabinet national Étude de faisabilité Volet1- Positionnement, hub virtuel](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51669) | UNDP notices |
 | rolling | — | [Cabinet national Étude de faisabilité Volet 2- Options de calcul, d’hébergement](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51676) | UNDP notices |
+| rolling | — | [Planet Health Film Fund — Awards for Short Documentaries on Human and Environmental Health](https://www.terravivagrants.org/awards-for-short-documentaries/) | Terra Viva Grants |
+| rolling | — | [Global Thinkers Forum — Mentoring Program 2027](https://www.terravivagrants.org/global-thinkers-forum-mentoring-program/) | Terra Viva Grants |
+| rolling | — | [IREX — Community Solutions](https://www.terravivagrants.org/irex-community-solutions/) | Terra Viva Grants |
+| rolling | — | [Box Impact Fund — Digital Transformation to Save our Planet](https://www.terravivagrants.org/box-impact-fund-digital-transformation/) | Terra Viva Grants |
+| rolling | — | [Asia Foundation — Development Fellows 2027](https://www.terravivagrants.org/asia-foundation-development-fellows/) | Terra Viva Grants |
+| rolling | — | [Wageningen University — Master’s Scholarships for International Students](https://www.terravivagrants.org/wageningen-university-masters-scholarships/) | Terra Viva Grants |
+| rolling | — | [Obama Foundation — Leaders Program](https://www.terravivagrants.org/leaders-program/) | Terra Viva Grants |
+| rolling | — | [Earth Care Awards — Communicators for Climate Action](https://www.terravivagrants.org/earth-care-awards/) | Terra Viva Grants |
+| rolling | — | [Cisco and Global Citizen — Global Citizen Prize: Cisco Youth Leadership Award](https://www.terravivagrants.org/global-citizen-prize-cisco-youth-leadership-award/) | Terra Viva Grants |
+| rolling | — | [Call for Proposals: CBO Organisational Strengthening Program (South Africa)](https://www2.fundsforngos.org/community-development-2/call-for-proposals-cbo-organisational-strengthening-programme-by/) | fundsforNGOs |
+| rolling | — | [CFPs: Skills Training and Employment/Business Support Pathways in the Northern Cape (South Africa)](https://www2.fundsforngos.org/business-and-industry/call-for-proposals-skills-training-and-employment-business-support-in/) | fundsforNGOs |
+| rolling | — | [Mentorship Program for Master’s Students in Morocco](https://www2.fundsforngos.org/individuals/mentorship-program-2027-call-for-applications/) | fundsforNGOs |
+| rolling | — | [Call for Proposals: Living Labs Programme (South Africa)](https://www2.fundsforngos.org/cat/living-labs-programme-call-for-proposals-in-ehlanzeni-and-bojanala/) | fundsforNGOs |
+| rolling | — | [Financial Institution to Manage an Interest-Free Revolving Credit Facility](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51704) | UNDP notices |
+| rolling | — | [Firms to support the implementation of The Joint United Nations Deliverable](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51707) | UNDP notices |
+| rolling | — | [RFP- Contracting a company for the Diaspora Hub](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51718) | UNDP notices |

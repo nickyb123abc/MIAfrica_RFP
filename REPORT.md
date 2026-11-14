@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-13 · 524 open of 590 logged_
+_Updated 2026-11-14 · 526 open of 592 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -527,3 +527,5 @@ _Updated 2026-11-13 · 524 open of 590 logged_
 | rolling | — | [Financial Institution to Manage an Interest-Free Revolving Credit Facility](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51704) | UNDP notices |
 | rolling | — | [Firms to support the implementation of The Joint United Nations Deliverable](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51707) | UNDP notices |
 | rolling | — | [RFP- Contracting a company for the Diaspora Hub](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51718) | UNDP notices |
+| rolling | — | [Call for Proposals: CBO Organisational Strengthening Program (South Africa)](https://www.fundsforngos.org/how-to-apply/call-for-proposals-cbo-organisational-strengthening-program-south-africa/) | fundsforNGOs |
+| rolling | — | [CFPs: Skills Training and Employment/Business Support Pathways in the Northern Cape (South Africa)](https://www.fundsforngos.org/how-to-apply/cfps-skills-training-and-employment-business-support-pathways-in-the-northern-cape-south-africa/) | fundsforNGOs |

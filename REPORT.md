@@ -1,9 +1,8 @@
 # Opportunity screener — open items
-_Updated 2026-11-15 · 527 open of 593 logged_
+_Updated 2026-11-16 · 528 open of 595 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
-| 2026-11-15 | — | [Malmar Knowles Family Foundation — Youth Leadership Program](https://www.terravivagrants.org/malmar-knowles-family-foundation-youth-leadership-program/) | Terra Viva Grants |
 | 2026-12-02 | — | [Apply for First FOREST Partnership Joint Call](https://www2.fundsforngos.org/innovation/apply-for-first-forest-partnership-joint-call/) | fundsforNGOs |
 | 2026-12-18 | 69.8 | [GALS methodology development + ToT (300 trainers) — READ programme](https://procurement-notices.undp.org/view_notice.cfm?notice_id=98727) | Impact Funding (Jul) |
 | 2026-12-20 | 57.2 | [NGO capacity support (SEED/THRIVE)](https://onenessrevivalteam.info/grant-application) | @AfricanNGOs Jun-Jul roundup |
@@ -530,3 +529,5 @@ _Updated 2026-11-15 · 527 open of 593 logged_
 | rolling | — | [Call for Proposals: CBO Organisational Strengthening Program (South Africa)](https://www.fundsforngos.org/how-to-apply/call-for-proposals-cbo-organisational-strengthening-program-south-africa/) | fundsforNGOs |
 | rolling | — | [CFPs: Skills Training and Employment/Business Support Pathways in the Northern Cape (South Africa)](https://www.fundsforngos.org/how-to-apply/cfps-skills-training-and-employment-business-support-pathways-in-the-northern-cape-south-africa/) | fundsforNGOs |
 | rolling | — | [Call for Proposals: Living Labs Programme (South Africa)](https://www2.fundsforngos.org/innovation/living-labs-programme-call-for-proposals-in-ehlanzeni-and-bojanala/) | fundsforNGOs |
+| rolling | — | [Open Call for ESA Φ-LAB Grand Marathon](https://www2.fundsforngos.org/community-development-2/esa-lab-grand-marathon-2026-mapping-cropland-abandonment-in-the-sahel/) | fundsforNGOs |
+| rolling | — | [ERSI GFRPA Governance, Management, and Sustainable Finance Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51772) | UNDP notices |

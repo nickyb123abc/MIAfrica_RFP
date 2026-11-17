@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-16 · 528 open of 595 logged_
+_Updated 2026-11-17 · 534 open of 601 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -531,3 +531,9 @@ _Updated 2026-11-16 · 528 open of 595 logged_
 | rolling | — | [Call for Proposals: Living Labs Programme (South Africa)](https://www2.fundsforngos.org/innovation/living-labs-programme-call-for-proposals-in-ehlanzeni-and-bojanala/) | fundsforNGOs |
 | rolling | — | [Open Call for ESA Φ-LAB Grand Marathon](https://www2.fundsforngos.org/community-development-2/esa-lab-grand-marathon-2026-mapping-cropland-abandonment-in-the-sahel/) | fundsforNGOs |
 | rolling | — | [ERSI GFRPA Governance, Management, and Sustainable Finance Framework](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51772) | UNDP notices |
+| rolling | — | [Submit Applications for Ukraine Agricultural Support Program](https://www2.fundsforngos.org/environment-2/ukraine-agriculture-support-program-uasp-by-prosper-global/) | fundsforNGOs |
+| rolling | — | [Apply for Grant Assistance for Grass-roots Human Security Projects (Botswana)](https://www2.fundsforngos.org/environment-2/grant-assistance-for-grass-roots-human-security-projects-ggp-in-botswana/) | fundsforNGOs |
+| rolling | — | [Volvemos a Valladolid Grant Programme for Returning Professionals (Spain)](https://www2.fundsforngos.org/individuals/return-to-valladolid-support-programme-financial-assistance-for-returning/) | fundsforNGOs |
+| rolling | — | [Cabinet national Étude de faisabilité Volet 3 Évaluation des sites, bâtiment, én](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51773) | UNDP notices |
+| rolling | — | [Firm to deliver communications, visibility & storytelling](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51778) | UNDP notices |
+| rolling | — | [GIZ Uganda: Invitation To Tender for Consultancy services to provide Graphic Design, Video Productio](https://www.giz.de/en/invitation-tender-consultancy-services-provide-graphic-design-video-production-and-photography) | GIZ tenders |

@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-17 · 534 open of 601 logged_
+_Updated 2026-11-18 · 540 open of 607 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -537,3 +537,9 @@ _Updated 2026-11-17 · 534 open of 601 logged_
 | rolling | — | [Cabinet national Étude de faisabilité Volet 3 Évaluation des sites, bâtiment, én](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51773) | UNDP notices |
 | rolling | — | [Firm to deliver communications, visibility & storytelling](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51778) | UNDP notices |
 | rolling | — | [GIZ Uganda: Invitation To Tender for Consultancy services to provide Graphic Design, Video Productio](https://www.giz.de/en/invitation-tender-consultancy-services-provide-graphic-design-video-production-and-photography) | GIZ tenders |
+| rolling | — | [PARSER ALERT: impactfunding changed but 0 items parsed — review manually](https://impactfunding.substack.com/p/november-funding-roundup-130-new) | impactfunding |
+| rolling | — | [PRC0198443- RECRUTEMENT CABINET/ OSC ANALYSE DEPENDANCE COMMUNAUTE -ECOYSTEME](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51854) | UNDP notices |
+| rolling | — | [PRC019844- RECRUTEMENT CABINET / OSC -EVALUATION HYPOXIE- POLLUTION MARINE](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51855) | UNDP notices |
+| rolling | — | [National Events Management Firm for the Greater Luwero Investment Forum and Expo](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51821) | UNDP notices |
+| rolling | — | [Recruitment of a National Firm to Conduct End of Programme Evaluation - Spotligh](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51825) | UNDP notices |
+| rolling | — | [Recrutement cabinet pour mise en place d'une plateforme digitale des OSC](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51830) | UNDP notices |

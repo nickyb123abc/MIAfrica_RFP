@@ -1,12 +1,12 @@
 {
  "africanngos": 0,
- "impactfunding": 120,
+ "impactfunding": 0,
  "terraviva": 0,
- "fundsforngos": 0,
+ "fundsforngos": 1,
  "coefficient": 0,
  "undp_board": 0,
  "worldbank_api": 0,
- "eu_ft_api": 120,
+ "eu_ft_api": 121,
  "aerc": 0,
  "giz_loop": 0,
  "ungm_api": 0

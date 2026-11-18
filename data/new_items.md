@@ -1,16 +1,16 @@
-## 6 new opportunity item(s) — 2026-11-17
+## 6 new opportunity item(s) — 2026-11-18
 
-- **Submit Applications for Ukraine Agricultural Support Program** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/environment-2/ukraine-agriculture-support-program-uasp-by-prosper-global/)
-- **Apply for Grant Assistance for Grass-roots Human Security Projects (Botswana)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/environment-2/grant-assistance-for-grass-roots-human-security-projects-ggp-in-botswana/)
-- **Volvemos a Valladolid Grant Programme for Returning Professionals (Spain)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/return-to-valladolid-support-programme-financial-assistance-for-returning/)
-- **Cabinet national Étude de faisabilité Volet 3 Évaluation des sites, bâtiment, én** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51773)
-- **Firm to deliver communications, visibility & storytelling** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51778)
-- **GIZ Uganda: Invitation To Tender for Consultancy services to provide Graphic Design, Video Production and Photography** (GIZ; deadline —) [GIZ tenders](https://www.giz.de/en/invitation-tender-consultancy-services-provide-graphic-design-video-production-and-photography)
+- **PARSER ALERT: impactfunding changed but 0 items parsed — review manually** (screener; deadline —) [impactfunding](https://impactfunding.substack.com/p/november-funding-roundup-130-new)
+- **PRC0198443- RECRUTEMENT CABINET/ OSC ANALYSE DEPENDANCE COMMUNAUTE -ECOYSTEME** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51854)
+- **PRC019844- RECRUTEMENT CABINET / OSC -EVALUATION HYPOXIE- POLLUTION MARINE** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51855)
+- **National Events Management Firm for the Greater Luwero Investment Forum and Expo** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51821)
+- **Recruitment of a National Firm to Conduct End of Programme Evaluation - Spotligh** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51825)
+- **Recrutement cabinet pour mise en place d'une plateforme digitale des OSC** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51830)
 
 ## Scoring flags — needs human review
-- Submit Applications for Ukraine Agricultural Support Program
-- Apply for Grant Assistance for Grass-roots Human Security Projects (Botswana)
-- Volvemos a Valladolid Grant Programme for Returning Professionals (Spain)
-- Cabinet national Étude de faisabilité Volet 3 Évaluation des sites, bâtiment, én
-- Firm to deliver communications, visibility & storytelling
-- GIZ Uganda: Invitation To Tender for Consultancy services to provide Graphic Design, Video Production and Photography
+- PARSER ALERT: impactfunding changed but 0 items parsed — review manually
+- PRC0198443- RECRUTEMENT CABINET/ OSC ANALYSE DEPENDANCE COMMUNAUTE -ECOYSTEME
+- PRC019844- RECRUTEMENT CABINET / OSC -EVALUATION HYPOXIE- POLLUTION MARINE
+- National Events Management Firm for the Greater Luwero Investment Forum and Expo
+- Recruitment of a National Firm to Conduct End of Programme Evaluation - Spotligh
+- Recrutement cabinet pour mise en place d'une plateforme digitale des OSC

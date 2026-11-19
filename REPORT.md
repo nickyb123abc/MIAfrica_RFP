@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-18 · 540 open of 607 logged_
+_Updated 2026-11-19 · 541 open of 608 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -543,3 +543,4 @@ _Updated 2026-11-18 · 540 open of 607 logged_
 | rolling | — | [National Events Management Firm for the Greater Luwero Investment Forum and Expo](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51821) | UNDP notices |
 | rolling | — | [Recruitment of a National Firm to Conduct End of Programme Evaluation - Spotligh](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51825) | UNDP notices |
 | rolling | — | [Recrutement cabinet pour mise en place d'une plateforme digitale des OSC](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51830) | UNDP notices |
+| rolling | — | [Enterprise Mobilisation, Foundational Capacity Building & Accompaniment -Tier1&2](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51917) | UNDP notices |

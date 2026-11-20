@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-19 · 541 open of 608 logged_
+_Updated 2026-11-20 · 556 open of 623 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -10,6 +10,7 @@ _Updated 2026-11-19 · 541 open of 608 logged_
 | 2026-12-31 | — | [SLA BoostHer Program for Young Nigerian Women Entrepreneurs](https://www2.fundsforngos.org/individuals/sla-boosther-program-for-young-nigerian-women-entrepreneurs/) | fundsforNGOs |
 | 2026-12-31 | — | [Jasiri Talent Investor Cohort 9 for Food Systems Entrepreneurs](https://www2.fundsforngos.org/individuals/jasiri-talent-investor-cohort-9-for-food-systems-entrepreneurs/) | fundsforNGOs |
 | 2027-03-31 | 53.8 | [Pandemic prevention, preparedness & response](https://tinyurl.com/yr9hhy5b) | @AfricanNGOs Jun-Jul roundup |
+| 2027-04-30 | — | [Xiamen University — Scholarships for International Students](https://www.terravivagrants.org/xiamen-university-scholarships-for-international-students/) | Terra Viva Grants |
 | rolling | 55.2 | [TA to strengthen Central Bank of Somalia bank supervision & AML foundations](n/a) | Devex |
 | rolling | 63.2 | [A&R Fund — adaptation finance RFP](climateworks.org) | climateworks.org |
 | rolling | 53.5 | [Humanity AI pooled fund — first calls](rockpa.org) | via Rockefeller Phil. Advisors |
@@ -544,3 +545,17 @@ _Updated 2026-11-19 · 541 open of 608 logged_
 | rolling | — | [Recruitment of a National Firm to Conduct End of Programme Evaluation - Spotligh](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51825) | UNDP notices |
 | rolling | — | [Recrutement cabinet pour mise en place d'une plateforme digitale des OSC](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51830) | UNDP notices |
 | rolling | — | [Enterprise Mobilisation, Foundational Capacity Building & Accompaniment -Tier1&2](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51917) | UNDP notices |
+| rolling | — | [Asia-Pacific Network for Global Change Research — Proposal Development Training Workshop for South A](https://www.terravivagrants.org/proposal-development-training-workshop/) | Terra Viva Grants |
+| rolling | — | [Alexander von Humboldt Foundation — Oceanic Horizons Program](https://www.terravivagrants.org/oceanic-horizons-program/) | Terra Viva Grants |
+| rolling | — | [SparkUp Initiative — Fundraising Workshop](https://www.terravivagrants.org/fundraising-workshop/) | Terra Viva Grants |
+| rolling | — | [Embassy of Japan in Trinidad and Tobago — Grants for Grassroots Projects](https://www.terravivagrants.org/japan-grants-for-grassroots-projects-caribbean/) | Terra Viva Grants |
+| rolling | — | [United Nations University — MSc in Sustainability Science 2027](https://www.terravivagrants.org/msc-in-sustainability-science/) | Terra Viva Grants |
+| rolling | — | [CapitaLand — Sustainability X Challenge](https://www.terravivagrants.org/capitaland-sustainability-x-challenge/) | Terra Viva Grants |
+| rolling | — | [World Academy of Sciences — TWAS/UNESCO PhD Scholarship](https://www.terravivagrants.org/twas-unesco-phd-scholarship/) | Terra Viva Grants |
+| rolling | — | [Council for the Advancement of Science Writing — Science Reporting Award](https://www.terravivagrants.org/science-reporting-award/) | Terra Viva Grants |
+| rolling | — | [TED-Ed — Earth School](https://www.terravivagrants.org/ted-ed-earth-school/) | Terra Viva Grants |
+| rolling | — | [Submissions Open for Grant Writing and Resource Mobilisation Consultancy (Kenya)](https://www2.fundsforngos.org/individuals/submissions-open-for-grant-writing-and-resource-mobilisation-consultancy-kenya/) | fundsforNGOs |
+| rolling | — | [Apply now for GEF Small Grants Programme Eighth Operational Phase in Ethiopia](https://www2.fundsforngos.org/innovation/apply-now-for-gef-small-grants-programme-eighth-operational-phase-in-ethiopia/) | fundsforNGOs |
+| rolling | — | [CRECO Kenya Digital Democracy Fellowship Program](https://www2.fundsforngos.org/individuals/creco-kenya-digital-democracy-fellowship-program/) | fundsforNGOs |
+| rolling | — | [RFP -FIRM FOR AGRICULTURE DIGITAL PUBLIC INFRASTRUCTURE (DPI)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51930) | UNDP notices |
+| rolling | — | [Consultancy Firm for The Provision of Cafeteria Services to the United Nations i](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51928) | UNDP notices |

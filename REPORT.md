@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-22 · 556 open of 623 logged_
+_Updated 2026-11-23 · 558 open of 625 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -559,3 +559,5 @@ _Updated 2026-11-22 · 556 open of 623 logged_
 | rolling | — | [CRECO Kenya Digital Democracy Fellowship Program](https://www2.fundsforngos.org/individuals/creco-kenya-digital-democracy-fellowship-program/) | fundsforNGOs |
 | rolling | — | [RFP -FIRM FOR AGRICULTURE DIGITAL PUBLIC INFRASTRUCTURE (DPI)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51930) | UNDP notices |
 | rolling | — | [Consultancy Firm for The Provision of Cafeteria Services to the United Nations i](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51928) | UNDP notices |
+| rolling | — | [Apply for Grant Assistance for Grass-Roots Human Security Projects (Mozambique)](https://www2.fundsforngos.org/fellowships/apply-for-grant-assistance-for-grass-roots-human-security-projects-mozambique/) | fundsforNGOs |
+| rolling | — | [Computable General Equilibrium (CGE) Modeling Training Workshop Dates: 12th – 18](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52007) | UNDP notices |

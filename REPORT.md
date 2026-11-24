@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-23 · 558 open of 625 logged_
+_Updated 2026-11-24 · 561 open of 628 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -561,3 +561,6 @@ _Updated 2026-11-23 · 558 open of 625 logged_
 | rolling | — | [Consultancy Firm for The Provision of Cafeteria Services to the United Nations i](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51928) | UNDP notices |
 | rolling | — | [Apply for Grant Assistance for Grass-Roots Human Security Projects (Mozambique)](https://www2.fundsforngos.org/fellowships/apply-for-grant-assistance-for-grass-roots-human-security-projects-mozambique/) | fundsforNGOs |
 | rolling | — | [Computable General Equilibrium (CGE) Modeling Training Workshop Dates: 12th – 18](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52007) | UNDP notices |
+| rolling | — | [An International Donor Funds Work in Your District. Who Can You Actually Apply To?](https://www2.fundsforngos.org/articles-searching-grants-and-donors/an-international-donor-funds-work-in-your-district-who-can-you-actually-apply-to/) | fundsforNGOs |
+| rolling | — | [Grants for Museums and Collections of Modern Culture (Greece)](https://www2.fundsforngos.org/individuals/grants-for-museums-and-collections-of-modern-culture-greece/) | fundsforNGOs |
+| rolling | — | [Consulting Firm for NDC and LT-LEDS Pipeline Development](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52038) | UNDP notices |

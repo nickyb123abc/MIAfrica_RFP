@@ -1,8 +1,10 @@
-## 2 new opportunity item(s) — 2026-11-23
+## 3 new opportunity item(s) — 2026-11-24
 
-- **Apply for Grant Assistance for Grass-Roots Human Security Projects (Mozambique)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/fellowships/apply-for-grant-assistance-for-grass-roots-human-security-projects-mozambique/)
-- **Computable General Equilibrium (CGE) Modeling Training Workshop Dates: 12th – 18** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52007)
+- **An International Donor Funds Work in Your District. Who Can You Actually Apply To?** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/an-international-donor-funds-work-in-your-district-who-can-you-actually-apply-to/)
+- **Grants for Museums and Collections of Modern Culture (Greece)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/individuals/grants-for-museums-and-collections-of-modern-culture-greece/)
+- **Consulting Firm for NDC and LT-LEDS Pipeline Development** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52038)
 
 ## Scoring flags — needs human review
-- Apply for Grant Assistance for Grass-Roots Human Security Projects (Mozambique)
-- Computable General Equilibrium (CGE) Modeling Training Workshop Dates: 12th – 18
+- An International Donor Funds Work in Your District. Who Can You Actually Apply To?
+- Grants for Museums and Collections of Modern Culture (Greece)
+- Consulting Firm for NDC and LT-LEDS Pipeline Development

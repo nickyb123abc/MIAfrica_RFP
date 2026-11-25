@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-24 · 561 open of 628 logged_
+_Updated 2026-11-25 · 577 open of 644 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -564,3 +564,19 @@ _Updated 2026-11-24 · 561 open of 628 logged_
 | rolling | — | [An International Donor Funds Work in Your District. Who Can You Actually Apply To?](https://www2.fundsforngos.org/articles-searching-grants-and-donors/an-international-donor-funds-work-in-your-district-who-can-you-actually-apply-to/) | fundsforNGOs |
 | rolling | — | [Grants for Museums and Collections of Modern Culture (Greece)](https://www2.fundsforngos.org/individuals/grants-for-museums-and-collections-of-modern-culture-greece/) | fundsforNGOs |
 | rolling | — | [Consulting Firm for NDC and LT-LEDS Pipeline Development](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52038) | UNDP notices |
+| rolling | — | [Which Funders Back Community Advice Offices? 5 Grantmakers for South African Rights Organisations](https://www2.fundsforngos.org/articles-searching-grants-and-donors/which-funders-back-community-advice-offices-5-grantmakers-for-south-african-rights-organisations/) | fundsforNGOs |
+| rolling | — | [How Much Should a Nigerian NGO Request? 5 Donors’ Grants to First-Time Recipients Compared](https://www2.fundsforngos.org/articles-searching-grants-and-donors/how-much-should-a-nigerian-ngo-request-5-donors-grants-to-first-time-recipients-compared/) | fundsforNGOs |
+| rolling | — | [How to Use Parish-Level Evidence to Make a Stronger Case for Funding in Uganda](https://www2.fundsforngos.org/articles-searching-grants-and-donors/how-to-use-parish-level-evidence-to-make-a-stronger-case-for-funding-in-uganda/) | fundsforNGOs |
+| rolling | — | [How to Use Your County’s Integrated Development Plan to Strengthen a Grant Proposal](https://www2.fundsforngos.org/articles-searching-grants-and-donors/how-to-use-your-countys-integrated-development-plan-to-strengthen-a-grant-proposal/) | fundsforNGOs |
+| rolling | — | [An International NGO Wins a Grant for Nigeria. How Can Local Organisations Find the Subgrant Opportu](https://www2.fundsforngos.org/articles-searching-grants-and-donors/an-international-ngo-wins-a-grant-for-nigeria-how-can-local-organisations-find-the-subgrant-opportunities/) | fundsforNGOs |
+| rolling | — | [6 Donors for South African NPOs Providing Legal and Counselling Support to Survivors of Gender-Based](https://www2.fundsforngos.org/articles-searching-grants-and-donors/6-donors-for-south-african-npos-providing-legal-and-counselling-support-to-survivors-of-gender-based-violence/) | fundsforNGOs |
+| rolling | — | [Where Can South African NGOs Find Provincial Funding Calls for Social Welfare Services?](https://www2.fundsforngos.org/articles-searching-grants-and-donors/where-can-south-african-ngos-find-provincial-funding-calls-for-social-welfare-services/) | fundsforNGOs |
+| rolling | — | [What Can a New Ugandan NGO Show a Donor Before Its First Audit?](https://www2.fundsforngos.org/articles-searching-grants-and-donors/what-can-a-new-ugandan-ngo-show-a-donor-before-its-first-audit/) | fundsforNGOs |
+| rolling | — | [What Do Past Grants From Kenyan Corporate Foundations Reveal About the Projects They Back?](https://www2.fundsforngos.org/cat/what-do-past-grants-from-kenyan-corporate-foundations-reveal-about-the-projects-they-back/) | fundsforNGOs |
+| rolling | — | [Which Corporate Foundations Fund NGO Projects Outside Lagos and Abuja?](https://www2.fundsforngos.org/articles-searching-grants-and-donors/which-corporate-foundations-fund-ngo-projects-outside-lagos-and-abuja/) | fundsforNGOs |
+| rolling | — | [Who Funds Environmental Recovery in Nigeria’s Niger Delta? 5 Donors to Explore](https://www2.fundsforngos.org/articles-searching-grants-and-donors/who-funds-environmental-recovery-in-nigerias-niger-delta-5-donors-to-explore/) | fundsforNGOs |
+| rolling | — | [Can a South African Community Group Apply for a Grant Through a Registered Nonprofit?](https://www2.fundsforngos.org/articles-searching-grants-and-donors/can-a-south-african-community-group-apply-for-a-grant-through-a-registered-nonprofit/) | fundsforNGOs |
+| rolling | — | [Call for Project Proposals for the Selection of an NGO](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52097) | UNDP notices |
+| rolling | — | [RFP Judicial Police Integrated Information System(JP-IIS)](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52101) | UNDP notices |
+| rolling | — | [Development of SHEA Action Plans for Security Institutions in The Gambia](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52102) | UNDP notices |
+| rolling | — | [CFP-016/26: Call for proposals for the Global Plastics Innovation Program.](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52060) | UNDP notices |

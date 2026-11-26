@@ -1,36 +1,28 @@
-## 16 new opportunity item(s) — 2026-11-25
+## 12 new opportunity item(s) — 2026-11-26
 
-- **Which Funders Back Community Advice Offices? 5 Grantmakers for South African Rights Organisations** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/which-funders-back-community-advice-offices-5-grantmakers-for-south-african-rights-organisations/)
-- **How Much Should a Nigerian NGO Request? 5 Donors’ Grants to First-Time Recipients Compared** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/how-much-should-a-nigerian-ngo-request-5-donors-grants-to-first-time-recipients-compared/)
-- **How to Use Parish-Level Evidence to Make a Stronger Case for Funding in Uganda** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/how-to-use-parish-level-evidence-to-make-a-stronger-case-for-funding-in-uganda/)
-- **How to Use Your County’s Integrated Development Plan to Strengthen a Grant Proposal** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/how-to-use-your-countys-integrated-development-plan-to-strengthen-a-grant-proposal/)
-- **An International NGO Wins a Grant for Nigeria. How Can Local Organisations Find the Subgrant Opportunities?** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/an-international-ngo-wins-a-grant-for-nigeria-how-can-local-organisations-find-the-subgrant-opportunities/)
-- **6 Donors for South African NPOs Providing Legal and Counselling Support to Survivors of Gender-Based Violence** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/6-donors-for-south-african-npos-providing-legal-and-counselling-support-to-survivors-of-gender-based-violence/)
-- **Where Can South African NGOs Find Provincial Funding Calls for Social Welfare Services?** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/where-can-south-african-ngos-find-provincial-funding-calls-for-social-welfare-services/)
-- **What Can a New Ugandan NGO Show a Donor Before Its First Audit?** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/what-can-a-new-ugandan-ngo-show-a-donor-before-its-first-audit/)
-- **What Do Past Grants From Kenyan Corporate Foundations Reveal About the Projects They Back?** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/cat/what-do-past-grants-from-kenyan-corporate-foundations-reveal-about-the-projects-they-back/)
-- **Which Corporate Foundations Fund NGO Projects Outside Lagos and Abuja?** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/which-corporate-foundations-fund-ngo-projects-outside-lagos-and-abuja/)
-- **Who Funds Environmental Recovery in Nigeria’s Niger Delta? 5 Donors to Explore** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/who-funds-environmental-recovery-in-nigerias-niger-delta-5-donors-to-explore/)
-- **Can a South African Community Group Apply for a Grant Through a Registered Nonprofit?** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/can-a-south-african-community-group-apply-for-a-grant-through-a-registered-nonprofit/)
-- **Call for Project Proposals for the Selection of an NGO** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52097)
-- **RFP Judicial Police Integrated Information System(JP-IIS)** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52101)
-- **Development of SHEA Action Plans for Security Institutions in The Gambia** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52102)
-- **CFP-016/26: Call for proposals for the Global Plastics Innovation Program.** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52060)
+- **5 Funding Routes for Ghanaian NGOs Working With Cocoa-Growing Communities** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/5-funding-routes-for-ghanaian-ngos-working-with-cocoa-growing-communities/)
+- **5 Donors Zimbabwean Arts Organisations Can Research for Community Theatre Projects** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/5-donors-zimbabwean-arts-organisations-can-research-for-community-theatre-projects/)
+- **6 Nigerian Grantmakers to Research for Community Projects Outside Lagos and Abuja** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/6-nigerian-grantmakers-to-research-for-community-projects-outside-lagos-and-abuja/)
+- **5 Rapid-Response Funds African Civil Society Groups Can Approach in a Crisis** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/5-rapid-response-funds-african-civil-society-groups-can-approach-in-a-crisis/)
+- **5 Funders to Research for Girls’ Secondary Education in Malawi** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/5-funders-to-research-for-girls-secondary-education-in-malawi/)
+- **Scaling Innovative Tech and Digital Startups in Kenya** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/fellowships/scaling-innovative-tech-and-digital-startups-in-kenya/)
+- **Request for Proposals: Acquisition Grant Programme (UK)** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/fellowships/request-for-proposals-acquisition-grant-programme-uk/)
+- **4 Places Zambian NGOs Can Seek Funding for Clean Water in the Copperbelt** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/articles-searching-grants-and-donors/4-places-zambian-ngos-can-seek-funding-for-clean-water-in-the-copperbelt/)
+- **Apply for Climate Action and Youth Resilience Grants Programme** (; deadline —) [fundsforNGOs](https://www2.fundsforngos.org/fellowships/apply-for-climate-action-and-youth-resilience-grants-programme/)
+- **Consultancy Firm to Strengthen the Disability Inclusion Institutional Ecosystem** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52121)
+- **RFP - Consultancy Firm for National MRV Assessment and Digital MRV System Design** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52141)
+- **RFP - Consultancy Firm for National Carbon Registry Assessment and System Design** (UNDP; deadline —) [UNDP notices](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52123)
 
 ## Scoring flags — needs human review
-- Which Funders Back Community Advice Offices? 5 Grantmakers for South African Rights Organisations
-- How Much Should a Nigerian NGO Request? 5 Donors’ Grants to First-Time Recipients Compared
-- How to Use Parish-Level Evidence to Make a Stronger Case for Funding in Uganda
-- How to Use Your County’s Integrated Development Plan to Strengthen a Grant Proposal
-- An International NGO Wins a Grant for Nigeria. How Can Local Organisations Find the Subgrant Opportunities?
-- 6 Donors for South African NPOs Providing Legal and Counselling Support to Survivors of Gender-Based Violence
-- Where Can South African NGOs Find Provincial Funding Calls for Social Welfare Services?
-- What Can a New Ugandan NGO Show a Donor Before Its First Audit?
-- What Do Past Grants From Kenyan Corporate Foundations Reveal About the Projects They Back?
-- Which Corporate Foundations Fund NGO Projects Outside Lagos and Abuja?
-- Who Funds Environmental Recovery in Nigeria’s Niger Delta? 5 Donors to Explore
-- Can a South African Community Group Apply for a Grant Through a Registered Nonprofit?
-- Call for Project Proposals for the Selection of an NGO
-- RFP Judicial Police Integrated Information System(JP-IIS)
-- Development of SHEA Action Plans for Security Institutions in The Gambia
-- CFP-016/26: Call for proposals for the Global Plastics Innovation Program.
+- 5 Funding Routes for Ghanaian NGOs Working With Cocoa-Growing Communities
+- 5 Donors Zimbabwean Arts Organisations Can Research for Community Theatre Projects
+- 6 Nigerian Grantmakers to Research for Community Projects Outside Lagos and Abuja
+- 5 Rapid-Response Funds African Civil Society Groups Can Approach in a Crisis
+- 5 Funders to Research for Girls’ Secondary Education in Malawi
+- Scaling Innovative Tech and Digital Startups in Kenya
+- Request for Proposals: Acquisition Grant Programme (UK)
+- 4 Places Zambian NGOs Can Seek Funding for Clean Water in the Copperbelt
+- Apply for Climate Action and Youth Resilience Grants Programme
+- Consultancy Firm to Strengthen the Disability Inclusion Institutional Ecosystem
+- RFP - Consultancy Firm for National MRV Assessment and Digital MRV System Design
+- RFP - Consultancy Firm for National Carbon Registry Assessment and System Design

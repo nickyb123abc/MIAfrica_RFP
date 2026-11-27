@@ -1,5 +1,5 @@
 # Opportunity screener — open items
-_Updated 2026-11-26 · 589 open of 656 logged_
+_Updated 2026-11-27 · 597 open of 664 logged_
 
 | Deadline | Fit | Title | Source |
 |---|---|---|---|
@@ -592,3 +592,11 @@ _Updated 2026-11-26 · 589 open of 656 logged_
 | rolling | — | [Consultancy Firm to Strengthen the Disability Inclusion Institutional Ecosystem](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52121) | UNDP notices |
 | rolling | — | [RFP - Consultancy Firm for National MRV Assessment and Digital MRV System Design](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52141) | UNDP notices |
 | rolling | — | [RFP - Consultancy Firm for National Carbon Registry Assessment and System Design](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52123) | UNDP notices |
+| rolling | — | [4 Funding Routes for African NGOs Supporting Older People and Family Carers](https://www2.fundsforngos.org/articles-searching-grants-and-donors/4-funding-routes-for-african-ngos-supporting-older-people-and-family-carers/) | fundsforNGOs |
+| rolling | — | [6 Donors to Research If Your African Youth Organisation Has Never Managed a Grant](https://www2.fundsforngos.org/articles-searching-grants-and-donors/6-donors-to-research-if-your-african-youth-organisation-has-never-managed-a-grant/) | fundsforNGOs |
+| rolling | — | [Who Pays for the Night Shift? 5 Funding Sources for African Women’s Shelters](https://www2.fundsforngos.org/articles-searching-grants-and-donors/who-pays-for-the-night-shift-5-funding-sources-for-african-womens-shelters/) | fundsforNGOs |
+| rolling | — | [6 Funding Sources for Home-Language Books and Early Reading Programmes in Africa](https://www2.fundsforngos.org/articles-searching-grants-and-donors/6-funding-sources-for-home-language-books-and-early-reading-programmes-in-africa/) | fundsforNGOs |
+| rolling | — | [Institutional Capacity & Business Development Services](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52164) | UNDP notices |
+| rolling | — | [Consultancy to Develop and Produce an Accessible Multimedia Advocacy Campaign](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52166) | UNDP notices |
+| rolling | — | [Recruitment of Higher Education Institution](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52151) | UNDP notices |
+| rolling | — | [RECRUTEMENT D’UN CABINET D’ARCHITECTURE OU DE GENIE CIVIL POUR L’EVALUATION TECH](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52156) | UNDP notices |
